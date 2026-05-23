@@ -1,0 +1,51 @@
+name: Poster Instagram
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"  # toutes les 15 minutes
+  workflow_dispatch:         # pour déclencher manuellement si besoin
+
+jobs:
+  post_instagram:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write   # pour créer une issue GitHub en cas d'échec
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Process Instagram Payloads
+        id: publish
+        env:
+
+
+        run: |
+          echo "[REFRESH] Lancement du script de publication Instagram..."
+          python scripts/process_payloads.py
+
+      - name: Notify on failure
+        if: failure() && steps.publish.outcome == 'failure'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const now = new Date().toLocaleString('fr-CH', {timeZone: 'Europe/Zurich'});
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo:  context.repo.repo,
+              title: `⚠️ Publication Instagram échouée — ${now}`,
+              body:  `Des erreurs ont été détectées lors de la publication automatique.\n\n` +
+                     `👉 [Voir les logs](${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId})`,
+              labels: []
+            });
