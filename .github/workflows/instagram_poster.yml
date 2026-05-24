@@ -28,9 +28,6 @@ jobs:
 
       - name: Process Instagram Payloads
         id: publish
-        env:
-
-
         run: |
           echo "[REFRESH] Lancement du script de publication Instagram..."
           python scripts/process_payloads.py
