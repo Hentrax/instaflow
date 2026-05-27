@@ -1,6 +1,6 @@
 # 📊 Dashboard de Publication
 
-## ❌ Erreurs du dernier run (27/05/2026 14:43:55)
+## ❌ Erreurs du dernier run (27/05/2026 14:48:49)
 
 - `meowgineeredai: Erreur Instagram Feed f5b4d5f4-1939-4bd3-9a75-bb440a5631cb -> 400 Client Error: Bad Request for url: https://graph.facebook.com/v25.0/17841477231876389/media`
 
