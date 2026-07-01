@@ -1,11 +1,11 @@
 # 📊 Dashboard de Publication
 
-✅ **Dernier run sans erreur** — 01/07/2026 04:57:07
+✅ **Dernier run sans erreur** — 01/07/2026 08:56:16
 
-📦 **Total publiés historiquement :** 105
+📦 **Total publiés historiquement :** 106
 
 ### 📱 État des comptes
 | Compte | Posts en attente | Prochaine publication | Fin de programmation | Aperçu prochain |
 | :--- | :---: | :--- | :--- | :---: |
-| IA_ACTUS | **10** | 01/07 08:00 | 05/07 18:00 | 🎬 |
+| IA_ACTUS | **9** | 01/07 18:00 | 05/07 18:00 | 🎬 |
 | MEOWGINEEREDAI | **59** | 01/07 13:00 | 27/08 13:00 | 🎬 |
