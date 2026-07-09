@@ -1,6 +1,8 @@
 # 📊 Dashboard de Publication
 
-✅ **Dernier run sans erreur** — 09/07/2026 13:38:17
+## ❌ Erreurs du dernier run (09/07/2026 16:18:02)
+
+- `ia_actus: Erreur Instagram Feed 624167b2-8970-446a-b20a-a0ca8629a98b -> Erreur publication Reel Instagram (code 400) : {'error': {'message': 'Fatal', 'type': 'OAuthException', 'code': -1, 'error_subcode': 2207077, 'is_transient': False, 'error_user_title': 'Erreur de serveur interne', 'error_user_msg': 'Erreur de serveur interne: An internal server error has occurred. Video download failed with: HTTP error code 500. Fwdproxy failed to fetch headers', 'fbtrace_id': 'A7oFDaGKEu8A0qlOw7IJm7R'}}`
 
 📦 **Total publiés historiquement :** 132
 
