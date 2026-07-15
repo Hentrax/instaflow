@@ -1,6 +1,6 @@
 # 📊 Dashboard de Publication
 
-## ❌ Erreurs du dernier run (15/07/2026 00:11:04)
+## ❌ Erreurs du dernier run (15/07/2026 03:39:38)
 
 - `ia_actus: Erreur Instagram Feed a89e2c69-ef89-4f08-970b-c325d035b788 -> 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v25.0/17841437646376379/media`
 
