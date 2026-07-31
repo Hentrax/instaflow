@@ -1,8 +1,6 @@
 # 📊 Dashboard de Publication
 
-## ❌ Erreurs du dernier run (31/07/2026 12:29:48)
-
-- `meowgineeredai: Erreur Facebook image 9eef4fb6-676f-4352-ba9c-c93a208e7b0c -> 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v25.0/857480467440048/photos`
+✅ **Dernier run sans erreur** — 31/07/2026 15:04:05
 
 📦 **Total publiés historiquement :** 210
 
