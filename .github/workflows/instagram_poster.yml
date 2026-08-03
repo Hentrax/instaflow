@@ -31,11 +31,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           IA_ACTUS_ACCESS_TOKEN: ${{ secrets.IA_ACTUS_ACCESS_TOKEN }}
+          IA_ACTUS_THREADS_TOKEN: ${{ secrets.IA_ACTUS_THREADS_TOKEN }}
           MEOWGINEEREDAI_ACCESS_TOKEN: ${{ secrets.MEOWGINEEREDAI_ACCESS_TOKEN }}
+          MEOWGINEEREDAI_THREADS_TOKEN: ${{ secrets.MEOWGINEEREDAI_THREADS_TOKEN }}
           IA_ACTUS_FACEBOOK_ID: ${{ vars.IA_ACTUS_FACEBOOK_ID }}
           IA_ACTUS_INSTAGRAM_ID: ${{ vars.IA_ACTUS_INSTAGRAM_ID }}
+          IA_ACTUS_THREADS_ID: ${{ vars.IA_ACTUS_THREADS_ID }}
           MEOWGINEEREDAI_FACEBOOK_ID: ${{ vars.MEOWGINEEREDAI_FACEBOOK_ID }}
           MEOWGINEEREDAI_INSTAGRAM_ID: ${{ vars.MEOWGINEEREDAI_INSTAGRAM_ID }}
+          MEOWGINEEREDAI_THREADS_ID: ${{ vars.MEOWGINEEREDAI_THREADS_ID }}
 
         run: |
           echo "[REFRESH] Lancement du script de publication Instagram..."
