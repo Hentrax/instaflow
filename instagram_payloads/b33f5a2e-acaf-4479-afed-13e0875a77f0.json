@@ -1,1 +1,30 @@
-{"compte": "ia_actus", "pub_id": "b33f5a2e-acaf-4479-afed-13e0875a77f0", "media_type": "CAROUSEL", "children": ["https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_slide_3536_00.mp4", "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_slide_3536_01.jpg", "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_slide_3536_02.jpg", "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_slide_3536_03.jpg", "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_slide_3536_04.jpg"], "caption": "Claude Opus 5 écrase les benchmarks tout en divisant son prix par deux ! 🚀\n\nAnthropic vient de lancer son nouveau modèle phare, Claude Opus 5. Il surpasse les attentes avec des scores records, notamment sur le codage agentique et la recherche complexe. Le plus impressionnant ? Il offre une intelligence de niveau supérieur à moitié prix par rapport au modèle Fable 5, rendant la haute performance plus accessible que jamais. 📊\n\nSource : The Rundown\n\n#Anthropic #ClaudeOpus5 #IntelligenceArtificielle #LLM #MachineLearning #IA #TechNews #InnovationIA #CodingAI #DeepLearning", "next_time": 1785736800, "storage": "release", "fb_children": ["https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_slide_3536_00.jpg", "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_slide_3536_01.jpg", "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_slide_3536_02.jpg", "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_slide_3536_03.jpg", "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_slide_3536_04.jpg"], "story_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_story_3536.mp4"}
+{
+  "compte": "ia_actus",
+  "pub_id": "b33f5a2e-acaf-4479-afed-13e0875a77f0",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_slide_3536_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_slide_3536_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_slide_3536_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_slide_3536_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_slide_3536_04.jpg"
+  ],
+  "caption": "Claude Opus 5 écrase les benchmarks tout en divisant son prix par deux ! 🚀\n\nAnthropic vient de lancer son nouveau modèle phare, Claude Opus 5. Il surpasse les attentes avec des scores records, notamment sur le codage agentique et la recherche complexe. Le plus impressionnant ? Il offre une intelligence de niveau supérieur à moitié prix par rapport au modèle Fable 5, rendant la haute performance plus accessible que jamais. 📊\n\nSource : The Rundown\n\n#Anthropic #ClaudeOpus5 #IntelligenceArtificielle #LLM #MachineLearning #IA #TechNews #InnovationIA #CodingAI #DeepLearning",
+  "next_time": 1785736800,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_slide_3536_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_slide_3536_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_slide_3536_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_slide_3536_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_slide_3536_04.jpg"
+  ],
+  "story_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_story_3536.mp4",
+  "done": {
+    "instagram": true,
+    "facebook": true
+  },
+  "attempts": {
+    "threads": 1
+  }
+}

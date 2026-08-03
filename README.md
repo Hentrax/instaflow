@@ -1,6 +1,8 @@
 # 📊 Dashboard de Publication
 
-✅ **Dernier run sans erreur** — 03/08/2026 04:07:48
+## ❌ Erreurs du dernier run (03/08/2026 07:52:01)
+
+- `ia_actus: Erreur Threads b33f5a2e-acaf-4479-afed-13e0875a77f0 -> 400 Client Error: Bad Request for url: https://graph.threads.net/v1.0/37284639004518098/threads`
 
 📦 **Total publiés historiquement :** 217
 
