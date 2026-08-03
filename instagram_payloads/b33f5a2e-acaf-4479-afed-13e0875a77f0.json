@@ -22,9 +22,10 @@
   "story_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b33f5a2e_story_3536.mp4",
   "done": {
     "instagram": true,
-    "facebook": true
+    "facebook": true,
+    "instagram_story": true
   },
   "attempts": {
-    "threads": 1
+    "threads": 2
   }
 }
