@@ -1,12 +1,12 @@
 # 📊 Dashboard de Publication
 
-✅ **Dernier run sans erreur** — 12/08/2026 09:17:19
+✅ **Dernier run sans erreur** — 12/08/2026 10:36:12
 
 📦 **Total publiés historiquement :** 246
 
 ### 📱 État des comptes
 | Compte | Posts en attente | Prochaine publication | Fin de programmation | Autonomie | Aperçu |
 | :--- | :---: | :--- | :--- | :---: | :---: |
-| IA_ACTUS | **15** | 12/08 18:00 | 19/08 18:00 | 7.3 j | 🎬 |
-| MEOWGINEEREDAI | **20** | 12/08 13:00 | 31/08 13:00 | 19.1 j | 🎬 |
+| IA_ACTUS | **15** | 12/08 18:00 | 19/08 18:00 | 7.2 j | 🎬 |
+| MEOWGINEEREDAI | **20** | 12/08 13:00 | 31/08 13:00 | 19.0 j | 🎬 |
 
