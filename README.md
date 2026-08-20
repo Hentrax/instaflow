@@ -1,16 +1,16 @@
 # 📊 Dashboard de Publication
 
-✅ **Dernier run sans erreur** — 20/08/2026 06:09:07
+✅ **Dernier run sans erreur** — 20/08/2026 07:07:45
 
 📦 **Total publiés historiquement :** 271
 
 ### 📱 État des comptes
 | Compte | Posts en attente | Prochaine publication | Fin de programmation | Autonomie | Aperçu |
 | :--- | :---: | :--- | :--- | :---: | :---: |
-| ENDERLE_NAC | **1** | 20/08 12:00 | 20/08 12:00 | ⚠️ **0.2 j** | 🎬 |
+| ENDERLE_NAC | **1** | 20/08 12:00 | 20/08 12:00 | ⚠️ **0.1 j** | 🎬 |
 | IA_ACTUS | **17** | 20/08 18:00 | 26/08 08:00 | 6.0 j | <img src='https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_f4997b38_slide_4180_01.jpg' width='50'> |
-| MEOWGINEEREDAI | **24** | 20/08 13:00 | 12/09 19:00 | 23.5 j | 🎬 |
+| MEOWGINEEREDAI | **24** | 20/08 13:00 | 12/09 19:00 | 23.4 j | 🎬 |
 | MINIATURE | **12** | 21/08 21:00 | 02/09 20:00 | 13.5 j | 🎬 |
 
-> ⚠️ **File bientôt vide** (moins de 3 jours de programmation) : **ENDERLE_NAC** (0.2 j) — pensez à générer de nouveaux posts.
+> ⚠️ **File bientôt vide** (moins de 3 jours de programmation) : **ENDERLE_NAC** (0.1 j) — pensez à générer de nouveaux posts.
 
