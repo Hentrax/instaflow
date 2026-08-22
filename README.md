@@ -1,6 +1,6 @@
 # 📊 Dashboard de Publication
 
-✅ **Dernier run sans erreur** — 22/08/2026 09:05:45
+✅ **Dernier run sans erreur** — 22/08/2026 09:44:07
 
 📦 **Total publiés historiquement :** 280
 
@@ -9,9 +9,9 @@
 | :--- | :---: | :--- | :--- | :---: | :---: |
 | CYBERPUNK_STORY | **3** | 22/08 14:00 | 24/08 12:00 | ⚠️ **2.0 j** | 🎬 |
 | ENDERLE_NAC | **2** | 22/08 21:18 | 23/08 21:18 | ⚠️ **1.4 j** | 🎬 |
-| IA_ACTUS | **18** | 22/08 13:00 | 28/08 08:00 | 5.9 j | 🎬 |
+| IA_ACTUS | **18** | 22/08 13:00 | 28/08 08:00 | 5.8 j | 🎬 |
 | MEOWGINEEREDAI | **22** | 22/08 13:00 | 12/09 19:00 | 21.3 j | 🎬 |
-| MINIATURE | **16** | 22/08 22:00 | 07/09 15:00 | 16.2 j | 🎬 |
+| MINIATURE | **16** | 22/08 22:00 | 07/09 15:00 | 16.1 j | 🎬 |
 
 > ⚠️ **File bientôt vide** (moins de 3 jours de programmation) : **CYBERPUNK_STORY** (2.0 j), **ENDERLE_NAC** (1.4 j) — pensez à générer de nouveaux posts.
 
