@@ -1,10 +1,6 @@
 # 📊 Dashboard de Publication
 
-✅ **Dernier run sans erreur** — 22/08/2026 11:08:23
-
-## ⚠️ Avertissements (best effort, non bloquants)
-
-- `ia_actus: Story Instagram 550fa106-5f60-428a-93ab-6f5af0a60359 -> Erreur publication Story vidéo (code 400) : {'error': {'message': 'Fatal', 'type': 'OAuthException', 'code': -1, 'error_subcode': 2207077, 'is_transient': False, 'error_user_title': 'Erreur de serveur interne', 'error_user_msg': 'Erreur de serveur interne: An internal server error has occurred. Video download failed with: HTTP error code 500. Fwdproxy failed to fetch headers', 'fbtrace_id': 'AsURw7yCCtxyqY1CLJDuzKB'}}`
+✅ **Dernier run sans erreur** — 22/08/2026 11:36:37
 
 📦 **Total publiés historiquement :** 282
 
