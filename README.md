@@ -1,6 +1,6 @@
 # 📊 Dashboard de Publication
 
-✅ **Dernier run sans erreur** — 23/08/2026 04:02:33
+✅ **Dernier run sans erreur** — 23/08/2026 04:53:02
 
 📦 **Total publiés historiquement :** 286
 
@@ -9,7 +9,7 @@
 | :--- | :---: | :--- | :--- | :---: | :---: |
 | CYBERPUNK_STORY | **3** | 23/08 13:00 | 25/08 11:00 | ⚠️ **2.2 j** | 🎬 |
 | ENDERLE_NAC | **1** | 23/08 21:18 | 23/08 21:18 | ⚠️ **0.6 j** | 🎬 |
-| IA_ACTUS | **16** | 23/08 08:00 | 28/08 08:00 | 5.1 j | <img src='https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_2aefcb0d_slide_4209_01.jpg' width='50'> |
+| IA_ACTUS | **16** | 23/08 08:00 | 28/08 08:00 | 5.0 j | <img src='https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_2aefcb0d_slide_4209_01.jpg' width='50'> |
 | MEOWGINEEREDAI | **21** | 23/08 13:00 | 12/09 19:00 | 20.5 j | 🎬 |
 | MINIATURE | **16** | 23/08 23:00 | 08/09 14:00 | 16.3 j | 🎬 |
 
