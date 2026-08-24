@@ -1,6 +1,6 @@
 # 📊 Dashboard de Publication
 
-✅ **Dernier run sans erreur** — 24/08/2026 16:51:59
+✅ **Dernier run sans erreur** — 24/08/2026 17:35:30
 
 📦 **Total publiés historiquement :** 298
 
@@ -10,7 +10,7 @@
 | CYBERPUNK_STORY | **2** | 25/08 11:00 | 26/08 10:00 | ⚠️ **1.6 j** | 🎬 |
 | IA_ACTUS | **16** | 25/08 08:00 | 30/08 08:00 | 5.5 j | 🎬 |
 | MEOWGINEEREDAI | **22** | 25/08 13:00 | 15/09 22:00 | 22.1 j | 🎬 |
-| MINIATURE | **16** | 25/08 12:00 | 09/09 13:00 | 15.8 j | 🎬 |
+| MINIATURE | **16** | 25/08 12:00 | 09/09 13:00 | 15.7 j | 🎬 |
 
 > ⚠️ **File bientôt vide** (moins de 3 jours de programmation) : **CYBERPUNK_STORY** (1.6 j) — pensez à générer de nouveaux posts.
 
