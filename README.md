@@ -1,16 +1,16 @@
 # 📊 Dashboard de Publication
 
-✅ **Dernier run sans erreur** — 08/09/2026 14:50:08
+✅ **Dernier run sans erreur** — 08/09/2026 18:10:41
 
-📦 **Total publiés historiquement :** 387
+📦 **Total publiés historiquement :** 388
 
 ### 📱 État des comptes
 | Compte | Posts en attente | Prochaine publication | Fin de programmation | Autonomie | Aperçu |
 | :--- | :---: | :--- | :--- | :---: | :---: |
-| CYBERPUNK_STORY | **2** | 09/09 16:00 | 10/09 17:00 | ⚠️ **2.0 j** | 🎬 |
-| IA_ACTUS | **17** | 08/09 18:00 | 14/09 08:00 | 5.6 j | 🎬 |
-| MEOWGINEEREDAI | **23** | 09/09 16:00 | 02/10 10:00 | 23.7 j | 🎬 |
-| MINIATURE | **15** | 09/09 13:00 | 23/09 17:00 | 15.0 j | 🎬 |
+| CYBERPUNK_STORY | **3** | 09/09 16:00 | 11/09 18:00 | ⚠️ **2.9 j** | 🎬 |
+| IA_ACTUS | **16** | 09/09 08:00 | 14/09 08:00 | 5.5 j | <img src='https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_f4bb83cf_slide_4685_01.jpg' width='50'> |
+| MEOWGINEEREDAI | **23** | 09/09 16:00 | 02/10 10:00 | 23.6 j | 🎬 |
+| MINIATURE | **15** | 09/09 13:00 | 23/09 17:00 | 14.9 j | 🎬 |
 
-> ⚠️ **File bientôt vide** (moins de 3 jours de programmation) : **CYBERPUNK_STORY** (2.0 j) — pensez à générer de nouveaux posts.
+> ⚠️ **File bientôt vide** (moins de 3 jours de programmation) : **CYBERPUNK_STORY** (2.9 j) — pensez à générer de nouveaux posts.
 
