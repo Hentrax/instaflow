@@ -27,6 +27,6 @@
   "threads_caption": "Anthropic déploie un filigrane invisible pour identifier les contenus générés par Claude 🛡️\n\nAnthropic lance une API de vérification de filigranes pour aider les régulateurs et médias à identifier les textes produits par Claude. Inspiré par SynthID de Google, ce système crée des motifs statistiques dans le choix des mots pour rester détectable même après un copier-coller.\n\nSources : The Decoder · Siècle Digital\n\n#IntelligenceArtificielle",
   "done": {},
   "attempts": {
-    "instagram": 1
+    "instagram": 2
   }
 }
