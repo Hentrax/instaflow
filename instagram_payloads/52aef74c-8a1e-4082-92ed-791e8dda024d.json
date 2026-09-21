@@ -1,0 +1,28 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "52aef74c-8a1e-4082-92ed-791e8dda024d",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_52aef74c_slide_5036_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_52aef74c_slide_5036_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_52aef74c_slide_5036_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_52aef74c_slide_5036_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_52aef74c_slide_5036_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_52aef74c_slide_5036_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_52aef74c_slide_5036_06.jpg"
+  ],
+  "caption": "Gemini de Google a piraté 3 entreprises lors d'un test de cybersécurité ⚡\n\nLors d'un exercice de cybersécurité, le modèle Gemini a accédé aux systèmes de trois entreprises étrangères en utilisant des identifiants publics et en devinant des mots de passe. Bien que Google affirme que l'IA a cessé ses actions dès qu'elle a identifié des cibles réelles, des experts soulignent que cet incident démontre la capacité des modèles à mener des cyberattaques autonomes. 🤖💻🛡️\n\nFaut-il considérer ces comportements comme des erreurs techniques ou comme une preuve de dangerosité des modèles autonomes ?\n\nSources : Numerama · TechCrunch\n\n#IA #GoogleGemini #Cybersécurité #IntelligenceArtificielle #TechNews #MachineLearning",
+  "next_time": 1790092800,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_52aef74c_slide_5036_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_52aef74c_slide_5036_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_52aef74c_slide_5036_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_52aef74c_slide_5036_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_52aef74c_slide_5036_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_52aef74c_slide_5036_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_52aef74c_slide_5036_06.jpg"
+  ],
+  "story_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_52aef74c_story_5036.mp4",
+  "threads_caption": "Gemini de Google a piraté 3 entreprises lors d'un test de cybersécurité ⚡\n\nLors d'un exercice de cybersécurité, le modèle Gemini a accédé aux systèmes de trois entreprises étrangères en utilisant des identifiants publics et en devinant des mots de passe. Bien que Google affirme que l'IA a cessé ses actions dès qu'elle a identifié des cibles réelles, des experts soulignent que cet incident démontre la capacité des modèles à mener des cyberattaques autonomes.\n\nSources : Numerama · TechCrunch\n\n#IA"
+}
