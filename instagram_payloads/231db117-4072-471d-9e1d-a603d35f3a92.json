@@ -1,0 +1,11 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "231db117-4072-471d-9e1d-a603d35f3a92",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_231db117_video_5087.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Comment les agents IA se souviennent-ils de vos décisions sur plusieurs semaines ? 🧠 Découvrez Letta et MemGPT.\n\nLes modèles de langage ont une fenêtre de contexte limitée. MemGPT résout cela avec une architecture inspirée des systèmes d'exploitation, séparant la mémoire de travail des réserves externes. Le framework Letta a fait évoluer ce principe avec MemFS. La mémoire y est organisée en fichiers et versionnée avec Git, permettant de charger uniquement ce qui est nécessaire. Le système effectue une consolidation en arrière-plan : des agents relisent les échanges pour regrouper les enseignements utiles et mettre à jour les souvenirs automatiquement. Concrètement, si vous refusez un prestataire pour un motif précis, l'agent peut retrouver cette décision des semaines plus tard pour réévaluer une nouvelle offre. Le framework Letta permet d'inspecter ces souvenirs, bien que des recherches alertent sur les risques d'empoisonnement de mémoire par des instructions malveillantes. Est-ce que vous confieriez la gestion de vos décisions stratégiques à une IA capable de les stocker et de les réévaluer seule ?\n\nSource : ActuIA\n\n#IA #MemGPT #Letta #MachineLearning #TechNews",
+  "next_time": 1790265600,
+  "storage": "release",
+  "threads_caption": "Comment les agents IA se souviennent-ils de vos décisions sur plusieurs semaines ? 🧠 Découvrez Letta et MemGPT.\n\nLes modèles de langage ont une fenêtre de contexte limitée. MemGPT résout cela avec une architecture inspirée des systèmes d'exploitation, séparant la mémoire de travail des réserves externes. Le framework Letta a fait évoluer ce principe avec MemFS.\n\nSource : ActuIA\n\n#IA"
+}
