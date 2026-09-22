@@ -1,0 +1,28 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "8a0860d1-49b0-45a4-9062-b77e4e90bc40",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8a0860d1_slide_5059_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8a0860d1_slide_5059_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8a0860d1_slide_5059_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8a0860d1_slide_5059_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8a0860d1_slide_5059_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8a0860d1_slide_5059_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8a0860d1_slide_5059_06.jpg"
+  ],
+  "caption": "L'IA permet désormais de tester des millions de combinaisons moléculaires en quelques instants pour créer les composants de demain 🧪\n\nPour soutenir la puissance croissante de l'IA, les centres de données atteignent leurs limites physiques en termes de chaleur et d'efficacité. Syensqo utilise désormais des agents d'IA pour accélérer la découverte de matériaux spécialisés (haute tension, refroidissement par immersion). En s'appuyant sur des technologies issues des véhicules électriques, ce processus permet de passer de millions de combinaisons possibles à une liste prioritaire d'environ 100 molécules pour les tests en laboratoire. Ce cycle vertueux permet de créer des composants plus performants pour une IA plus puissante, qui à son tour accélère la science des matériaux. 🚀\n\nFaut-il privilégier la vitesse de découverte par l'IA au risque de passer à côté d'une solution matérielle parfaite mais plus longue à identifier ?\n\nSources : MIT Technology Review\n\n#IntelligenceArtificielle #ScienceDesMateriaux #DataCenter #Innovation #TechNews #MachineLearning",
+  "next_time": 1790524800,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8a0860d1_slide_5059_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8a0860d1_slide_5059_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8a0860d1_slide_5059_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8a0860d1_slide_5059_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8a0860d1_slide_5059_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8a0860d1_slide_5059_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8a0860d1_slide_5059_06.jpg"
+  ],
+  "story_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8a0860d1_story_5059.mp4",
+  "threads_caption": "L'IA permet désormais de tester des millions de combinaisons moléculaires en quelques instants pour créer les composants de demain 🧪\n\nPour soutenir la puissance croissante de l'IA, les centres de données atteignent leurs limites physiques en termes de chaleur et d'efficacité. Syensqo utilise désormais des agents d'IA pour accélérer la découverte de matériaux spécialisés (haute tension, refroidissement par immersion).\n\nSources : MIT Technology Review\n\n#IntelligenceArtificielle"
+}
