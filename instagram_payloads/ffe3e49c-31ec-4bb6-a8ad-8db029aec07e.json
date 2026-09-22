@@ -1,0 +1,11 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "ffe3e49c-31ec-4bb6-a8ad-8db029aec07e",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ffe3e49c_video_5093.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "DeepSeek-V4.1-Flash réduit son empreinte mémoire à 890 octets par jeton, soit environ le quart de la version précédente. 🚀\n\nCette avancée repose sur la technique CSA2, qui permet de réutiliser le cache d'une couche à l'autre au lieu d'en conserver un jeu par couche. Les données sont stockées en format FP4, un système sur quatre bits qui réduit drastiquement l'espace occupé par chaque valeur conservée. Pour le stockage persistant sur SSD, une méthode appelée SWA Bounded Replay réduit l'empreinte à un huitième de celle du modèle précédent. Cela permet de gérer plus de sessions simultanées sur un même accélérateur. Ou d'allonger le contexte sans changer de matériel, ce qui réduit directement le coût par requête servie. Avec ces optimisations logicielles, penses-tu que les entreprises privilégieront l'ingénierie intelligente pour contourner la hausse du prix de la mémoire physique ?\n\nSource : ActuIA\n\n#DeepSeek #IA #MachineLearning #LLM #TechNews",
+  "next_time": 1790229600,
+  "storage": "release",
+  "threads_caption": "DeepSeek-V4.1-Flash réduit son empreinte mémoire à 890 octets par jeton, soit environ le quart de la version précédente. 🚀\n\nCette avancée repose sur la technique CSA2, qui permet de réutiliser le cache d'une couche à l'autre au lieu d'en conserver un jeu par couche. Les données sont stockées en format FP4, un système sur quatre bits qui réduit drastiquement l'espace occupé par chaque valeur conservée.\n\nSource : ActuIA\n\n#DeepSeek"
+}
