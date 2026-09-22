@@ -1,0 +1,11 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "38099f69-c4d6-403c-a929-420d4df92811",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_38099f69_video_5089.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Jev, le nouveau modèle de TypeSafe AI, promet d'être jusqu'à 193 fois plus rapide que ses concurrents. ⚡\n\nContrairement aux LLM classiques qui génèrent du texte mot par mot, Jev traite les informations en parallèle pour fournir des réponses en 70 à 500 millisecondes. Au lieu de rédiger des phrases, il fonctionne comme un questionnaire à choix multiples : il sélectionne une option, attribue un score ou calcule une probabilité parmi des choix prédéfinis. Cette architecture permet de réduire les coûts à 0,042 dollar par million de jetons en entrée et élimine les hallucinations, car le modèle ne peut pas inventer de réponses hors du schéma imposé. Il est conçu pour des tâches de classification, d'arbitrage ou de contrôle de données en temps réel, comme le démontrer par sa capacité à prendre 10 décisions par seconde dans le jeu Doom. Le modèle supporte jusqu'à 64 000 jetons par requête et traite 250 000 jetons par seconde, tout en garantissant que les données des utilisateurs ne sont pas utilisées pour l'entraînement. Avec une telle vitesse et un coût aussi bas, penses-tu que les développeurs vont délaisser les LLM généralistes pour ces modèles spécialisés dans la prise de décision pure ?\n\nSources : ActuIA · Siecle Digital\n\n#IA #TypeSafeAI #Jev #MachineLearning #TechNews",
+  "next_time": 1790247600,
+  "storage": "release",
+  "threads_caption": "Jev, le nouveau modèle de TypeSafe AI, promet d'être jusqu'à 193 fois plus rapide que ses concurrents. ⚡\n\nContrairement aux LLM classiques qui génèrent du texte mot par mot, Jev traite les informations en parallèle pour fournir des réponses en 70 à 500 millisecondes. Au lieu de rédiger des phrases, il fonctionne comme un questionnaire à choix multiples : il sélectionne une option, attribue un score ou calcule une probabilité parmi des choix prédéfinis.\n\nSources : ActuIA · Siecle Digital\n\n#IA"
+}
