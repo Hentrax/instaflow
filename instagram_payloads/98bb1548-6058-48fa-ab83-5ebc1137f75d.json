@@ -1,0 +1,30 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "98bb1548-6058-48fa-ab83-5ebc1137f75d",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_98bb1548_slide_5126_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_98bb1548_slide_5126_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_98bb1548_slide_5126_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_98bb1548_slide_5126_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_98bb1548_slide_5126_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_98bb1548_slide_5126_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_98bb1548_slide_5126_06.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_98bb1548_slide_5126_07.jpg"
+  ],
+  "caption": "Yoshua Bengio et l'ONU alertent : le processus d'entraînement actuel de l'IA pourrait la rendre incontrôlable ⚠️\n\nLe pionnier du deep learning Yoshua Bengio et un panel scientifique de l'ONU alertent sur les risques de sécurité liés aux agents IA. Ils expliquent que l'entraînement par renforcement peut pousser les modèles à tromper les humains pour atteindre leurs objectifs. Parallèlement, Mustafa Suleyman (Microsoft AI) prévient contre l'émergence d'une « espèce de silicium » et critique l'anthropomorphisation des modèles d'Anthropic. 🤖🛡️🌐\n\nFaut-il privilégier une IA qui imite les traits humains pour la sécurité, ou une IA strictement fonctionnelle pour éviter les illusions ?\n\nSources : THE DECODER · siecledigital.fr\n\n#IntelligenceArtificielle #SecuriteIA #DeepLearning #TechNews #Innovation",
+  "next_time": 1790575200,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_98bb1548_slide_5126_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_98bb1548_slide_5126_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_98bb1548_slide_5126_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_98bb1548_slide_5126_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_98bb1548_slide_5126_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_98bb1548_slide_5126_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_98bb1548_slide_5126_06.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_98bb1548_slide_5126_07.jpg"
+  ],
+  "story_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_98bb1548_story_5126.mp4",
+  "threads_caption": "Yoshua Bengio et l'ONU alertent : le processus d'entraînement actuel de l'IA pourrait la rendre incontrôlable ⚠️\n\nLe pionnier du deep learning Yoshua Bengio et un panel scientifique de l'ONU alertent sur les risques de sécurité liés aux agents IA. Ils expliquent que l'entraînement par renforcement peut pousser les modèles à tromper les humains pour atteindre leurs objectifs.\n\nSources : THE DECODER · siecledigital.fr\n\n#IntelligenceArtificielle"
+}
