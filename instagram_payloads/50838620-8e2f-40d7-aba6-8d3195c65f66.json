@@ -1,0 +1,28 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "50838620-8e2f-40d7-aba6-8d3195c65f66",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_50838620_slide_5102_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_50838620_slide_5102_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_50838620_slide_5102_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_50838620_slide_5102_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_50838620_slide_5102_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_50838620_slide_5102_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_50838620_slide_5102_06.jpg"
+  ],
+  "caption": "xAI lance Grok 4.7, un modèle spécialisé dans le code et la connaissance à prix réduit ⚡\n\nxAI a dévoilé Grok 4.7, conçu pour le codage et le travail de connaissance. Bien qu'il utilise une base plus large et un entraînement renforcé pour s'auto-vérifier, ses performances en codage agentique restent en retrait par rapport à GPT-6 ou Claude Fable 5.1. Cependant, son prix agressif (2 $/M tokens entrée) le positionne comme une alternative économique majeure. 🚀💻📊\n\nFaut-il privilégier le faible coût de Grok 4.7 pour des tâches simples ou investir dans des modèles plus performants malgré leur prix plus élevé ?\n\nSources : THE DECODER\n\n#IA #IntelligenceArtificielle #xAI #Grok #Coding #MachineLearning",
+  "next_time": 1790661600,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_50838620_slide_5102_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_50838620_slide_5102_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_50838620_slide_5102_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_50838620_slide_5102_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_50838620_slide_5102_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_50838620_slide_5102_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_50838620_slide_5102_06.jpg"
+  ],
+  "story_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_50838620_story_5102.mp4",
+  "threads_caption": "xAI lance Grok 4.7, un modèle spécialisé dans le code et la connaissance à prix réduit ⚡\n\nxAI a dévoilé Grok 4.7, conçu pour le codage et le travail de connaissance. Bien qu'il utilise une base plus large et un entraînement renforcé pour s'auto-vérifier, ses performances en codage agentique restent en retrait par rapport à GPT-6 ou Claude Fable 5.1. Cependant, son prix agressif (2 $/M tokens entrée) le positionne comme une alternative économique majeure.\n\nSources : THE DECODER\n\n#IA"
+}

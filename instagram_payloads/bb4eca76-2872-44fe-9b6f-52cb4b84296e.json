@@ -1,0 +1,11 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "bb4eca76-2872-44fe-9b6f-52cb4b84296e",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bb4eca76_video_5101.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Xiaomi vient de lancer MiMo-V2.6, qui devient actuellement le modèle open-source le plus puissant au monde. 🚀\n\nLe modèle MiMo-V2.6-Pro utilise une architecture Mixture-of-Experts avec 1,02 billion de paramètres, atteignant un score de 46 sur l'Intelligence Index tout en coûtant seulement 0,43 dollar par million de tokens en entrée. Pour atteindre ces performances, Xiaomi a utilisé un entraînement par renforcement intensif sur moins de six jours, pour un coût de 2,6 millions de dollars pour la version Pro. L'entreprise ouvre aussi son toolkit d'entraînement, incluant un rapport technique et 7 000 tâches prêtes à l'emploi avec des correcteurs automatiques pour le code, la cybersécurité et le design. Cependant, Anthropic accuse Xiaomi d'avoir « distillé » illégalement les capacités de Claude en utilisant plus de 400 000 échanges d'utilisateurs pour entraîner ses propres modèles. Xiaomi propose également une variante Pro-UltraSpeed capable de générer des réponses jusqu'à 20 fois plus rapidement que le modèle standard. Est-ce que l'utilisation de données provenant d'autres modèles pour booster l'open-source est une méthode légitime ou une pratique déloyale ?\n\nSource : The Decoder\n\n#Xiaomi #MiMo #OpenSourceAI #LLM #TechNews",
+  "next_time": 1790679600,
+  "storage": "release",
+  "threads_caption": "Xiaomi vient de lancer MiMo-V2.6, qui devient actuellement le modèle open-source le plus puissant au monde. 🚀\n\nLe modèle MiMo-V2.6-Pro utilise une architecture Mixture-of-Experts avec 1,02 billion de paramètres, atteignant un score de 46 sur l'Intelligence Index tout en coûtant seulement 0,43 dollar par million de tokens en entrée.\n\nSource : The Decoder\n\n#Xiaomi"
+}
