@@ -1,0 +1,28 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "89b22df8-746b-458d-9664-e8dcfcbdb5a6",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_89b22df8_slide_5216_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_89b22df8_slide_5216_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_89b22df8_slide_5216_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_89b22df8_slide_5216_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_89b22df8_slide_5216_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_89b22df8_slide_5216_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_89b22df8_slide_5216_06.jpg"
+  ],
+  "caption": "Meta lance Muse, un agent IA capable de contrôler votre Mac et de vous offrir un ordinateur dans le cloud 💻\n\nL'agent IA Muse de Meta permet désormais de gérer vos tâches sur Mac, comme réserver des rendez-vous ou effectuer des achats. Il offre également un ordinateur complet dans le cloud sous Ubuntu Linux pour coder ou naviguer. Pour la sécurité, Meta utilise une \"Runtime Cell\" isolée. L'application propose aussi des chats vidéo avec avatars et un futur appareil physique appelé \"Muse Charm\". 🚀💻🛡️\n\nFace aux risques de confidentialité de Meta, êtes-vous prêt à donner à un agent IA le contrôle de vos applications et de vos fichiers personnels ?\n\nSources : The Decoder · Numerama · TechCrunch\n\n#IntelligenceArtificielle #Meta #Muse #TechNews #Cybersecurite #Innovation",
+  "next_time": 1790870400,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_89b22df8_slide_5216_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_89b22df8_slide_5216_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_89b22df8_slide_5216_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_89b22df8_slide_5216_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_89b22df8_slide_5216_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_89b22df8_slide_5216_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_89b22df8_slide_5216_06.jpg"
+  ],
+  "story_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_89b22df8_story_5216.mp4",
+  "threads_caption": "Meta lance Muse, un agent IA capable de contrôler votre Mac et de vous offrir un ordinateur dans le cloud 💻\n\nL'agent IA Muse de Meta permet désormais de gérer vos tâches sur Mac, comme réserver des rendez-vous ou effectuer des achats. Il offre également un ordinateur complet dans le cloud sous Ubuntu Linux pour coder ou naviguer. Pour la sécurité, Meta utilise une \"Runtime Cell\" isolée.\n\nSources : The Decoder · Numerama · TechCrunch\n\n#IntelligenceArtificielle"
+}
