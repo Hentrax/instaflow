@@ -1,0 +1,11 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "ebc6e7ee-286c-4d76-a6c4-a1c67b736e35",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ebc6e7ee_video_5236.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "PrismML lance son modèle Bonsai LLM pour les lunettes connectées. 🕶️\n\nCe modèle de 2 milliards de paramètres est conçu pour tourner localement sur les puces Snapdragon de Qualcomm. La technologie permet de réduire la taille des modèles par 4 tout en conservant presque toutes leurs performances. Il s'agit d'un modèle \"1-bit\" spécifiquement optimisé pour traiter simultanément la vision et le langage. Cela permet à l'utilisateur de poser des questions sur ce qu'il regarde en temps réel à travers ses lunettes. L'objectif est de faire fonctionner une IA en \"open-weight\" directement sur l'appareil pour limiter le besoin de puissance cloud. Pour l'instant, aucune lunette spécifique n'a été dévoilée, mais le modèle est prêt pour la plateforme Snapdragon AR1 Gen 1. Préfères-tu utiliser une IA locale plus privée mais limitée, ou une IA cloud ultra-puissante qui traite tes données à distance ?\n\nSources : TechCrunch\n\n#PrismML #Qualcomm #SmartGlasses #AI #LLM #EdgeAI",
+  "next_time": 1790784000,
+  "storage": "release",
+  "threads_caption": "PrismML lance son modèle Bonsai LLM pour les lunettes connectées. 🕶️\n\nCe modèle de 2 milliards de paramètres est conçu pour tourner localement sur les puces Snapdragon de Qualcomm. La technologie permet de réduire la taille des modèles par 4 tout en conservant presque toutes leurs performances. Il s'agit d'un modèle \"1-bit\" spécifiquement optimisé pour traiter simultanément la vision et le langage.\n\nSources : TechCrunch\n\n#PrismML"
+}
