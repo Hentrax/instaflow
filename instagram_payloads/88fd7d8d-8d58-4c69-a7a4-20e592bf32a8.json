@@ -26,5 +26,9 @@
     "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_88fd7d8d_slide_5080_07.jpg"
   ],
   "story_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_88fd7d8d_story_5080.mp4",
-  "threads_caption": "L'alignement des assistants IA repose sur des choix humains et des méthodes imparfaites qui orientent leurs réponses 🤖\n\nDerrière les réponses d'un assistant comme Claude ou Grok se cachent des processus complexes : le RLHF (retours humains), la \"Constitutional AI\" d'Anthropic ou des fichiers de consignes modifiables sur GitHub.\n\nSources : ActuIA\n\n#IntelligenceArtificielle"
+  "threads_caption": "L'alignement des assistants IA repose sur des choix humains et des méthodes imparfaites qui orientent leurs réponses 🤖\n\nDerrière les réponses d'un assistant comme Claude ou Grok se cachent des processus complexes : le RLHF (retours humains), la \"Constitutional AI\" d'Anthropic ou des fichiers de consignes modifiables sur GitHub.\n\nSources : ActuIA\n\n#IntelligenceArtificielle",
+  "done": {},
+  "attempts": {
+    "instagram": 1
+  }
 }
