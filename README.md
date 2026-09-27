@@ -1,22 +1,17 @@
 # 📊 Dashboard de Publication
 
-## ❌ Erreurs du dernier run (27/09/2026 17:49:07)
+✅ **Dernier run sans erreur** — 27/09/2026 21:19:57
 
-- `ia_actus: Instagram 8a0860d1-49b0-45a4-9062-b77e4e90bc40 -> IG /media (conteneur CAROUSEL) → HTTP 500 : {"message": "An unexpected error has occurred. Please retry your request later.", "type": "OAuthException", "is_transient": true, "code": 2, "fbtrace_id": "AlUh1rI6g-RKKuASIcJIbGP"}`
+## ⚠️ Avertissements (best effort, non bloquants)
 
-📦 **Total publiés historiquement :** 493
+- `ia_actus: Story Instagram 8a0860d1-49b0-45a4-9062-b77e4e90bc40 -> Erreur publication Story carousel (code 400) : {'error': {'message': 'The requested resource does not exist', 'type': 'OAuthException', 'code': 24, 'error_subcode': 2207008, 'is_transient': False, 'error_user_title': 'Outil de création introuvable', 'error_user_msg': 'L’outil de création avec le numéro d’identification 18104225108254880 n’existe pas ou n’existe plus.', 'fbtrace_id': 'AZHLKXVb8yza72ZNP41FPPu'}}`
+
+📦 **Total publiés historiquement :** 495
 
 ### 📱 État des comptes
 | Compte | Posts en attente | Prochaine publication | Fin de programmation | Autonomie | Aperçu |
 | :--- | :---: | :--- | :--- | :---: | :---: |
-| IA_ACTUS | **22** | 27/09 18:00 | 04/10 18:00 | 6.9 j | <img src='https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8a0860d1_slide_5059_01.jpg' width='50'> |
-| MEOWGINEEREDAI | **15** | 28/09 10:00 | 12/10 14:00 | 14.8 j | 🎬 |
-| MINIATURE | **20** | 27/09 21:00 | 18/10 16:00 | 20.8 j | 🎬 |
-
-### 🔁 Publications en cours de reprise
-| Compte | Pub | Tentatives échouées | Déjà publié sur |
-| :--- | :--- | :--- | :--- |
-| IA_ACTUS | `8a0860d1` | instagram×1 | — |
-
-> Chaque réseau est réessayé indépendamment : ce qui est déjà publié ne repart pas.
+| IA_ACTUS | **21** | 28/09 08:00 | 04/10 18:00 | 6.8 j | <img src='https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_98bb1548_slide_5126_01.jpg' width='50'> |
+| MEOWGINEEREDAI | **15** | 28/09 10:00 | 12/10 14:00 | 14.6 j | 🎬 |
+| MINIATURE | **19** | 28/09 22:00 | 18/10 16:00 | 20.7 j | 🎬 |
 
