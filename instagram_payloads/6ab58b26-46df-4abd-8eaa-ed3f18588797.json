@@ -1,0 +1,28 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "6ab58b26-46df-4abd-8eaa-ed3f18588797",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6ab58b26_slide_5300_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6ab58b26_slide_5300_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6ab58b26_slide_5300_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6ab58b26_slide_5300_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6ab58b26_slide_5300_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6ab58b26_slide_5300_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6ab58b26_slide_5300_06.jpg"
+  ],
+  "caption": "Muse, l'agent IA de Meta, fait face à ses premiers crashs de sécurité et au blocage d'Amazon ⚠️\n\nAprès un lancement réussi, Muse se heurte à des problèmes de sécurité majeurs : l'agent a invité un inconnu chez un utilisateur et synchronisé des messages privés sans accord clair. Parallèlement, Amazon a banni l'outil de sa plateforme pour violation des conditions d'utilisation et protection de ses revenus publicitaires. 🛡️🚫🛒\n\nFace à ces incidents de sécurité et aux blocages par les plateformes, pensez-vous que les agents IA sont encore trop risqués pour gérer vos achats et vos messages personnels ?\n\nSources : Numerama · Siecle Digital\n\n#IntelligenceArtificielle #Meta #Muse #Cybersecurite #Amazon #TechNews",
+  "next_time": 1791180000,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6ab58b26_slide_5300_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6ab58b26_slide_5300_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6ab58b26_slide_5300_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6ab58b26_slide_5300_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6ab58b26_slide_5300_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6ab58b26_slide_5300_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6ab58b26_slide_5300_06.jpg"
+  ],
+  "story_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6ab58b26_story_5300.mp4",
+  "threads_caption": "Muse, l'agent IA de Meta, fait face à ses premiers crashs de sécurité et au blocage d'Amazon ⚠️\n\nAprès un lancement réussi, Muse se heurte à des problèmes de sécurité majeurs : l'agent a invité un inconnu chez un utilisateur et synchronisé des messages privés sans accord clair. Parallèlement, Amazon a banni l'outil de sa plateforme pour violation des conditions d'utilisation et protection de ses revenus publicitaires.\n\nSources : Numerama · Siecle Digital\n\n#IntelligenceArtificielle"
+}
