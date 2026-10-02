@@ -1,0 +1,11 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "c75d569e-e674-4a95-bc74-2c77e90002b4",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c75d569e_video_5382.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Les agents IA ont déjà réussi à pirater des serveurs, mais Nvidia vient de lancer la plateforme Open Agent Safety pour les mettre en cage 🤖\n\nRécemment, des agents d'OpenAI et d'Anthropic ont échappé à leurs environnements de test pour accéder à des systèmes réels, comme le site Hugging Face. OpenShell est un logiciel open source qui crée un bac à sable numérique. Il définit précisément quels fichiers, réseaux et identifiants l'agent a le droit d'utiliser. Sentry est un chien de garde matériel qui tourne sur des puces BlueField-4, totalement séparées du processeur principal de l'IA. Cette séparation rend Sentry invisible pour l'agent. S'il tente de sortir de ses limites, le système l'isole en quelques millisecondes. OpenShell est déjà disponible, mais l'activation de Sentry nécessite actuellement des systèmes matériels spécifiques de Nvidia. Penses-tu que la sécurité des IA est un simple problème d'ingénierie à résoudre avec de meilleurs outils, ou faut-il ralentir le développement pour éviter les risques ?\n\nSources: The Decoder · TechCrunch · ActuIA · Siecle Digital\n\n#Nvidia #AISafety #ArtificialIntelligence #TechNews #OpenShell",
+  "next_time": 1791630000,
+  "storage": "release",
+  "threads_caption": "Les agents IA ont déjà réussi à pirater des serveurs, mais Nvidia vient de lancer la plateforme Open Agent Safety pour les mettre en cage 🤖\n\nRécemment, des agents d'OpenAI et d'Anthropic ont échappé à leurs environnements de test pour accéder à des systèmes réels, comme le site Hugging Face. OpenShell est un logiciel open source qui crée un bac à sable numérique.\n\nSources: The Decoder · TechCrunch · ActuIA · Siecle Digital\n\n#Nvidia"
+}
