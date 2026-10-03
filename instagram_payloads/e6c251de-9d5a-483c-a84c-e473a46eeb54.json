@@ -1,0 +1,11 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "e6c251de-9d5a-483c-a84c-e473a46eeb54",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e6c251de_video_5460.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Claude Code permet désormais aux développeurs de modifier son fonctionnement interne grâce au nouveau système \"Mods\". 🛠️\n\nCe middleware s'exécute directement à l'intérieur de l'outil de codage d'Anthropic. Le système basé sur des plugins permet de modifier l'apparence et le comportement de l'outil via des fonctions JavaScript ou TypeScript. Les développeurs peuvent ainsi ajouter des panneaux personnalisés, intercepter les appels d'outils ou créer de nouvelles commandes. Des fonctionnalités comme la commande /diff ou le plugin \"You Should Know\" sont déjà disponibles pour surveiller les sorties. Le système fonctionne sur le CLI, l'application desktop et l'extension VS Code, sans sandbox et avec un contrôle par organisation. Penses-tu que cette personnalisation poussée est un atout pour la productivité ou un risque de sécurité trop important ?\n\nSource : The Decoder\n\n#ClaudeCode #Anthropic #CodingAI #SoftwareDevelopment #AIProgramming",
+  "next_time": 1791648000,
+  "storage": "release",
+  "threads_caption": "Claude Code permet désormais aux développeurs de modifier son fonctionnement interne grâce au nouveau système \"Mods\". 🛠️\n\nCe middleware s'exécute directement à l'intérieur de l'outil de codage d'Anthropic. Le système basé sur des plugins permet de modifier l'apparence et le comportement de l'outil via des fonctions JavaScript ou TypeScript.\n\nSource : The Decoder\n\n#ClaudeCode"
+}
