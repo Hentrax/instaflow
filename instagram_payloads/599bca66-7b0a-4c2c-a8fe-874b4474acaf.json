@@ -1,0 +1,30 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "599bca66-7b0a-4c2c-a8fe-874b4474acaf",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_599bca66_slide_5474_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_599bca66_slide_5474_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_599bca66_slide_5474_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_599bca66_slide_5474_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_599bca66_slide_5474_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_599bca66_slide_5474_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_599bca66_slide_5474_06.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_599bca66_slide_5474_07.jpg"
+  ],
+  "caption": "Meta lance le \"Muse Home Link\" pour connecter l'agent Muse au réseau domestique 🏠\n\nMeta présente le \"Muse Home Link\", un gadget USB-C permettant à l'agent Muse de piloter les TV, les enceintes et tout appareil avec une interface HTTPS. 5 000 unités ont été produites et seront offertes aux abonnés Muse. En parallèle, le projet \"Muse Gadgets\" s'enrichit de firmware pour cartes ESP32 sous licence Apache 2.0. 🏠💻🛠️\n\nMeta veut tester différents formats matériels via la communauté : pensez-vous que le futur de l'IA passera par des objets DIY ou des produits finis ?\n\nSource : The Decoder\n\n#IntelligenceArtificielle #Meta #Muse #HomeAutomation #OpenSource #Innovation",
+  "next_time": 1791734400,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_599bca66_slide_5474_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_599bca66_slide_5474_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_599bca66_slide_5474_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_599bca66_slide_5474_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_599bca66_slide_5474_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_599bca66_slide_5474_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_599bca66_slide_5474_06.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_599bca66_slide_5474_07.jpg"
+  ],
+  "story_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_599bca66_story_5474.mp4",
+  "threads_caption": "Meta lance le \"Muse Home Link\" pour connecter l'agent Muse au réseau domestique 🏠\n\nMeta présente le \"Muse Home Link\", un gadget USB-C permettant à l'agent Muse de piloter les TV, les enceintes et tout appareil avec une interface HTTPS. 5 000 unités ont été produites et seront offertes aux abonnés Muse. En parallèle, le projet \"Muse Gadgets\" s'enrichit de firmware pour cartes ESP32 sous licence Apache 2.0.\n\nSource : The Decoder\n\n#IntelligenceArtificielle"
+}
