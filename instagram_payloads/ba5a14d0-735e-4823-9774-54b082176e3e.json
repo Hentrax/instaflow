@@ -1,0 +1,11 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "ba5a14d0-735e-4823-9774-54b082176e3e",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ba5a14d0_video_5463.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "LEGO-Anything, développé par l'Université du Maryland et AWS, permet de transformer une simple photo en une scène 3D entièrement éditable. 📸\n\nL'approche « Image-to-Code » utilise un agent qui écrit, exécute et affine du code pour Blender jusqu'à ce que la scène corresponde à l'image d'origine. Le résultat est un programme exécutable qui capture précisément la géométrie, les objets et la position de la caméra. Lors des tests sur le benchmark LEGO-Bench, les agents ont réussi à créer des scènes mais ont échoué à juger de leur propre exactitude. Pour corriger cela, les chercheurs ont créé LEGO-Plugin, qui remplace le jugement de l'IA par des mesures concrètes. Actuellement, le modèle GPT-6 Astra atteint environ 53 % de précision sur les scènes intérieures, mais reste moins précis que les modèles spécialisés. Penses-tu que la création automatique de scènes 3D par le code simplifiera suffisamment le travail des créateurs de jeux vidéo pour remplacer les méthodes manuelles ?\n\nSource : The Decoder\n\n#IA #3D #Blender #MachineLearning #TechNews",
+  "next_time": 1791784800,
+  "storage": "release",
+  "threads_caption": "LEGO-Anything, développé par l'Université du Maryland et AWS, permet de transformer une simple photo en une scène 3D entièrement éditable. 📸\n\nL'approche « Image-to-Code » utilise un agent qui écrit, exécute et affine du code pour Blender jusqu'à ce que la scène corresponde à l'image d'origine. Le résultat est un programme exécutable qui capture précisément la géométrie, les objets et la position de la caméra.\n\nSource : The Decoder\n\n#IA"
+}
