@@ -1,0 +1,11 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "094f2b82-44b2-460b-bc4d-d28c2d72a978",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_094f2b82_video_5526.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "OpenAI va intégrer des filigranes invisibles nommés textGrain dans les textes de ChatGPT pour se conformer à la réglementation de l'UE, en modifiant subtilement le choix des mots. 🔍\n\nLe déploiement débutera dans l'Union européenne dans les prochaines semaines. Pour les utilisateurs de l'API partout dans le monde, le filigrane restera optionnel et pourra être activé pour certains modèles. 🌍 Selon OpenAI, cette mesure n'impacte pas la qualité des réponses. Cependant, le taux de détection varie : il atteint environ 95 % pour des textes de 400 mots sur la psychologie, mais chute pour les contenus mathématiques ou très courts. 📊 Le filigrane peut être contourné par des modifications simples. Remplacer seulement 10 % des mots par des synonymes fait chuter le taux de détection de 92 % à 66 % pour un passage de 400 mots. ✍️ Pour l'instant, l'accès au détecteur est limité aux chercheurs et organisations spécialisées approuvés par OpenAI pour garantir une utilisation responsable. 🔬 OpenAI précise qu'une absence de filigrane ne prouve pas qu'un humain a écrit le texte, car il peut être trop court, avoir été traduit ou provenir d'un autre modèle. ⚠️ Penses-tu que ces filigranes seront suffisants pour identifier les contenus générés par IA, ou les modifications simples les rendront-elles inutiles ? 🤔\n\nSources: The Decoder · TechCrunch\n\n#OpenAI #ChatGPT #AI #EUAIAct #TechNews",
+  "next_time": 1791802800,
+  "storage": "release",
+  "threads_caption": "OpenAI va intégrer des filigranes invisibles nommés textGrain dans les textes de ChatGPT pour se conformer à la réglementation de l'UE, en modifiant subtilement le choix des mots. 🔍\n\nLe déploiement débutera dans l'Union européenne dans les prochaines semaines. Pour les utilisateurs de l'API partout dans le monde, le filigrane restera optionnel et pourra être activé pour certains modèles.\n\nSources: The Decoder · TechCrunch\n\n#OpenAI"
+}
