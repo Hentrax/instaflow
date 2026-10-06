@@ -1,0 +1,11 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "46d3bb0d-bbee-4e71-8db4-1ee1530ce6ef",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_46d3bb0d_video_5531.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Mistral vient de dévoiler Mistral Large 4, aussi surnommé « Le Chonk ». 💥 C'est leur plus gros modèle à ce jour, avec un billion de paramètres.\n\nCe modèle est nativement multimodal avec 49 milliards de paramètres actifs et une fenêtre de contexte allant jusqu'à un million de tokens. Il a été entraîné de zéro dans les centres de données européens de Mistral sur 3 800 GPU Nvidia Grace Blackwell, avec des données couvrant plus de 160 langues. Mistral affirme que c'est le meilleur modèle à poids ouverts développé en Europe ou aux États-Unis. Il surpasse ses concurrents sur le codage, les flux de travail agentiques et l'analyse d'images satellites ou de plans d'ingénierie. En cybersécurité, il obtient 82 % de réussite sur un test de reproduction et de correction de vulnérabilités, une tâche que des modèles fermés comme Claude ou GPT-6 refusent souvent. L'aperçu public est disponible dès maintenant via l'API de Mistral Studio, et les poids du modèle seront publiés le 27 octobre. Avec ses capacités étendues en cybersécurité, préférerais-tu utiliser un modèle qui accepte de traiter des tâches 'sensibles' ou un modèle avec des filtres de sécurité plus stricts ?\n\nSources: The Decoder · Mistral · Numerama · TechCrunch · ActuIA\n\n#MistralAI #LeChonk #LLM #IA #Cybersecurity #OpenSource",
+  "next_time": 1791820800,
+  "storage": "release",
+  "threads_caption": "Mistral vient de dévoiler Mistral Large 4, aussi surnommé « Le Chonk ». 💥 C'est leur plus gros modèle à ce jour, avec un billion de paramètres.\n\nCe modèle est nativement multimodal avec 49 milliards de paramètres actifs et une fenêtre de contexte allant jusqu'à un million de tokens.\n\nSources: The Decoder · Mistral · Numerama · TechCrunch · ActuIA\n\n#MistralAI"
+}
