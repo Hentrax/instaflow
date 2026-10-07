@@ -1,0 +1,28 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "272b5a56-4bda-460f-b6ed-d16dd37eef41",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_272b5a56_slide_5553_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_272b5a56_slide_5553_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_272b5a56_slide_5553_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_272b5a56_slide_5553_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_272b5a56_slide_5553_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_272b5a56_slide_5553_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_272b5a56_slide_5553_06.jpg"
+  ],
+  "caption": "Google lance Nano Banana 2.1, un modèle d'image plus performant et 50 % moins cher 🍌⚡\n\nGoogle déploie Nano Banana 2.1, une version optimisée de son modèle de génération d'images. Il divise les prix par deux tout en améliorant la cohérence des personnages (jusqu'à 4) et le rendu du texte. Le modèle s'appuie sur Gemini 3.6 Flash pour offrir une vitesse élevée et trois niveaux de réflexion pour ajuster la qualité. 🚀🎨📊\n\nFaut-il privilégier la rapidité et le coût réduit de Nano Banana 2.1 ou rester sur la qualité supérieure (mais plus chère) de Nano Banana Pro ?\n\nSource : The Decoder\n\n#IA #Google #ImageGeneration #NanoBanana #MachineLearning #TechNews",
+  "next_time": 1791907200,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_272b5a56_slide_5553_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_272b5a56_slide_5553_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_272b5a56_slide_5553_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_272b5a56_slide_5553_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_272b5a56_slide_5553_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_272b5a56_slide_5553_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_272b5a56_slide_5553_06.jpg"
+  ],
+  "story_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_272b5a56_story_5553.mp4",
+  "threads_caption": "Google lance Nano Banana 2.1, un modèle d'image plus performant et 50 % moins cher 🍌⚡\n\nGoogle déploie Nano Banana 2.1, une version optimisée de son modèle de génération d'images. Il divise les prix par deux tout en améliorant la cohérence des personnages (jusqu'à 4) et le rendu du texte. Le modèle s'appuie sur Gemini 3.6 Flash pour offrir une vitesse élevée et trois niveaux de réflexion pour ajuster la qualité.\n\nSource : The Decoder\n\n#IA"
+}

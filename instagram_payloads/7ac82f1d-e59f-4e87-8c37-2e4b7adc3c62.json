@@ -1,0 +1,11 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "7ac82f1d-e59f-4e87-8c37-2e4b7adc3c62",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7ac82f1d_video_5528.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Aleph Alpha vient de publier Kolibri, un modèle de 78,1 milliards de paramètres pour la souveraineté européenne 🇪🇺\n\nIl utilise une architecture à mélange d'experts avec 3,46 milliards de paramètres activés, spécialisé sur l'allemand et l'anglais via 20 000 milliards de jetons. Son entraînement a mobilisé 768 GPU Nvidia B200 en Allemagne et en Finlande pendant 21 jours. Il gère une fenêtre de contexte allant jusqu'à un million de jetons, avec une longueur native de 262 144 jetons et des connaissances s'arrêtant au 18 juin 2026. Les poids sont accessibles sous licence Apache 2.0 sur Hugging Face, accompagnés d'un greffon d'inférence spécifique. Le modèle entier doit résider en mémoire, occupant 78 Go en FP8, avec une configuration minimale de deux GPU A100 de 80 Go ou un seul H200. Sous licence Apache 2.0, les entreprises peuvent utiliser ces poids librement, mais le modèle ne supporte pas le français. Est-ce un obstacle pour les entreprises françaises ?\n\nSources : THE DECODER · ActuIA\n\n#AlephAlpha #Kolibri #AI #OpenSource #EuropeanAI #LLM #MachineLearning",
+  "next_time": 1791957600,
+  "storage": "release",
+  "threads_caption": "Aleph Alpha vient de publier Kolibri, un modèle de 78,1 milliards de paramètres pour la souveraineté européenne 🇪🇺\n\nIl utilise une architecture à mélange d'experts avec 3,46 milliards de paramètres activés, spécialisé sur l'allemand et l'anglais via 20 000 milliards de jetons. Son entraînement a mobilisé 768 GPU Nvidia B200 en Allemagne et en Finlande pendant 21 jours.\n\nSources : THE DECODER · ActuIA\n\n#AlephAlpha"
+}

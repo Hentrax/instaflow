@@ -1,0 +1,11 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "0a2579b9-9dc2-4ea4-bf6d-935f809ae8f1",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0a2579b9_video_5485.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Le LLM-jacking permet à des hackers d'accéder aux modèles d'IA les plus coûteux pour une fraction du prix. 🏴‍☠️\n\nL'analyste en chef du Google Threat Intelligence Group a alerté sur la recrudescence de cette pratique. Il existe deux scénarios : la revente d'accès volés et l'exploitation gratuite des ressources d'une victime. Les hackers dérobent des identifiants d'outils comme ChatGPT Pro ou Claude Max pour les vendre sur le dark web avec 97 % de rabais. Dans le second cas, des groupes criminels s'introduisent dans les serveurs cloud d'entreprises pour y installer leurs propres modèles d'IA. L'entreprise piratée règle alors la facture de la puissance de calcul consommée, une menace qui augmente car les entreprises choisissent de plus en plus d'héberger leurs propres modèles. Devriez-vous privilégier la sécurité de vos serveurs internes ou la surveillance des fournisseurs de cloud pour protéger vos modèles ?\n\nSources: Numerama\n\n#LLMJacking #Cybersecurite #IA #ChatGPT #CloudComputing",
+  "next_time": 1791993600,
+  "storage": "release",
+  "threads_caption": "Le LLM-jacking permet à des hackers d'accéder aux modèles d'IA les plus coûteux pour une fraction du prix. 🏴‍☠️\n\nL'analyste en chef du Google Threat Intelligence Group a alerté sur la recrudescence de cette pratique. Il existe deux scénarios : la revente d'accès volés et l'exploitation gratuite des ressources d'une victime. Les hackers dérobent des identifiants d'outils comme ChatGPT Pro ou Claude Max pour les vendre sur le dark web avec 97 % de rabais.\n\nSources: Numerama\n\n#LLMJacking"
+}

@@ -1,0 +1,30 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "fb2e30c5-d048-43c9-9a1a-5a5c36ec62cc",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fb2e30c5_slide_5562_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fb2e30c5_slide_5562_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fb2e30c5_slide_5562_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fb2e30c5_slide_5562_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fb2e30c5_slide_5562_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fb2e30c5_slide_5562_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fb2e30c5_slide_5562_06.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fb2e30c5_slide_5562_07.jpg"
+  ],
+  "caption": "Musubi lance PolicyLM-1.7B, un modèle capable de modérer du contenu en moins de 50 millisecondes ⚡\n\nMusubi a publié PolicyLM-1.7B, un modèle de décision léger et \"open weights\" dédié à la modération de contenu en temps réel. Contrairement aux LLM classiques, il ne génère pas de texte mais des jugements binaires ultra-rapides (<50ms). Sa force ? Il interprète des règles en anglais simple sans nécessiter de réentraînement, offrant une flexibilité inédite pour les plateformes gérant des volumes massifs de données. 🚀📊✅\n\nEst-ce que déléguer la modération de contenu à un modèle automatisé et ultra-rapide réduit le risque de censure ou améliore la sécurité des plateformes ?\n\nSources : TechCrunch\n\n#IntelligenceArtificielle #ModérationContenu #LLM #MachineLearning #TechNews",
+  "next_time": 1791889200,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fb2e30c5_slide_5562_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fb2e30c5_slide_5562_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fb2e30c5_slide_5562_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fb2e30c5_slide_5562_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fb2e30c5_slide_5562_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fb2e30c5_slide_5562_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fb2e30c5_slide_5562_06.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fb2e30c5_slide_5562_07.jpg"
+  ],
+  "story_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fb2e30c5_story_5562.mp4",
+  "threads_caption": "Musubi lance PolicyLM-1.7B, un modèle capable de modérer du contenu en moins de 50 millisecondes ⚡\n\nMusubi a publié PolicyLM-1.7B, un modèle de décision léger et \"open weights\" dédié à la modération de contenu en temps réel. Contrairement aux LLM classiques, il ne génère pas de texte mais des jugements binaires ultra-rapides (<50ms). Sa force ?\n\nSources : TechCrunch\n\n#IntelligenceArtificielle"
+}
