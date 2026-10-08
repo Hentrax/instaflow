@@ -1,0 +1,11 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "4257b105-c10d-4788-aab6-9a1a6f6ca0c4",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4257b105_video_5594.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Mistral Large 4 se rapproche des performances des modèles chinois Kimi et DeepSeek. 🛰️\n\nLe groupe affirme que son modèle atteint désormais le même niveau que ces concurrents sortis il y a un ou deux mois. Sur des benchmarks de 'visual grounding', Mistral Large 4 surpasse les modèles GPT-6 Astra et Claude Fable 5.1. Cette capacité permet d'identifier précisément des véhicules ou des feux de forêt à partir d'images satellites. Pour soutenir ses futurs modèles, Mistral prévoit de passer de 10 MW à 1 GW de capacité de calcul d'ici 2030. Les poids du modèle seront téléchargeables le 27 octobre, après trois semaines de tests de sécurité en red teaming. Avec une telle précision d'analyse satellite, penses-tu que l'IA devrait être utilisée pour surveiller les activités humaines en temps réel ?\n\nSources: Siecle Digital\n\n#MistralAI #LeChonk #LLM #IA #SatelliteImagery #TechNews",
+  "next_time": 1792080000,
+  "storage": "release",
+  "threads_caption": "Mistral Large 4 se rapproche des performances des modèles chinois Kimi et DeepSeek. 🛰️\n\nLe groupe affirme que son modèle atteint désormais le même niveau que ces concurrents sortis il y a un ou deux mois. Sur des benchmarks de 'visual grounding', Mistral Large 4 surpasse les modèles GPT-6 Astra et Claude Fable 5.1. Cette capacité permet d'identifier précisément des véhicules ou des feux de forêt à partir d'images satellites.\n\nSources: Siecle Digital\n\n#MistralAI"
+}

@@ -1,0 +1,28 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "be6d928e-0292-4daf-86d4-7adf7aaceec3",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_be6d928e_slide_5598_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_be6d928e_slide_5598_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_be6d928e_slide_5598_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_be6d928e_slide_5598_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_be6d928e_slide_5598_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_be6d928e_slide_5598_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_be6d928e_slide_5598_06.jpg"
+  ],
+  "caption": "NVIDIA et Microsoft lancent RTX Spark pour faire tourner des modèles d'IA de pointe localement sur Windows 💻\n\nMicrosoft et NVIDIA unissent leurs forces pour transformer le PC en plateforme d'agents IA. Grâce aux \"Execution Containers\" (MXC) pour la sécurité et au matériel RTX Spark, les utilisateurs peuvent désormais exécuter des modèles massifs (jusqu'à 125B de paramètres) directement sur leur machine, sans dépendre du cloud. Pour les entreprises, la DGX Station pour Windows permet même de faire tourner des modèles à 1 billion de paramètres sur un bureau. 🚀💻🛡️\n\nPréférez-vous exécuter vos IA localement pour la confidentialité et la rapidité, ou êtes-vous à l'aise avec les modèles basés sur le cloud ?\nSource : NVIDIA\n#IA #NVIDIA #Microsoft #Windows #MachineLearning #TechNews",
+  "next_time": 1792062000,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_be6d928e_slide_5598_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_be6d928e_slide_5598_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_be6d928e_slide_5598_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_be6d928e_slide_5598_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_be6d928e_slide_5598_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_be6d928e_slide_5598_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_be6d928e_slide_5598_06.jpg"
+  ],
+  "story_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_be6d928e_story_5598.mp4",
+  "threads_caption": "NVIDIA et Microsoft lancent RTX Spark pour faire tourner des modèles d'IA de pointe localement sur Windows 💻\n\nMicrosoft et NVIDIA unissent leurs forces pour transformer le PC en plateforme d'agents IA. Grâce aux \"Execution Containers\" (MXC) pour la sécurité et au matériel RTX Spark, les utilisateurs peuvent désormais exécuter des modèles massifs (jusqu'à 125B de paramètres) directement sur leur machine, sans dépendre du cloud.\n\nSource : NVIDIA\n\n#IA"
+}
