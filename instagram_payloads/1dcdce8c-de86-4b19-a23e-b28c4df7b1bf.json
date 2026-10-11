@@ -1,0 +1,30 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "1dcdce8c-de86-4b19-a23e-b28c4df7b1bf",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1dcdce8c_slide_5611_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1dcdce8c_slide_5611_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1dcdce8c_slide_5611_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1dcdce8c_slide_5611_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1dcdce8c_slide_5611_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1dcdce8c_slide_5611_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1dcdce8c_slide_5611_06.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1dcdce8c_slide_5611_07.jpg"
+  ],
+  "caption": "Un développeur utilise Claude Opus 5.5 pour créer 7 clones open source de la suite Adobe 🎨\n\nBrandon Thomas a utilisé l'IA d'Anthropic pour \"rétro-ingénierier\" les outils de Creative Cloud. Résultat : une suite de 7 applications gratuites (Photocraft, Filmcraft, etc.) sous licences libres. Le projet est financé par la génération d'images via tokens, prouvant qu'un développeur seul peut désormais défier des géants grâce à l'IA 🚀.\n\nLe logiciel est-il devenu trop facile à copier à l'ère de l'IA, mettant fin au modèle d'abonnement classique ?\n\nSource : Numerama\n\n#IntelligenceArtificielle #ClaudeAI #OpenSource #Adobe #TechNews #IA",
+  "next_time": 1792216800,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1dcdce8c_slide_5611_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1dcdce8c_slide_5611_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1dcdce8c_slide_5611_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1dcdce8c_slide_5611_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1dcdce8c_slide_5611_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1dcdce8c_slide_5611_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1dcdce8c_slide_5611_06.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1dcdce8c_slide_5611_07.jpg"
+  ],
+  "story_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1dcdce8c_story_5611.mp4",
+  "threads_caption": "Un développeur utilise Claude Opus 5.5 pour créer 7 clones open source de la suite Adobe 🎨\n\nBrandon Thomas a utilisé l'IA d'Anthropic pour \"rétro-ingénierier\" les outils de Creative Cloud. Résultat : une suite de 7 applications gratuites (Photocraft, Filmcraft, etc.) sous licences libres. Le projet est financé par la génération d'images via tokens, prouvant qu'un développeur seul peut désormais défier des géants grâce à l'IA 🚀.\n\nSource : Numerama\n\n#IntelligenceArtificielle"
+}

@@ -1,0 +1,28 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "3487b64b-6baf-43b3-aa19-ed02c1c80e43",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3487b64b_slide_5658_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3487b64b_slide_5658_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3487b64b_slide_5658_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3487b64b_slide_5658_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3487b64b_slide_5658_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3487b64b_slide_5658_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3487b64b_slide_5658_06.jpg"
+  ],
+  "caption": "Anthropic lance un scanner IA gratuit pour détecter et corriger les failles dans les projets open-source 🛡️\n\nAnthropic déploie \"Cyber Mission\", un programme pour sécuriser les infrastructures critiques. Un scanner IA gratuit va désormais analyser le code open-source, identifier les failles et suggérer des correctifs automatiquement. Bien que la précision soit estimée à plus de 90 %, les rapports sont générés sans intervention humaine. Les mainteneurs de projets GitHub peuvent s'inscrire dès maintenant.\n\nFaut-il confier la sécurité de nos infrastructures critiques à des outils automatisés sans supervision humaine ?\n\nSources : The Decoder\n\n#IA #Cybersécurité #OpenSource #Anthropic #MachineLearning #TechNews",
+  "next_time": 1792252800,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3487b64b_slide_5658_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3487b64b_slide_5658_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3487b64b_slide_5658_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3487b64b_slide_5658_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3487b64b_slide_5658_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3487b64b_slide_5658_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3487b64b_slide_5658_06.jpg"
+  ],
+  "story_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3487b64b_story_5658.mp4",
+  "threads_caption": "Anthropic lance un scanner IA gratuit pour détecter et corriger les failles dans les projets open-source 🛡️\n\nAnthropic déploie \"Cyber Mission\", un programme pour sécuriser les infrastructures critiques. Un scanner IA gratuit va désormais analyser le code open-source, identifier les failles et suggérer des correctifs automatiquement. Bien que la précision soit estimée à plus de 90 %, les rapports sont générés sans intervention humaine.\n\nSources : The Decoder\n\n#IA"
+}

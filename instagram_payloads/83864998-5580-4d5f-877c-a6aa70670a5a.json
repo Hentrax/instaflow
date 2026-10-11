@@ -1,0 +1,28 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "83864998-5580-4d5f-877c-a6aa70670a5a",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_83864998_slide_5626_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_83864998_slide_5626_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_83864998_slide_5626_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_83864998_slide_5626_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_83864998_slide_5626_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_83864998_slide_5626_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_83864998_slide_5626_06.jpg"
+  ],
+  "caption": "L'IA accélère le portage illégal de jeux cultes comme GTA V directement dans votre navigateur 🎮\n\nGrâce à la combinaison de WebAssembly, WebGPU et des assistants de code par IA, des développeurs indépendants parviennent à faire tourner des titres complexes (Skate 3, Halo, CoD) sans installation. L'IA intervient ici pour traduire rapidement le code source original vers des formats compatibles avec les navigateurs modernes. 🚀💻⚠️\n\nCes portages illégaux facilitent l'accessibilité aux jeux, mais posent des risques de sécurité et de droits d'auteur. Faut-il privilégier l'accessibilité via le web ou la protection des éditeurs ?\n\nSources : Numerama\n\n#IA #IntelligenceArtificielle #WebAssembly #Gaming #Technologie #Programmation",
+  "next_time": 1792166400,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_83864998_slide_5626_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_83864998_slide_5626_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_83864998_slide_5626_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_83864998_slide_5626_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_83864998_slide_5626_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_83864998_slide_5626_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_83864998_slide_5626_06.jpg"
+  ],
+  "story_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_83864998_story_5626.mp4",
+  "threads_caption": "L'IA accélère le portage illégal de jeux cultes comme GTA V directement dans votre navigateur 🎮\n\nGrâce à la combinaison de WebAssembly, WebGPU et des assistants de code par IA, des développeurs indépendants parviennent à faire tourner des titres complexes (Skate 3, Halo, CoD) sans installation. L'IA intervient ici pour traduire rapidement le code source original vers des formats compatibles avec les navigateurs modernes.\n\nSources : Numerama\n\n#IA"
+}

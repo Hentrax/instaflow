@@ -1,0 +1,11 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "7e931806-8754-48f9-9f60-d2cde62f7435",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7e931806_video_5673.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Microsoft vient de lancer Decision-1, un modèle spécialisé pour prendre des décisions rapides et structurées 🎯.\n\nContrairement aux modèles généralistes, il gère les classifications, les évaluations et le routage pour guider les agents IA. Basé sur Qwen3.5-9B, il est le plus précis sur 36 benchmarks testés sur 150 000 questions. Il est 2,5 fois plus rapide que le modèle concurrent H2O-Lightning-4B. Il est conçu pour guider les agents à travers des environnements complexes. Il est disponible via Microsoft Foundry et OpenRouter à 0,042 dollar par million de tokens en entrée, avec des tokens en sortie gratuits. Penses-tu qu'il est préférable d'utiliser une IA ultra-spécialisée pour une tâche précise ou une IA généraliste capable de tout faire ?\n\nSource : The Decoder\n\n#Microsoft #AI #Decision1 #MachineLearning #TechNews",
+  "next_time": 1792321200,
+  "storage": "release",
+  "threads_caption": "Microsoft vient de lancer Decision-1, un modèle spécialisé pour prendre des décisions rapides et structurées 🎯.\n\nContrairement aux modèles généralistes, il gère les classifications, les évaluations et le routage pour guider les agents IA. Basé sur Qwen3.5-9B, il est le plus précis sur 36 benchmarks testés sur 150 000 questions. Il est 2,5 fois plus rapide que le modèle concurrent H2O-Lightning-4B.\n\nSource : The Decoder\n\n#Microsoft"
+}
