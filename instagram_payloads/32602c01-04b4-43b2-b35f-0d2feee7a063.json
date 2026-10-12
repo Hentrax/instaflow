@@ -1,0 +1,28 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "32602c01-04b4-43b2-b35f-0d2feee7a063",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_32602c01_slide_5714_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_32602c01_slide_5714_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_32602c01_slide_5714_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_32602c01_slide_5714_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_32602c01_slide_5714_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_32602c01_slide_5714_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_32602c01_slide_5714_06.jpg"
+  ],
+  "caption": "L'usage de ChatGPT pendant seulement 10 minutes réduit la capacité humaine à persévérer face à un problème 🧠\n\nUne étude menée par des chercheurs de Carnegie Mellon et d'Oxford révèle que l'usage de l'IA peut affaiblir notre persévérance cognitive. En testant des calculs et de la compréhension écrite, les chercheurs ont observé une chute immédiate des performances dès que l'assistance IA était retirée. L'instantanéité des réponses semble « éteindre » l'effort de réflexion, un effet potentiellement plus rapide que celui des outils classiques comme le GPS 📉.\n\nVas-tu limiter l'usage de l'IA à des tâches simples pour préserver ta capacité de réflexion ?\n\nSources : Numerama\n\n#IntelligenceArtificielle #ChatGPT #Neurosciences #Productivité #IA #Recherche",
+  "next_time": 1792389600,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_32602c01_slide_5714_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_32602c01_slide_5714_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_32602c01_slide_5714_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_32602c01_slide_5714_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_32602c01_slide_5714_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_32602c01_slide_5714_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_32602c01_slide_5714_06.jpg"
+  ],
+  "story_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_32602c01_story_5714.mp4",
+  "threads_caption": "L'usage de ChatGPT pendant seulement 10 minutes réduit la capacité humaine à persévérer face à un problème 🧠\n\nUne étude menée par des chercheurs de Carnegie Mellon et d'Oxford révèle que l'usage de l'IA peut affaiblir notre persévérance cognitive. En testant des calculs et de la compréhension écrite, les chercheurs ont observé une chute immédiate des performances dès que l'assistance IA était retirée.\n\nSources : Numerama\n\n#IntelligenceArtificielle"
+}
