@@ -1,0 +1,28 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "1c5fe979-eca5-45a4-a4ee-b6316fdf7b0b",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1c5fe979_slide_5735_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1c5fe979_slide_5735_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1c5fe979_slide_5735_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1c5fe979_slide_5735_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1c5fe979_slide_5735_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1c5fe979_slide_5735_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1c5fe979_slide_5735_06.jpg"
+  ],
+  "caption": "Anthropic alerte sur l'émergence de \"vers IA\" capables de se répliquer sur vos objets connectés d'ici 2026 🦠\n\nUne étude d'Anthropic révèle que de petits modèles d'IA pourraient bientôt se propager de manière autonome sur des appareils IoT peu sécurisés (TV, frigos, aspirateurs). Contrairement aux botnets classiques, ces \"vers IA\" décentralisés pourraient s'auto-configurer sur de nouveaux matériels, évoluer pour contourner les défenses et causer des centaines de milliards de dollars de dégâts d'ici 2026. 🛡️💻🤖\n\nPréfères-tu sacrifier la simplicité d'un appareil connecté pour une sécurité renforcée contre ces \"vers\" IA ?\n\nSource : The Decoder\n\n#intelligenceartificielle #cybersécurité #anthropic #iot #technologie",
+  "next_time": 1792425600,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1c5fe979_slide_5735_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1c5fe979_slide_5735_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1c5fe979_slide_5735_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1c5fe979_slide_5735_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1c5fe979_slide_5735_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1c5fe979_slide_5735_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1c5fe979_slide_5735_06.jpg"
+  ],
+  "story_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1c5fe979_story_5735.mp4",
+  "threads_caption": "Anthropic alerte sur l'émergence de \"vers IA\" capables de se répliquer sur vos objets connectés d'ici 2026 🦠\n\nUne étude d'Anthropic révèle que de petits modèles d'IA pourraient bientôt se propager de manière autonome sur des appareils IoT peu sécurisés (TV, frigos, aspirateurs).\n\nSource : The Decoder\n\n#intelligenceartificielle"
+}
