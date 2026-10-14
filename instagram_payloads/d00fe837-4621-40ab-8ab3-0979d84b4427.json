@@ -1,0 +1,11 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "d00fe837-4621-40ab-8ab3-0979d84b4427",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d00fe837_video_5719.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Sakana AI a développé une méthode appelée MASS pour permettre à une IA de s'améliorer toute seule sans aide extérieure. 🤖\n\nLe concept est simple : une seule IA se divise en plusieurs \"sous-agents\" qui collaborent pour résoudre une tâche, juger le résultat et optimiser la méthode de travail. Chaque agent reçoit un \"contrat\" définissant ses instructions spécifiques et un ordre de passage précis, créant une sorte de chaîne de production automatisée. Le modèle de base utilisé est Qwen3.6-27B. Pendant ce processus, les poids restent figés. L'IA propose de nouveaux flux de travail et sélectionne les meilleurs résultats pour s'auto-entraîner via une technique appelée LoRA. Les tests montrent des résultats concrets : sur des tâches complexes en robotique ou en finance, le taux de réussite est passé de 53,9 % à 69,9 % après seulement deux cycles. Cependant, il existe un risque : si l'IA commet une erreur et que son propre juge ne la détecte pas, elle peut intégrer cette faute comme une réussite et la répéter à chaque cycle. Face à ce risque de \"points aveugles\" qui s'auto-amplifient, accepteriez-vous de confier des tâches critiques à une IA qui est sa propre juge et son propre correcteur ?\n\nSources : The Decoder\n\n#SakanaAI #LLM #MachineLearning #AIResearch #RecursiveSelfImprovement",
+  "next_time": 1792598400,
+  "storage": "release",
+  "threads_caption": "Sakana AI a développé une méthode appelée MASS pour permettre à une IA de s'améliorer toute seule sans aide extérieure. 🤖\n\nLe concept est simple : une seule IA se divise en plusieurs \"sous-agents\" qui collaborent pour résoudre une tâche, juger le résultat et optimiser la méthode de travail. Chaque agent reçoit un \"contrat\" définissant ses instructions spécifiques et un ordre de passage précis, créant une sorte de chaîne de production automatisée.\n\nSources : The Decoder\n\n#SakanaAI"
+}

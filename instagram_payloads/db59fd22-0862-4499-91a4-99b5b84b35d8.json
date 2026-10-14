@@ -1,0 +1,11 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "db59fd22-0862-4499-91a4-99b5b84b35d8",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_db59fd22_video_5750.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Google vient de lancer Gemini 4 Argon, son nouveau modèle frontière conçu pour le raisonnement complexe.\n\nIl est particulièrement performant en cybersécurité, capable de trouver et de corriger de manière autonome des vulnérabilités critiques. Côté code, il a déjà permis à des ingénieurs de refactoriser une base de données de 40 millions de lignes en seulement quelques semaines. Il introduit une limite de sortie d'un million de tokens, une première dans l'industrie pour résoudre des problèmes très longs en une seule fois. Le modèle peut aussi générer des scènes 3D en pur code ou apprendre des mouvements de robots en observant une simple vidéo. Pour le lancement, il est proposé à 2 dollars par million de tokens en entrée et 10 dollars en sortie. Il est disponible dès maintenant pour les développeurs et les abonnés Ultra. Est-ce que tu confierais la sécurité de tes logiciels à une IA autonome ?\n\nSources: The Decoder · TechCrunch · Google · Numerama\n\n#Google #Gemini4 #AI #Cybersecurity #MachineLearning #TechNews",
+  "next_time": 1792580400,
+  "storage": "release",
+  "threads_caption": "Google vient de lancer Gemini 4 Argon, son nouveau modèle frontière conçu pour le raisonnement complexe.\n\nIl est particulièrement performant en cybersécurité, capable de trouver et de corriger de manière autonome des vulnérabilités critiques. Côté code, il a déjà permis à des ingénieurs de refactoriser une base de données de 40 millions de lignes en seulement quelques semaines.\n\nSources: The Decoder · TechCrunch · Google · Numerama\n\n#Google"
+}
