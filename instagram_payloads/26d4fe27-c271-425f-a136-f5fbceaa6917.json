@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "26d4fe27-c271-425f-a136-f5fbceaa6917",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_26d4fe27_video_1082.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "The robot vacuum thinks it’s the head of the household, but the cat is ready to initiate a hostile takeover. 😼🧹 #catsoftiktok #robotvacuum #funnycats #techfails #predatorvsmachine #homehumor",
+  "next_time": 1793872800,
+  "storage": "release",
+  "threads_caption": "The robot vacuum thinks it’s the head of the household, but the cat is ready to initiate a hostile takeover.\n\n😼🧹 #catsoftiktok",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      10
+    ],
+    "timezone": ""
+  }
+}
