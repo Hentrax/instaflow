@@ -1,0 +1,19 @@
+{
+  "compte": "miniature",
+  "pub_id": "0c1f504e-010a-40d3-b8d2-3e2bfec6b9a4",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_0c1f504e_video_226.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "The research team has been waiting for this expansion for months. Finally, the observation deck is ready for their first view of the canopy. A little help from a 'giant' from upstairs made it happen! 🏗️🌿",
+  "next_time": 1793635200,
+  "storage": "release",
+  "threads_caption": "The research team has been waiting for this expansion for months. Finally, the observation deck is ready for their first view of the canopy. A little help from a 'giant' from upstairs made it happen! 🏗️🌿",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      0,
+      12
+    ],
+    "timezone": ""
+  }
+}

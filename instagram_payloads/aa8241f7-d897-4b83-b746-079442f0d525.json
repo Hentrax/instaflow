@@ -1,0 +1,19 @@
+{
+  "compte": "miniature",
+  "pub_id": "aa8241f7-d897-4b83-b746-079442f0d525",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_aa8241f7_video_201.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "The café was enjoying a peaceful morning until the North Wind suddenly swept in from the East. It’s a bit of a drafty day today, but it certainly brings a lively energy to the square—even if the source of the gale is just a bit closer than most would expect.",
+  "next_time": 1793815200,
+  "storage": "release",
+  "threads_caption": "The café was enjoying a peaceful morning until the North Wind suddenly swept in from the East. It’s a bit of a drafty day today, but it certainly brings a lively energy to the square—even if the source of the gale is just a bit closer than most would expect.",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      0,
+      12
+    ],
+    "timezone": ""
+  }
+}
