@@ -1,0 +1,36 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "aa4c840a-fd6d-42e5-8857-5862edaeb078",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_aa4c840a_slide_5799_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_aa4c840a_slide_5799_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_aa4c840a_slide_5799_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_aa4c840a_slide_5799_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_aa4c840a_slide_5799_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_aa4c840a_slide_5799_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_aa4c840a_slide_5799_06.jpg"
+  ],
+  "caption": "Mistral lance Timestral, une famille de modèles de séries temporelles qui surpasse des géants avec seulement 209M de paramètres 📊\n\nMistral vient de publier Timestral, ses premiers modèles de fondation dédiés aux séries temporelles (TSFM). 🚀 Ces modèles permettent de prévoir des données complexes (capteurs industriels, flux financiers) avec une précision de pointe tout en étant extrêmement légers. Ils supportent les prévisions probabilistes (21 quantiles) et les variables externes comme la météo ou les calendriers de production. Le point fort ? Ils tournent sur CPU sans nécessiter de GPU, tout en surpassant des modèles beaucoup plus volumineux sur les benchmarks standards. 📈\n\nPrêt à entraîner un modèle de prévision sur vos propres données industrielles ou financières ? 🤔\n\nSource : Mistral\n\n#IA #MachineLearning #MistralAI #DataScience #TimeSeries",
+  "next_time": 1792735200,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_aa4c840a_slide_5799_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_aa4c840a_slide_5799_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_aa4c840a_slide_5799_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_aa4c840a_slide_5799_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_aa4c840a_slide_5799_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_aa4c840a_slide_5799_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_aa4c840a_slide_5799_06.jpg"
+  ],
+  "story_slides": true,
+  "threads_caption": "Mistral lance Timestral, une famille de modèles de séries temporelles qui surpasse des géants avec seulement 209M de paramètres 📊\n\nMistral vient de publier Timestral, ses premiers modèles de fondation dédiés aux séries temporelles (TSFM). 🚀 Ces modèles permettent de prévoir des données complexes (capteurs industriels, flux financiers) avec une précision de pointe tout en étant extrêmement légers.\n\nSource : Mistral\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}

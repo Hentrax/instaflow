@@ -1,0 +1,36 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "cf4502a1-cc12-485f-ace7-b34331407d93",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf4502a1_slide_5789_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf4502a1_slide_5789_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf4502a1_slide_5789_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf4502a1_slide_5789_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf4502a1_slide_5789_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf4502a1_slide_5789_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf4502a1_slide_5789_06.jpg"
+  ],
+  "caption": "YouTube Music identifie désormais les chansons créées par IA 🎵\n\nLa plateforme lance un système d'étiquetage pour clarifier le rôle de l'intelligence artificielle dans la création musicale. Les utilisateurs pourront distinguer les titres \"Entièrement IA\", \"Partiellement IA\" ou \"Pas d'IA\" directement sur le lecteur. En cliquant sur l'étiquette, des détails supplémentaires sur l'usage de l'IA sont fournis. Alors que YouTube mise sur la transparence, d'autres plateformes comme Deezer ou TIDAL proposent déjà des options pour filtrer ou exclure ces contenus. 🎧🤖📊\n\nPréfères-tu que les plateformes étiquettent la musique IA ou qu'elles la filtrent automatiquement ?\n\nSource : TechCrunch\n\n#IA #Musique #YouTubeMusic #IntelligenceArtificielle #Streaming #TechNews",
+  "next_time": 1792771200,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf4502a1_slide_5789_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf4502a1_slide_5789_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf4502a1_slide_5789_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf4502a1_slide_5789_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf4502a1_slide_5789_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf4502a1_slide_5789_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf4502a1_slide_5789_06.jpg"
+  ],
+  "story_slides": true,
+  "threads_caption": "YouTube Music identifie désormais les chansons créées par IA 🎵\n\nLa plateforme lance un système d'étiquetage pour clarifier le rôle de l'intelligence artificielle dans la création musicale. Les utilisateurs pourront distinguer les titres \"Entièrement IA\", \"Partiellement IA\" ou \"Pas d'IA\" directement sur le lecteur. En cliquant sur l'étiquette, des détails supplémentaires sur l'usage de l'IA sont fournis.\n\nSource : TechCrunch\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
