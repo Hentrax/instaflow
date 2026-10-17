@@ -1,0 +1,36 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "3cac5a8d-899d-4552-8e97-ece5273190c0",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3cac5a8d_slide_5828_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3cac5a8d_slide_5828_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3cac5a8d_slide_5828_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3cac5a8d_slide_5828_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3cac5a8d_slide_5828_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3cac5a8d_slide_5828_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3cac5a8d_slide_5828_06.jpg"
+  ],
+  "caption": "Anthropic donne un accès \"niveau employé\" aux chercheurs de l'ONG METR pour auditer ses modèles 🛡️\n\nLa société fournit à 6 chercheurs de l'ONG METR un accès complet (ordinateurs, bureaux, outils internes) pour auditer de manière indépendante la sécurité et la gestion des risques de ses modèles. METR pourra publier ses conclusions sans que la société puisse exercer de droit de veto, une mesure comparée à la surveillance des banques par les régulateurs. 📊 🚀 🛡️\n\nSources : TechCrunch\n\n#IA #Anthropic #Cybersécurité #Transparence #MachineLearning #TechNews",
+  "next_time": 1792839600,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3cac5a8d_slide_5828_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3cac5a8d_slide_5828_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3cac5a8d_slide_5828_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3cac5a8d_slide_5828_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3cac5a8d_slide_5828_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3cac5a8d_slide_5828_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3cac5a8d_slide_5828_06.jpg"
+  ],
+  "story_slides": true,
+  "threads_caption": "Anthropic donne un accès \"niveau employé\" aux chercheurs de l'ONG METR pour auditer ses modèles 🛡️\n\nLa société fournit à 6 chercheurs de l'ONG METR un accès complet (ordinateurs, bureaux, outils internes) pour auditer de manière indépendante la sécurité et la gestion des risques de ses modèles. METR pourra publier ses conclusions sans que la société puisse exercer de droit de veto, une mesure comparée à la surveillance des banques par les régulateurs.\n\nSources : TechCrunch\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
