@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "e53605c7-db17-46b2-ba0f-d5ddc80cf1cd",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_e53605c7_video_1088.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "The refrigerator was designed for human hands, but my cat clearly thinks it’s a buffet with a 'pull' requirement. 😼 Gravity is his co-conspirator! #catlife #kitchenheist #funnycats #petchaos #refrigeratorgoals #catlogic",
+  "next_time": 1794052800,
+  "storage": "release",
+  "threads_caption": "The refrigerator was designed for human hands, but my cat clearly thinks it’s a buffet with a 'pull' requirement. 😼 Gravity is his co-conspirator!\n\n#catlife",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      10
+    ],
+    "timezone": ""
+  }
+}
