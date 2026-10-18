@@ -1,0 +1,36 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "ba7f0b2c-f34f-455e-b5c7-a0aeb14c0eb6",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ba7f0b2c_slide_5865_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ba7f0b2c_slide_5865_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ba7f0b2c_slide_5865_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ba7f0b2c_slide_5865_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ba7f0b2c_slide_5865_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ba7f0b2c_slide_5865_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ba7f0b2c_slide_5865_06.jpg"
+  ],
+  "caption": "Anthropic prépare les agents IA à négocier des contrats en consultant des cabinets d'avocats ⚖️\n\nAnthropic développe des normes de négociation pour ses futurs agents IA, qui pourraient bientôt gérer les prix, résoudre des plaintes ou améliorer des offres de contrats de manière autonome. L'entreprise s'inquiète du fait que des modèles plus performants pourraient obtenir de meilleurs deals, accentuant ainsi les inégalités sociales. Pour améliorer le jugement de Claude dans les domaines complexes (droit, philosophie), Anthropic recrute des \"Conceptual Reasoning Fellows\" (experts en droit, philosophie, etc.) pour tester le modèle sur des questions où les réponses ne sont pas binaires, palliant ainsi le manque de données vérifiables dans les sciences humaines. 🤖⚖️🎓\n\nAccepteriez-vous de laisser un agent IA négocier un contrat commercial à votre place ?\n\nSource : The Decoder\n\n#IA #Anthropic #Claude #IntelligenceArtificielle #TechNews #AgentIA",
+  "next_time": 1792947600,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ba7f0b2c_slide_5865_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ba7f0b2c_slide_5865_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ba7f0b2c_slide_5865_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ba7f0b2c_slide_5865_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ba7f0b2c_slide_5865_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ba7f0b2c_slide_5865_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ba7f0b2c_slide_5865_06.jpg"
+  ],
+  "story_slides": true,
+  "threads_caption": "Anthropic prépare les agents IA à négocier des contrats en consultant des cabinets d'avocats ⚖️\n\nAnthropic développe des normes de négociation pour ses futurs agents IA, qui pourraient bientôt gérer les prix, résoudre des plaintes ou améliorer des offres de contrats de manière autonome. L'entreprise s'inquiète du fait que des modèles plus performants pourraient obtenir de meilleurs deals, accentuant ainsi les inégalités sociales.\n\nSource : The Decoder\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}

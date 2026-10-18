@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "15699310-2758-4dbd-9f78-ea6e5ac24810",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_15699310_video_5868.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Arcadia 🛡️. La France développe son propre système de commandement militaire boosté à l'IA pour ne plus dépendre des solutions américaines.\n\nCe logiciel fonctionne comme un « store » d'applications : un socle unique où l'on peut brancher des outils conçus par différentes entreprises. L'objectif est de connecter entre 1 500 et 2 000 systèmes d'information différents pour offrir une image unique de la situation sur le terrain. Le système s'appuie sur un modèle de langage français baptisé Berthier, une technologie similaire à celle de ChatGPT. Il a été développé en collaboration avec des entreprises comme Thales, Safran, Airbus et Mistral AI. Lors d'un test concret, l'IA a permis de planifier la maintenance de navires en moins d'une minute, contre un travail manuel fastidieux auparavant. Le projet est actuellement en phase de test et devrait entrer en service opérationnel d'ici la fin de l'année 2027.\n\nSource : Numerama\n\n#IA #Defense #Technologie #France #Arcadia #Souveraineté",
+  "next_time": 1792929600,
+  "storage": "release",
+  "threads_caption": "Arcadia 🛡️. La France développe son propre système de commandement militaire boosté à l'IA pour ne plus dépendre des solutions américaines.\n\nCe logiciel fonctionne comme un « store » d'applications : un socle unique où l'on peut brancher des outils conçus par différentes entreprises. L'objectif est de connecter entre 1 500 et 2 000 systèmes d'information différents pour offrir une image unique de la situation sur le terrain.\n\nSource : Numerama\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
