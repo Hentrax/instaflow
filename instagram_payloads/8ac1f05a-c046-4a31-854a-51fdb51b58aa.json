@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "8ac1f05a-c046-4a31-854a-51fdb51b58aa",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8ac1f05a_video_5860.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Deepseek-V4.1-Flash-1017 surpasse des modèles plus imposants comme GPT 5.6-Sol et Claude Opus 5 sur les tâches de codage et d'agents. 🚀\n\nIl repose sur le 'Reinforcement Learning with Self-Feedback', une méthode où le modèle s'auto-évalue en utilisant ses propres scores de confiance. Cette approche permet de développer des projets complexes, comme la programmation de jeux ou la modélisation 3D, sans avoir besoin d'évaluateurs humains. Le modèle est plus rapide, produit des réponses plus courtes et offre un meilleur équilibre entre performance et coût que sa version précédente. Sur le benchmark DeepSWE, il obtient un score de 77 % à moins de 0,20 $ par tâche, contre 2 $ à 10 $ pour ses concurrents. Deepseek rend également ses outils de recherche internes, 'Search & Fetch', accessibles aux développeurs via une API publique. Préfères-tu utiliser un modèle plus petit et économique pour tes tâches de codage, ou un modèle plus large et plus coûteux ?\n\nSource : The Decoder\n\n#Deepseek #IA #MachineLearning #Coding #TechNews",
+  "next_time": 1792998000,
+  "storage": "release",
+  "threads_caption": "Deepseek-V4.1-Flash-1017 surpasse des modèles plus imposants comme GPT 5.6-Sol et Claude Opus 5 sur les tâches de codage et d'agents. 🚀\n\nIl repose sur le 'Reinforcement Learning with Self-Feedback', une méthode où le modèle s'auto-évalue en utilisant ses propres scores de confiance. Cette approche permet de développer des projets complexes, comme la programmation de jeux ou la modélisation 3D, sans avoir besoin d'évaluateurs humains.\n\nSource : The Decoder\n\n#Deepseek",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}

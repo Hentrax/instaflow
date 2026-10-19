@@ -1,0 +1,19 @@
+{
+  "compte": "miniature",
+  "pub_id": "e04993b1-65c2-4f9e-b416-c70593a0b03e",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_e04993b1_video_225.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "A bit of a heavy lifting day in the harbor! This visitor fell from the workshop rafters and the village team is doing their best to relocate it to the maintenance shack. It's a bit larger than expected, but they're handling it like pros.",
+  "next_time": 1794175200,
+  "storage": "release",
+  "threads_caption": "A bit of a heavy lifting day in the harbor! This visitor fell from the workshop rafters and the village team is doing their best to relocate it to the maintenance shack. It's a bit larger than expected, but they're handling it like pros.",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      0,
+      12
+    ],
+    "timezone": ""
+  }
+}

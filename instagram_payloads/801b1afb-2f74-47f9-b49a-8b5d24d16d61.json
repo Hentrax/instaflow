@@ -1,0 +1,36 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "801b1afb-2f74-47f9-b49a-8b5d24d16d61",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_801b1afb_slide_5821_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_801b1afb_slide_5821_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_801b1afb_slide_5821_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_801b1afb_slide_5821_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_801b1afb_slide_5821_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_801b1afb_slide_5821_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_801b1afb_slide_5821_06.jpg"
+  ],
+  "caption": "Meta frappe fort avec Muse Spark Open : un modèle open-weight de 816 milliards de paramètres conçu pour les Macs ⚡\n\nMeta lance Muse Spark Open, un modèle multimodal capable de gérer du texte, de l'image, de la vidéo et de l'audio. Avec 816 milliards de paramètres (42 milliards actifs) et 1 million de tokens de contexte, il surpasse des concurrents comme Qwen ou Kimi sur plusieurs benchmarks. Il est particulièrement optimisé pour le codage complexe et les tâches d'agents autonomes, capable de tourner localement sur des Mac Studio équipés de puces M5 Ultra et de 1 To de RAM. Les poids sont disponibles sur Hugging Face. 🚀💻📊\n\nEst-ce que la possibilité de faire tourner un modèle aussi puissant localement sur un Mac changerait votre façon de coder ou de créer ?\n\nSources : The Decoder · TechCrunch\n\n#Meta #IA #OpenSource #MachineLearning #Llama #MacStudio #MuseSparkOpen",
+  "next_time": 1793016000,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_801b1afb_slide_5821_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_801b1afb_slide_5821_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_801b1afb_slide_5821_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_801b1afb_slide_5821_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_801b1afb_slide_5821_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_801b1afb_slide_5821_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_801b1afb_slide_5821_06.jpg"
+  ],
+  "story_slides": true,
+  "threads_caption": "Meta frappe fort avec Muse Spark Open : un modèle open-weight de 816 milliards de paramètres conçu pour les Macs ⚡\n\nMeta lance Muse Spark Open, un modèle multimodal capable de gérer du texte, de l'image, de la vidéo et de l'audio. Avec 816 milliards de paramètres (42 milliards actifs) et 1 million de tokens de contexte, il surpasse des concurrents comme Qwen ou Kimi sur plusieurs benchmarks.\n\nSources : The Decoder · TechCrunch\n\n#Meta",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
