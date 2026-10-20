@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "9d067ce2-af5d-48be-aed8-ae1279e66ed1",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9d067ce2_video_5923.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Mistral Large 4 est confronté à Muse Spark Open de Meta.\n\nSur l'indice d'intelligence global, Muse Spark Open prend une légère avance avec 39 points contre 38 pour Mistral. Mais Mistral Large 4 surpasse Muse sur les tâches d'agent, comme l'ingénierie logicielle et l'administration système. Sur le test Terminal-Bench, Mistral atteint 27 % de réussite contre seulement 8 % pour Muse. Mistral est aussi beaucoup plus verbeux, produisant 1,8 fois plus de tokens que Muse, ce qui augmente son coût d'exécution de 36 %. Mistral a aussi appliqué une remise de 50 % sur ses prix d'API, ramenant le coût à environ 804 dollars pour un test d'index standard. Si tu devais choisir entre un modèle pour la culture générale ou un modèle spécialisé pour l'automatisation et le code, lequel choisirais-tu ?\n\nSources: ActuIA\n\n#MistralAI #MuseSparkOpen #LLM #IA #TechNews #ArtificialAnalysis",
+  "next_time": 1793102400,
+  "storage": "release",
+  "threads_caption": "Mistral Large 4 est confronté à Muse Spark Open de Meta.\n\nSur l'indice d'intelligence global, Muse Spark Open prend une légère avance avec 39 points contre 38 pour Mistral. Mais Mistral Large 4 surpasse Muse sur les tâches d'agent, comme l'ingénierie logicielle et l'administration système. Sur le test Terminal-Bench, Mistral atteint 27 % de réussite contre seulement 8 % pour Muse.\n\nSources: ActuIA\n\n#MistralAI",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
