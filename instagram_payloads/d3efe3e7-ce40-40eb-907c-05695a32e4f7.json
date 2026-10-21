@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "d3efe3e7-ce40-40eb-907c-05695a32e4f7",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d3efe3e7_video_5922.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Tu peux maintenant utiliser Claude Code pour \"vibe-coder\" ta smart TV et la simplifier. 📺\n\nL'objectif est de supprimer les publicités, le suivi de données et les mises à jour forcées pour ne garder que tes applications. Des projets comme \"dumbtv\" ou \"cleanyourtv\" permettent de nettoyer les systèmes Android, Google et Fire TV à distance. Les utilisateurs utilisent des modèles comme Claude Opus 5.5 ou Deepseek V4.1 Flash pour automatiser ces modifications via Wi-Fi. Certains envoient simplement le modèle de leur télé à Claude Code en lui demandant de \"pirater\" l'appareil pour supprimer le lag. Cela permet de remplacer un lanceur d'applications de 192 Mo par un système personnalisé de 83 Mo et de désactiver des dizaines d'apps inutiles. Est-ce que tu confierais à une IA la modification du système de ta télé pour supprimer les pubs, malgré le risque de bloquer l'appareil ?\n\nSource : TechCrunch\n\n#IA #ClaudeCode #SmartTV #VibeCoding #TechNews",
+  "next_time": 1793170800,
+  "storage": "release",
+  "threads_caption": "Tu peux maintenant utiliser Claude Code pour \"vibe-coder\" ta smart TV et la simplifier. 📺\n\nL'objectif est de supprimer les publicités, le suivi de données et les mises à jour forcées pour ne garder que tes applications. Des projets comme \"dumbtv\" ou \"cleanyourtv\" permettent de nettoyer les systèmes Android, Google et Fire TV à distance. Les utilisateurs utilisent des modèles comme Claude Opus 5.5 ou Deepseek V4.1 Flash pour automatiser ces modifications via Wi-Fi.\n\nSource : TechCrunch\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
