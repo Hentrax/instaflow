@@ -1,0 +1,45 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "402e0d4a-3428-4cb7-ae45-58ad992eb24a",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_402e0d4a_slide_6046_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_402e0d4a_slide_6046_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_402e0d4a_slide_6046_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_402e0d4a_slide_6046_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_402e0d4a_slide_6046_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_402e0d4a_slide_6046_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_402e0d4a_slide_6046_06.jpg"
+  ],
+  "caption": "Recursive lance Flint, un modèle de code ultra-rapide construit majoritairement par une IA ⚡\n\nRecursive a dévoilé Flint, un modèle de codage conçu pour tourner localement sur votre ordinateur. 💻 Construit en moins de 4 mois par une petite équipe grâce à la \"Eureka Machine\" (une IA qui génère elle-même le code), il utilise une architecture \"Mixture-of-Experts\" pour rester léger et rapide. 🚀 Il permet de coder hors ligne, de garder ses données privées et d'économiser sur les frais de cloud. 🔒 Il surpasse déjà plusieurs modèles existants sur des tests de correction de bugs réels et est disponible gratuitement en open-source. 📊\n\nPréféreriez-vous utiliser un modèle local et privé comme Flint ou continuer à dépendre des services cloud payants ?\n\nSources : TechCrunch\n\n#IA #IntelligenceArtificielle #Coding #OpenSource #MachineLearning #RecursiveAI",
+  "next_time": 1793257200,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_402e0d4a_slide_6046_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_402e0d4a_slide_6046_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_402e0d4a_slide_6046_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_402e0d4a_slide_6046_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_402e0d4a_slide_6046_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_402e0d4a_slide_6046_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_402e0d4a_slide_6046_06.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_402e0d4a_story_slide_6046_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_402e0d4a_story_slide_6046_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_402e0d4a_story_slide_6046_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_402e0d4a_story_slide_6046_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_402e0d4a_story_slide_6046_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_402e0d4a_story_slide_6046_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_402e0d4a_story_slide_6046_06.jpg"
+  ],
+  "threads_caption": "Recursive lance Flint, un modèle de code ultra-rapide construit majoritairement par une IA ⚡\n\nRecursive a dévoilé Flint, un modèle de codage conçu pour tourner localement sur votre ordinateur. 💻 Construit en moins de 4 mois par une petite équipe grâce à la \"Eureka Machine\" (une IA qui génère elle-même le code), il utilise une architecture \"Mixture-of-Experts\" pour rester léger et rapide.\n\nSources : TechCrunch\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
