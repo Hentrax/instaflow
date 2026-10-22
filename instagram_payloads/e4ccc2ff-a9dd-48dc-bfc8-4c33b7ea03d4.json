@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "e4ccc2ff-a9dd-48dc-bfc8-4c33b7ea03d4",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_e4ccc2ff_video_1086.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "The 'whipped cream' incident of 2024 has officially ruined the kitchen. 🐾🎂 #catchef #kitchenfail #funnycat #whippedcream #chaos #felinefail",
+  "next_time": 1794412800,
+  "storage": "release",
+  "threads_caption": "The 'whipped cream' incident of 2024 has officially ruined the kitchen.\n\n🐾🎂 #catchef",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      10
+    ],
+    "timezone": ""
+  }
+}
