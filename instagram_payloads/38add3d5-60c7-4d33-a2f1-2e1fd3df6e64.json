@@ -5,13 +5,13 @@
   "media_type": "VIDEO",
   "image_url": null,
   "caption": "I summoned the Blue Spirits to grace my study. 🦋 They are quite magnificent, even if my vase has decided to take a nap on the floor. 🏰✨ #WizardCat #MagicCastle #RoyalFeline",
-  "next_time": 1794142800,
+  "next_time": 1794150000,
   "storage": "release",
   "threads_caption": "I summoned the Blue Spirits to grace my study. 🦋 They are quite magnificent, even if my vase has decided to take a nap on the floor.\n\n🏰✨ #WizardCat",
   "schedule": {
     "delay_hours": 25.0,
     "quiet_hours": [
-      22,
+      20,
       10
     ],
     "timezone": ""

@@ -5,13 +5,13 @@
   "media_type": "VIDEO",
   "image_url": null,
   "caption": "Engineering a masterpiece of heist logic: the snack drawer is now a buffet. 😼 Just a little 'gravity' and a lot of audacity. #catlife #heist #kitchenchaos #catlogic #funnycats #feralenergy",
-  "next_time": 1794322800,
+  "next_time": 1794330000,
   "storage": "release",
   "threads_caption": "Engineering a masterpiece of heist logic: the snack drawer is now a buffet. 😼 Just a little 'gravity' and a lot of audacity.\n\n#catlife",
   "schedule": {
     "delay_hours": 25.0,
     "quiet_hours": [
-      22,
+      20,
       10
     ],
     "timezone": ""

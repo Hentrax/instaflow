@@ -5,13 +5,13 @@
   "media_type": "VIDEO",
   "image_url": null,
   "caption": "The robot vacuum thinks it’s the head of the household, but the cat is ready to initiate a hostile takeover. 😼🧹 #catsoftiktok #robotvacuum #funnycats #techfails #predatorvsmachine #homehumor",
-  "next_time": 1793872800,
+  "next_time": 1793880000,
   "storage": "release",
   "threads_caption": "The robot vacuum thinks it’s the head of the household, but the cat is ready to initiate a hostile takeover.\n\n😼🧹 #catsoftiktok",
   "schedule": {
     "delay_hours": 25.0,
     "quiet_hours": [
-      22,
+      20,
       10
     ],
     "timezone": ""

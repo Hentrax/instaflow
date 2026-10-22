@@ -5,7 +5,15 @@
   "media_type": "VIDEO",
   "image_url": null,
   "caption": "I’m officially filing for divorce from my own home security system because my cat just planned a heist. 💀 He really used the furniture against me. #catheist #smartcat #homesecurity #nightvision #funnycats #catlogic",
-  "next_time": 1793559600,
+  "next_time": 1793610000,
   "storage": "release",
-  "threads_caption": "I’m officially filing for divorce from my own home security system because my cat just planned a heist. 💀 He really used the furniture against me.\n\n#catheist"
+  "threads_caption": "I’m officially filing for divorce from my own home security system because my cat just planned a heist. 💀 He really used the furniture against me.\n\n#catheist",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
 }

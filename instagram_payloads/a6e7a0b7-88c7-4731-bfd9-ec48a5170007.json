@@ -5,13 +5,13 @@
   "media_type": "VIDEO",
   "image_url": null,
   "caption": "I tapped the Grav-Vaporizer and it dumped a glowing Essence cube that smashed into the Comm-Relay. 😼⚡ #VerticalCity #AgentWhiskers",
-  "next_time": 1794232800,
+  "next_time": 1794240000,
   "storage": "release",
   "threads_caption": "I tapped the Grav-Vaporizer and it dumped a glowing Essence cube that smashed into the Comm-Relay.\n\n😼⚡ #VerticalCity",
   "schedule": {
     "delay_hours": 25.0,
     "quiet_hours": [
-      22,
+      20,
       10
     ],
     "timezone": ""

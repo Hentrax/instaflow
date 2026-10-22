@@ -5,7 +5,15 @@
   "media_type": "VIDEO",
   "image_url": null,
   "caption": "This ginger cat pressed the toaster lever for a tiny snack. 🍞\n\nOne massive, oversized loaf of bread launched at him, and he didn't hesitate to send the milk mug flying.",
-  "next_time": 1793649600,
+  "next_time": 1793700000,
   "storage": "release",
-  "threads_caption": "This ginger cat pressed the toaster lever for a tiny snack. 🍞\n\nOne massive, oversized loaf of bread launched at him, and he didn't hesitate to send the milk mug flying."
+  "threads_caption": "This ginger cat pressed the toaster lever for a tiny snack. 🍞\n\nOne massive, oversized loaf of bread launched at him, and he didn't hesitate to send the milk mug flying.",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
 }
