@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "81b9504f-c58e-46e1-a181-d00a1e2da32a",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_81b9504f_video_6100.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "84 cas de \"bombardement\" administratif par l'IA ont été recensés dans 12 pays dans l'étude \"Characterizing Agentic Flooding of Government Services\". 🤖\n\nL'étude indique que l'IA générative réduit le coût pour les usagers de rédiger des réclamations ou des recours juridiques. Dans 87 % des cas, ce sont des humains qui déposent des textes produits par des modèles de langage, augmentant la complexité des demandes dans 90 % des cas. En Allemagne, certaines lettres déposées dépassaient 4 000 pages, tandis qu'en France, les saisines de la CADA ont bondi de 45 % en 2025. L'Écosse a interdit les objections par e-mail pour les projets d'énergie et a limité les recours à cinq par demandeur. Le Royaume-Uni et l'Australie prévoient de mettre en place des règles d'usage et des frais pour les demandes d'accès aux documents automatisées. Utiliseriez-vous l'IA pour automatiser toutes vos démarches administratives complexes ?\n\nSource : ActuIA\n\n#IA #IntelligenceArtificielle #Technologie #Administration #Innovation",
+  "next_time": 1793343600,
+  "storage": "release",
+  "threads_caption": "84 cas de \"bombardement\" administratif par l'IA ont été recensés dans 12 pays dans l'étude \"Characterizing Agentic Flooding of Government Services\". 🤖\n\nL'étude indique que l'IA générative réduit le coût pour les usagers de rédiger des réclamations ou des recours juridiques. Dans 87 % des cas, ce sont des humains qui déposent des textes produits par des modèles de langage, augmentant la complexité des demandes dans 90 % des cas.\n\nSource : ActuIA\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}

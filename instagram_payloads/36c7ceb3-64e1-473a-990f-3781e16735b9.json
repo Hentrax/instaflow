@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "36c7ceb3-64e1-473a-990f-3781e16735b9",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_36c7ceb3_video_6063.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Claude Duet, le nouvel agent proactif d'Anthropic, arrive pour transformer ta productivité. 🤖\n\nContrairement à un chatbot classique, c'est lui qui vient à toi. Chaque matin, il te résume les infos clés de tes applis connectées et n'intervient que quand une action est nécessaire. Le plus impressionnant : il travaille sur sa propre machine virtuelle dans le cloud. Ça veut dire qu'il continue ses tâches même quand ton téléphone ou ton ordi est éteint. Il se connecte à plus de 6 000 outils comme Gmail, Slack, Stripe ou Shopify via la Marketplace de Claude. Il peut gérer tes factures impayées, préparer des contrats sur DocuSign ou créer des tableaux de bord financiers en autonomie. Pour la sécurité, il ne prend jamais de décisions critiques seul. Il prépare tout, mais attend ton feu vert avant d'envoyer un message, de signer un doc ou de faire un paiement. Pour l'instant, c'est en preview aux États-Unis pour les abonnés Pro et Max sur liste d'attente. Est-ce que tu confierais tes tâches pro à un agent autonome ?\n\nSources: The Decoder · Numerama · TechCrunch · Siècle Digital\n\n#Anthropic #ClaudeDuet #IA #Productivité #TechNews",
+  "next_time": 1793379600,
+  "storage": "release",
+  "threads_caption": "Claude Duet, le nouvel agent proactif d'Anthropic, arrive pour transformer ta productivité. 🤖\n\nContrairement à un chatbot classique, c'est lui qui vient à toi. Chaque matin, il te résume les infos clés de tes applis connectées et n'intervient que quand une action est nécessaire. Le plus impressionnant : il travaille sur sa propre machine virtuelle dans le cloud.\n\nSources: The Decoder · Numerama · TechCrunch · Siècle Digital\n\n#Anthropic",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
