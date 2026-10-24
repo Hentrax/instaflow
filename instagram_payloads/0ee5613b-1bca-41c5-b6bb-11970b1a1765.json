@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "0ee5613b-1bca-41c5-b6bb-11970b1a1765",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0ee5613b_video_6122.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Kimi K3.1 Pro atteint le 4ème rang mondial des modèles d'IA les plus performants. 🚀\n\nCe modèle de Moonshot AI progresse de 312 points sur le benchmark GDPval-AA pour les tâches d'agents. Il réduit les hallucinations de 23,4 % à 8,3 % sur les tests de stress internes de la société. Il s'intègre aux moteurs de jeu comme Unity ou Unreal Engine et inclut une fonction '3D Make' pour exporter des modèles. Il peut générer et exécuter des scripts pour Blender et les logiciels CAD sans connecteurs externes. Il possède 2,8 billions de paramètres, une fenêtre de contexte d'un million de tokens et gère le texte et les images. Est-ce que tu utiliserais cette capacité pour automatiser la création de tes maquettes 3D ?\n\nSource : The Decoder\n\n#IA #MoonshotAI #KimiK3 #TechNews #MachineLearning",
+  "next_time": 1793448000,
+  "storage": "release",
+  "threads_caption": "Kimi K3.1 Pro atteint le 4ème rang mondial des modèles d'IA les plus performants. 🚀\n\nCe modèle de Moonshot AI progresse de 312 points sur le benchmark GDPval-AA pour les tâches d'agents. Il réduit les hallucinations de 23,4 % à 8,3 % sur les tests de stress internes de la société. Il s'intègre aux moteurs de jeu comme Unity ou Unreal Engine et inclut une fonction '3D Make' pour exporter des modèles.\n\nSource : The Decoder\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
