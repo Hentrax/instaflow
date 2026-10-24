@@ -1,0 +1,19 @@
+{
+  "compte": "miniature",
+  "pub_id": "b19a0ba7-2c05-45b2-adf4-9518bcdbca8f",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_b19a0ba7_video_207.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "A sprawling culinary capital, nestled right on my kitchen counter. It’s a bustling hub of trade and industry, though things got a little... zesty this morning.",
+  "next_time": 1794578400,
+  "storage": "release",
+  "threads_caption": "A sprawling culinary capital, nestled right on my kitchen counter. It’s a bustling hub of trade and industry, though things got a little... zesty this morning.",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      0,
+      12
+    ],
+    "timezone": ""
+  }
+}

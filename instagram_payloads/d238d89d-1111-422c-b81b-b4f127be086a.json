@@ -1,0 +1,45 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "d238d89d-1111-422c-b81b-b4f127be086a",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d238d89d_slide_6102_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d238d89d_slide_6102_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d238d89d_slide_6102_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d238d89d_slide_6102_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d238d89d_slide_6102_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d238d89d_slide_6102_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d238d89d_slide_6102_06.jpg"
+  ],
+  "caption": "L'IA \"Eureka Machine\" a conçu l'architecture et les kernels de Flint de manière autonome 🤖\n\nRecursive a franchi une étape majeure avec Flint, son premier modèle de code issu d'un cycle de recherche entièrement automatisé par \"Eureka Machine\". L'IA a pris des décisions techniques critiques : choix de l'architecture MoE, méthodes de quantification non conventionnelles et création de kernels spécifiques pour Apple et Nvidia. L'objectif final est d'atteindre une auto-amélioration récursive où chaque modèle rend l'IA chercheuse plus performante. 🚀💻⚡\n\nUtiliserez-vous des modèles conçus par des IA autonomes pour vos projets, ou exigerez-vous une conception humaine ?\n\nSource : The Decoder\n\n#IA #IntelligenceArtificielle #RecursiveAI #MachineLearning #Coding #TechNews",
+  "next_time": 1793466000,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d238d89d_slide_6102_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d238d89d_slide_6102_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d238d89d_slide_6102_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d238d89d_slide_6102_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d238d89d_slide_6102_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d238d89d_slide_6102_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d238d89d_slide_6102_06.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d238d89d_story_slide_6102_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d238d89d_story_slide_6102_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d238d89d_story_slide_6102_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d238d89d_story_slide_6102_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d238d89d_story_slide_6102_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d238d89d_story_slide_6102_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d238d89d_story_slide_6102_06.jpg"
+  ],
+  "threads_caption": "L'IA \"Eureka Machine\" a conçu l'architecture et les kernels de Flint de manière autonome 🤖\n\nRecursive a franchi une étape majeure avec Flint, son premier modèle de code issu d'un cycle de recherche entièrement automatisé par \"Eureka Machine\". L'IA a pris des décisions techniques critiques : choix de l'architecture MoE, méthodes de quantification non conventionnelles et création de kernels spécifiques pour Apple et Nvidia.\n\nSource : The Decoder\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
