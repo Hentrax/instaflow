@@ -1,13 +1,13 @@
 # 📊 Dashboard de Publication
 
-✅ **Dernier run sans erreur** — 24/10/2026 05:46:27
+✅ **Dernier run sans erreur** — 24/10/2026 07:51:08
 
-📦 **Total publiés historiquement :** 622
+📦 **Total publiés historiquement :** 623
 
 ### 📱 État des comptes
 | Compte | Posts en attente | Prochaine publication | Fin de programmation | Autonomie | Aperçu |
 | :--- | :---: | :--- | :--- | :---: | :---: |
-| IA_ACTUS | **21** | 24/10 08:00 | 30/10 18:00 | 6 j | <a href='https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9459bd0d_video_5853.mp4' target='_blank'>🎬</a> |
+| IA_ACTUS | **20** | 24/10 13:00 | 30/10 18:00 | 6 j | <img src='https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3cac5a8d_slide_5828_01.jpg' width='50'> |
 | MEOWGINEEREDAI | **19** | 24/10 13:00 | 13/11 10:00 | 20 j | <a href='https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_179e2f9c_video_1038.mp4' target='_blank'>🎬</a> |
 | MINIATURE | **19** | 24/10 22:00 | 12/11 14:00 | 19 j | <a href='https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_58da5e53_video_170.mp4' target='_blank'>🎬</a> |
 
