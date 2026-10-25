@@ -1,0 +1,45 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "dfbe52fd-c18d-4428-915b-e08b3bd11c0b",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dfbe52fd_slide_6140_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dfbe52fd_slide_6140_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dfbe52fd_slide_6140_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dfbe52fd_slide_6140_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dfbe52fd_slide_6140_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dfbe52fd_slide_6140_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dfbe52fd_slide_6140_06.jpg"
+  ],
+  "caption": "Grok penche à 92% vers les Républicains alors que GPT-6.1 Sol favorise les Démocrates à 97% 🗳️\n\nUne étude de Convovo (Cornell University) révèle que les modèles d'IA ne sont pas neutres lorsqu'ils sont forcés de prendre position. Alors que les applications grand public refusent de répondre, les API utilisés par les développeurs montrent des préférences politiques marquées : Grok privilégie les Républicains via ses sources de recherche, tandis que GPT semble porter un biais démocrate ancré dans ses données d'entraînement. 🤖📊⚖️\n\nSources : TechCrunch\n\n#IA #IntelligenceArtificielle #Grok #ChatGPT #MachineLearning #PolitiqueIA",
+  "next_time": 1793534400,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dfbe52fd_slide_6140_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dfbe52fd_slide_6140_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dfbe52fd_slide_6140_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dfbe52fd_slide_6140_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dfbe52fd_slide_6140_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dfbe52fd_slide_6140_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dfbe52fd_slide_6140_06.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dfbe52fd_story_slide_6140_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dfbe52fd_story_slide_6140_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dfbe52fd_story_slide_6140_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dfbe52fd_story_slide_6140_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dfbe52fd_story_slide_6140_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dfbe52fd_story_slide_6140_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dfbe52fd_story_slide_6140_06.jpg"
+  ],
+  "threads_caption": "Grok penche à 92% vers les Républicains alors que GPT-6.1 Sol favorise les Démocrates à 97% 🗳️\n\nUne étude de Convovo (Cornell University) révèle que les modèles d'IA ne sont pas neutres lorsqu'ils sont forcés de prendre position.\n\nSources : TechCrunch\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}

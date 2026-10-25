@@ -1,0 +1,45 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "fca7cabc-d24f-4647-aa81-f30b2dc55b99",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fca7cabc_slide_6146_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fca7cabc_slide_6146_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fca7cabc_slide_6146_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fca7cabc_slide_6146_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fca7cabc_slide_6146_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fca7cabc_slide_6146_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fca7cabc_slide_6146_06.jpg"
+  ],
+  "caption": "Anthropic révèle qu'un agent IA unique surpasse souvent une équipe de sous-agents pour plus de qualité et de rapidité ⚡\n\nAnthropic démontre que multiplier les agents spécialisés crée souvent des « Frankenprompts » et une latence inutile. En utilisant des modèles récents comme Opus 4.5/5.5, une architecture à agent unique peut être deux fois plus rapide et plus cohérente. La recommandation est de privilégier des « skills » chargés à la demande plutôt que des flottes de sous-agents complexes. 🚀⚡📊\n\nAllez-vous simplifier votre architecture d'agents en privilégiant un modèle unique plus puissant ?\n\nSource : The Decoder\n\n#IA #Anthropic #MachineLearning #LLM #IntelligenceArtificielle",
+  "next_time": 1793516400,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fca7cabc_slide_6146_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fca7cabc_slide_6146_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fca7cabc_slide_6146_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fca7cabc_slide_6146_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fca7cabc_slide_6146_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fca7cabc_slide_6146_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fca7cabc_slide_6146_06.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fca7cabc_story_slide_6146_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fca7cabc_story_slide_6146_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fca7cabc_story_slide_6146_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fca7cabc_story_slide_6146_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fca7cabc_story_slide_6146_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fca7cabc_story_slide_6146_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_fca7cabc_story_slide_6146_06.jpg"
+  ],
+  "threads_caption": "Anthropic révèle qu'un agent IA unique surpasse souvent une équipe de sous-agents pour plus de qualité et de rapidité ⚡\n\nAnthropic démontre que multiplier les agents spécialisés crée souvent des « Frankenprompts » et une latence inutile. En utilisant des modèles récents comme Opus 4.5/5.5, une architecture à agent unique peut être deux fois plus rapide et plus cohérente.\n\nSource : The Decoder\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
