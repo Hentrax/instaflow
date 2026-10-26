@@ -1,0 +1,45 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "8e2b61f8-65f0-491d-bc7e-90f03499104f",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8e2b61f8_slide_6166_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8e2b61f8_slide_6166_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8e2b61f8_slide_6166_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8e2b61f8_slide_6166_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8e2b61f8_slide_6166_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8e2b61f8_slide_6166_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8e2b61f8_slide_6166_06.jpg"
+  ],
+  "caption": "Google peut désormais utiliser vos mails et photos pour vous cibler avec des pubs via son IA Gemini 📧⚠️\n\nGoogle lance \"Personal Intelligence\", une fonctionnalité qui lie Gemini à vos données privées (Gmail, Photos, YouTube) pour des réponses ultra-personnalisées. En échange de ce confort (comme retrouver une réservation d'hôtel en un clic), Google s'autorise une exception à sa règle de confidentialité : vos données privées peuvent servir à cibler vos publicités. Pour l'instant, cette option est exclue de l'Espace économique européen. 🤖🎯🛡️\n\nAccepteriez-vous de donner accès à vos mails privés à une IA pour gagner en confort, même au prix de publicités plus ciblées ?\n\nSource : Numerama\n\n#IntelligenceArtificielle #GoogleGemini #Confidentialité #IA #TechNews #DataPrivacy",
+  "next_time": 1793602800,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8e2b61f8_slide_6166_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8e2b61f8_slide_6166_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8e2b61f8_slide_6166_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8e2b61f8_slide_6166_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8e2b61f8_slide_6166_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8e2b61f8_slide_6166_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8e2b61f8_slide_6166_06.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8e2b61f8_story_slide_6166_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8e2b61f8_story_slide_6166_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8e2b61f8_story_slide_6166_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8e2b61f8_story_slide_6166_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8e2b61f8_story_slide_6166_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8e2b61f8_story_slide_6166_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8e2b61f8_story_slide_6166_06.jpg"
+  ],
+  "threads_caption": "Google peut désormais utiliser vos mails et photos pour vous cibler avec des pubs via son IA Gemini 📧⚠️\n\nGoogle lance \"Personal Intelligence\", une fonctionnalité qui lie Gemini à vos données privées (Gmail, Photos, YouTube) pour des réponses ultra-personnalisées.\n\nSource : Numerama\n\n#IntelligenceArtificielle",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
