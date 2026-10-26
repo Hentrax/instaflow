@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "b564c4a8-5f4c-4aef-9bdb-68e5c863614a",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b564c4a8_video_6159.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Mistral AI a lancé Engineering Spaces, une interface en ligne de commande conçue pour être utilisée par les humains et les agents IA. 🚀\n\nL'outil automatise la création de structures de projets, la génération de fichiers de configuration et le déploiement sur des plateformes comme Koyeb. Pour permettre aux agents IA d'agir, Mistral a rendu chaque interaction interactive remplaçable par un \"flag\" ou un fichier de configuration. Le système utilise des plugins où les données sont structurées : les humains voient une interface visuelle tandis que les agents reçoivent du JSON. L'outil génère automatiquement deux fichiers : context.json pour l'état du projet et AGENTS.md pour donner des instructions impératives aux LLM. Lors d'un test, un agent a réussi à configurer et déployer un projet complet à partir d'une seule commande en moins de 10 minutes. Utiliserais-tu un outil qui adapte ses réponses selon que tu es un humain ou un agent ?\n\nSource: Mistral\n\n#IA #MistralAI #EngineeringSpaces #DevTools #LLM #Agents",
+  "next_time": 1793552400,
+  "storage": "release",
+  "threads_caption": "Mistral AI a lancé Engineering Spaces, une interface en ligne de commande conçue pour être utilisée par les humains et les agents IA. 🚀\n\nL'outil automatise la création de structures de projets, la génération de fichiers de configuration et le déploiement sur des plateformes comme Koyeb. Pour permettre aux agents IA d'agir, Mistral a rendu chaque interaction interactive remplaçable par un \"flag\" ou un fichier de configuration.\n\nSource: Mistral\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
