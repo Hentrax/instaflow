@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "80ff1262-b87b-4c3b-9e29-009e909dbc4e",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_80ff1262_video_1158.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "You guys are going to OBSES over my new Fur Glaze! ✨ It gives that ultimate silk finish to my coat. #CatBeauty #FurCare #GlowUp",
+  "next_time": 1794762000,
+  "storage": "release",
+  "threads_caption": "You guys are going to OBSES over my new Fur Glaze! ✨ It gives that ultimate silk finish to my coat.\n\n#CatBeauty",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}
