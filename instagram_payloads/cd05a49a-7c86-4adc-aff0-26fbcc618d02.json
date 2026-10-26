@@ -32,5 +32,14 @@
       8
     ],
     "timezone": ""
-  }
+  },
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cd05a49a_story_slide_5908_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cd05a49a_story_slide_5908_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cd05a49a_story_slide_5908_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cd05a49a_story_slide_5908_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cd05a49a_story_slide_5908_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cd05a49a_story_slide_5908_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cd05a49a_story_slide_5908_06.jpg"
+  ]
 }
