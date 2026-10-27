@@ -1,0 +1,45 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "d678112d-2774-487d-87af-20be89e9c3ba",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d678112d_slide_6207_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d678112d_slide_6207_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d678112d_slide_6207_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d678112d_slide_6207_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d678112d_slide_6207_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d678112d_slide_6207_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d678112d_slide_6207_06.jpg"
+  ],
+  "caption": "Une faille de sécurité chez Cloudflare a permis à certains utilisateurs de voir les requêtes privées des autres 😱\n\nLe modèle GLM 5.3 sur la plateforme Workers AI de Cloudflare a exposé des données sensibles à cause d'un bug dans le logiciel SGLang. Quand les requêtes dépassaient 681 280 tokens, le système récupérait des fragments de mémoire appartenant à d'autres clients. 🛡️💻⚠️\n\nSources : Numerama\n\n#IA #Cybersecurite #Cloudflare #LLM #DataPrivacy",
+  "next_time": 1793638800,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d678112d_slide_6207_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d678112d_slide_6207_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d678112d_slide_6207_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d678112d_slide_6207_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d678112d_slide_6207_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d678112d_slide_6207_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d678112d_slide_6207_06.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d678112d_story_slide_6207_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d678112d_story_slide_6207_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d678112d_story_slide_6207_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d678112d_story_slide_6207_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d678112d_story_slide_6207_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d678112d_story_slide_6207_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d678112d_story_slide_6207_06.jpg"
+  ],
+  "threads_caption": "Une faille de sécurité chez Cloudflare a permis à certains utilisateurs de voir les requêtes privées des autres 😱\n\nLe modèle GLM 5.3 sur la plateforme Workers AI de Cloudflare a exposé des données sensibles à cause d'un bug dans le logiciel SGLang. Quand les requêtes dépassaient 681 280 tokens, le système récupérait des fragments de mémoire appartenant à d'autres clients. 🛡️💻⚠️\n\nSources : Numerama\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}

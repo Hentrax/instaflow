@@ -1,0 +1,48 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "27f90913-73d3-4493-9138-2715ce06c6e6",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_slide_6203_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_slide_6203_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_slide_6203_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_slide_6203_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_slide_6203_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_slide_6203_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_slide_6203_06.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_slide_6203_07.jpg"
+  ],
+  "caption": "Opera lance WebAI pour faire tourner des modèles d'IA localement dans votre navigateur 🌐\n\nOpera introduit \"WebAI\", un nouveau standard web permettant d'exécuter des modèles d'IA directement dans le navigateur sans passer par le cloud. Cette technologie permet d'utiliser des modèles comme Gemma (Google) ou les modèles d'Apple tout en garantissant une confidentialité maximale et une gratuité d'utilisation. 🚀🔒💻\n\nPréféreriez-vous sacrifier un peu de performance pour une IA 100% privée et locale ?\nSource : TechCrunch\n#IA #OperaBrowser #WebAI #Confidentialité #MachineLearning #Technologie",
+  "next_time": 1793689200,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_slide_6203_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_slide_6203_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_slide_6203_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_slide_6203_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_slide_6203_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_slide_6203_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_slide_6203_06.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_slide_6203_07.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_story_slide_6203_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_story_slide_6203_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_story_slide_6203_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_story_slide_6203_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_story_slide_6203_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_story_slide_6203_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_story_slide_6203_06.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_27f90913_story_slide_6203_07.jpg"
+  ],
+  "threads_caption": "Opera lance WebAI pour faire tourner des modèles d'IA localement dans votre navigateur 🌐\n\nOpera introduit \"WebAI\", un nouveau standard web permettant d'exécuter des modèles d'IA directement dans le navigateur sans passer par le cloud. Cette technologie permet d'utiliser des modèles comme Gemma (Google) ou les modèles d'Apple tout en garantissant une confidentialité maximale et une gratuité d'utilisation.\n\nSource : TechCrunch\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}

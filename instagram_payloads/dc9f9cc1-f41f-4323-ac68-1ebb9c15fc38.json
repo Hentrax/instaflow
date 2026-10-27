@@ -1,0 +1,45 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "dc9f9cc1-f41f-4323-ac68-1ebb9c15fc38",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dc9f9cc1_slide_6218_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dc9f9cc1_slide_6218_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dc9f9cc1_slide_6218_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dc9f9cc1_slide_6218_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dc9f9cc1_slide_6218_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dc9f9cc1_slide_6218_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dc9f9cc1_slide_6218_06.jpg"
+  ],
+  "caption": "OpenAI lance GPT-6.1 Terra : une puissance de calcul quasi-équivalente à ses modèles premium, mais à moitié prix ⚡\n\nOpenAI vient de dévoiler GPT-6.1 Terra, un modèle conçu pour équilibrer performance et coût. Il offre une compréhension visuelle précise, un contrôle informatique fluide et une réduction massive des prix d'API (50% moins cher que GPT-5.6 Terra). Idéal pour automatiser des tâches complexes comme l'analyse de plans techniques ou le codage, il se positionne comme l'option \"efficience\" par excellence. 🚀📊✅\n\nQuel modèle choisiriez-vous pour votre prochain projet : la puissance brute d'Astra ou l'efficience de Terra ?\n\nSources : The Decoder · OpenAI\n\n#OpenAI #GPT6 #IntelligenceArtificielle #LLM #TechNews #Productivité",
+  "next_time": 1793620800,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dc9f9cc1_slide_6218_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dc9f9cc1_slide_6218_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dc9f9cc1_slide_6218_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dc9f9cc1_slide_6218_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dc9f9cc1_slide_6218_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dc9f9cc1_slide_6218_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dc9f9cc1_slide_6218_06.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dc9f9cc1_story_slide_6218_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dc9f9cc1_story_slide_6218_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dc9f9cc1_story_slide_6218_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dc9f9cc1_story_slide_6218_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dc9f9cc1_story_slide_6218_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dc9f9cc1_story_slide_6218_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_dc9f9cc1_story_slide_6218_06.jpg"
+  ],
+  "threads_caption": "OpenAI lance GPT-6.1 Terra : une puissance de calcul quasi-équivalente à ses modèles premium, mais à moitié prix ⚡\n\nOpenAI vient de dévoiler GPT-6.1 Terra, un modèle conçu pour équilibrer performance et coût. Il offre une compréhension visuelle précise, un contrôle informatique fluide et une réduction massive des prix d'API (50% moins cher que GPT-5.6 Terra).\n\nSources : The Decoder · OpenAI\n\n#OpenAI",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
