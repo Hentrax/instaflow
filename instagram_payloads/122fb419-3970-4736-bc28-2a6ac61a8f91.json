@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "122fb419-3970-4736-bc28-2a6ac61a8f91",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_122fb419_video_6222.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Google DeepMind a lancé Genie 4, un modèle capable de générer des mondes interactifs et photoréalistes en temps réel. 🌍\n\nIl produit désormais un audio synchronisé, incluant de la musique, des bruits ambiants et des dialogues interactifs. Tu peux modifier la scène en direct en tapant des commandes pour changer la météo, l'angle de vue ou ajouter des objets. Le modèle maintient la cohérence d'une scène pendant deux minutes avec des lois de la physique et des personnages plus réalistes. Il fonctionne avec Gemini, qui agit comme un réalisateur pour planifier les étapes tandis que Genie crée les visuels. Il permet de simuler des robots ou de prototyper des films et sera bientôt disponible pour les abonnés Google AI Ultra. Est-ce que tu utiliserais une IA pour générer tes storyboards et tes décors de film en temps réel ?\n\nSource: TechCrunch\n\n#GoogleDeepMind #Genie4 #ArtificialIntelligence #WorldModels #Robotics #TechNews",
+  "next_time": 1793725200,
+  "storage": "release",
+  "threads_caption": "Google DeepMind a lancé Genie 4, un modèle capable de générer des mondes interactifs et photoréalistes en temps réel. 🌍\n\nIl produit désormais un audio synchronisé, incluant de la musique, des bruits ambiants et des dialogues interactifs. Tu peux modifier la scène en direct en tapant des commandes pour changer la météo, l'angle de vue ou ajouter des objets.\n\nSource: TechCrunch\n\n#GoogleDeepMind",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
