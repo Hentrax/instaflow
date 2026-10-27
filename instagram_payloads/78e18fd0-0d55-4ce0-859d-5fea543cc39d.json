@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "78e18fd0-0d55-4ce0-859d-5fea543cc39d",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_78e18fd0_video_1174.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Stopped that oversized truck from ruining the morning's catch. 🐟💥\n\nJust a standard Tuesday shift in the district. No need for the long version.",
+  "next_time": 1794819600,
+  "storage": "release",
+  "threads_caption": "Stopped that oversized truck from ruining the morning's catch. 🐟💥\n\nJust a standard Tuesday shift in the district. No need for the long version.",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}
