@@ -1,0 +1,19 @@
+{
+  "compte": "miniature",
+  "pub_id": "aac76166-da5b-4c9a-9587-c12671767b18",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_aac76166_video_133.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "The harbor scene is coming along perfectly, though one of the merchants seems a bit startled by the morning's events. #miniatures #diorama #scale #handpainted #workshop",
+  "next_time": 1794938400,
+  "storage": "release",
+  "threads_caption": "The harbor scene is coming along perfectly, though one of the merchants seems a bit startled by the morning's events.\n\n#miniatures",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      0,
+      12
+    ],
+    "timezone": ""
+  }
+}

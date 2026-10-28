@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "5b8a7024-d584-4a39-8ec4-1890adb1dea0",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_5b8a7024_video_1063.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "My cat used a juicer to start its career as a juice mogul today. 🍊 It was a productive, if slightly messy, career move.",
+  "next_time": 1794934800,
+  "storage": "release",
+  "threads_caption": "My cat used a juicer to start its career as a juice mogul today. 🍊 It was a productive, if slightly messy, career move.",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}

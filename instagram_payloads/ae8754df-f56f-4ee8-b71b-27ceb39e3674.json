@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "ae8754df-f56f-4ee8-b71b-27ceb39e3674",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_ae8754df_video_1168.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Took a stroll on my copper spire and leaned way out for the view. My human would be shaking, but I'm just vibing. 🐈✨ #HighAltitudeVibes #CatLife",
+  "next_time": 1794906000,
+  "storage": "release",
+  "threads_caption": "Took a stroll on my copper spire and leaned way out for the view. My human would be shaking, but I'm just vibing.\n\n🐈✨ #HighAltitudeVibes",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}
