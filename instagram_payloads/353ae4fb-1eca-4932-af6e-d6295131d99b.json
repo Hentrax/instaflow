@@ -1,0 +1,19 @@
+{
+  "compte": "miniature",
+  "pub_id": "353ae4fb-1eca-4932-af6e-d6295131d99b",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_353ae4fb_video_137.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "The morning mist always arrives just as the coffee starts to brew.",
+  "next_time": 1795028400,
+  "storage": "release",
+  "threads_caption": "The morning mist always arrives just as the coffee starts to brew.",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      0,
+      12
+    ],
+    "timezone": ""
+  }
+}

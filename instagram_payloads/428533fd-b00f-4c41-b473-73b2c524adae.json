@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "428533fd-b00f-4c41-b473-73b2c524adae",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_428533fd_video_1104.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "The cat triggered 'infinite kibble' mode and is now aggressively reorganizing its haul. 🐱\nThe machine dumped a mountain of food, and now my kitchen is a disaster zone. #catlife #feedingfrenzy #messycat",
+  "next_time": 1794992400,
+  "storage": "release",
+  "threads_caption": "The cat triggered 'infinite kibble' mode and is now aggressively reorganizing its haul. 🐱\nThe machine dumped a mountain of food, and now my kitchen is a disaster zone.\n\n#catlife",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}
