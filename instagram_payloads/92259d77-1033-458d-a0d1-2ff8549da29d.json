@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "92259d77-1033-458d-a0d1-2ff8549da29d",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_92259d77_video_6273.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "NVIDIA Nemotron 3.5 Transcribe 🎙️. Il est classé numéro 1 sur Hugging Face pour la transcription de la parole.\n\nCe modèle de langage ouvert transforme des enregistrements audio en informations exploitables en gérant simultanément la transcription, l'identification des locuteurs et la traduction. Il supporte 40 langues différentes et permet de poser des questions sur le contenu audio grâce à des instructions en langage naturel. Avec 4,3 milliards de paramètres, il est 80 % plus léger que le modèle ouvert numéro 1 du marché. Cette réduction de taille permet une exécution plus pratique sur du matériel local, comme les systèmes RTX Spark. Le modèle est disponible dès aujourd'hui sur Hugging Face, avec des versions quantifiées prévues prochainement. Est-ce que tu utiliserais cet outil pour automatiser le compte-rendu de tes réunions ou de tes podcasts ?\n\nSource : NVIDIA\n\n#AI #NVIDIA #MachineLearning #LLM #TechNews",
+  "next_time": 1793880000,
+  "storage": "release",
+  "threads_caption": "NVIDIA Nemotron 3.5 Transcribe 🎙️. Il est classé numéro 1 sur Hugging Face pour la transcription de la parole.\n\nCe modèle de langage ouvert transforme des enregistrements audio en informations exploitables en gérant simultanément la transcription, l'identification des locuteurs et la traduction. Il supporte 40 langues différentes et permet de poser des questions sur le contenu audio grâce à des instructions en langage naturel.\n\nSource : NVIDIA\n\n#AI",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}

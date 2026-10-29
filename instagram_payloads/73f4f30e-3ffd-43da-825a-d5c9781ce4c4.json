@@ -1,0 +1,45 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "73f4f30e-3ffd-43da-825a-d5c9781ce4c4",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73f4f30e_slide_6266_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73f4f30e_slide_6266_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73f4f30e_slide_6266_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73f4f30e_slide_6266_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73f4f30e_slide_6266_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73f4f30e_slide_6266_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73f4f30e_slide_6266_06.jpg"
+  ],
+  "caption": "Chrome va désormais fouiller dans vos emails pour remplir vos formulaires automatiquement 📧\n\nGoogle déploie une mise à jour majeure pour Chrome intégrant l'IA \"Personal Intelligence\". Le navigateur peut désormais extraire des infos sensibles (numéros de vol, codes de suivi, IDs de membre) directement depuis vos emails Gmail pour auto-compléter des formulaires en ligne. Une fonctionnalité qui simplifie la saisie de données complexes tout en restant sous contrôle utilisateur. 🚀🛡️✨\n\nConfieriez-vous l'accès à vos emails privés à l'IA de Chrome pour gagner du temps ?\n\nSource : TechCrunch\n\n#IA #GoogleChrome #Gemini #Productivité #IntelligenceArtificielle #TechNews",
+  "next_time": 1793898000,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73f4f30e_slide_6266_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73f4f30e_slide_6266_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73f4f30e_slide_6266_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73f4f30e_slide_6266_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73f4f30e_slide_6266_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73f4f30e_slide_6266_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73f4f30e_slide_6266_06.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73f4f30e_story_slide_6266_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73f4f30e_story_slide_6266_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73f4f30e_story_slide_6266_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73f4f30e_story_slide_6266_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73f4f30e_story_slide_6266_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73f4f30e_story_slide_6266_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73f4f30e_story_slide_6266_06.jpg"
+  ],
+  "threads_caption": "Chrome va désormais fouiller dans vos emails pour remplir vos formulaires automatiquement 📧\n\nGoogle déploie une mise à jour majeure pour Chrome intégrant l'IA \"Personal Intelligence\". Le navigateur peut désormais extraire des infos sensibles (numéros de vol, codes de suivi, IDs de membre) directement depuis vos emails Gmail pour auto-compléter des formulaires en ligne.\n\nSource : TechCrunch\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
