@@ -1,0 +1,45 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "b75eeebe-1e43-49f5-ad95-7a79ab526d46",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b75eeebe_slide_6288_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b75eeebe_slide_6288_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b75eeebe_slide_6288_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b75eeebe_slide_6288_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b75eeebe_slide_6288_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b75eeebe_slide_6288_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b75eeebe_slide_6288_06.jpg"
+  ],
+  "caption": "Gemini 4 Carbon prend la tête des classements IA avec des capacités de codage sur plusieurs jours ⚡\n\nGoogle Deepmind vient de lancer Gemini 4 Carbon, un modèle conçu pour résoudre des problèmes d'ingénierie complexes et de longue durée. Il surpasse son prédécesseur Argon sur l'indice d'intelligence d'Artificial Analysis, excelle en raisonnement scientifique et en cyberdéfense, tout en affichant un taux d'hallucination parmi les plus bas du marché. 💻🛡️🔬\n\nSource : The Decoder\n\n#IA #GoogleDeepmind #Gemini4 #IntelligenceArtificielle #Coding #Cybersecurity",
+  "next_time": 1793811600,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b75eeebe_slide_6288_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b75eeebe_slide_6288_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b75eeebe_slide_6288_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b75eeebe_slide_6288_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b75eeebe_slide_6288_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b75eeebe_slide_6288_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b75eeebe_slide_6288_06.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b75eeebe_story_slide_6288_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b75eeebe_story_slide_6288_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b75eeebe_story_slide_6288_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b75eeebe_story_slide_6288_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b75eeebe_story_slide_6288_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b75eeebe_story_slide_6288_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b75eeebe_story_slide_6288_06.jpg"
+  ],
+  "threads_caption": "Gemini 4 Carbon prend la tête des classements IA avec des capacités de codage sur plusieurs jours ⚡\n\nGoogle Deepmind vient de lancer Gemini 4 Carbon, un modèle conçu pour résoudre des problèmes d'ingénierie complexes et de longue durée. Il surpasse son prédécesseur Argon sur l'indice d'intelligence d'Artificial Analysis, excelle en raisonnement scientifique et en cyberdéfense, tout en affichant un taux d'hallucination parmi les plus bas du marché. 💻🛡️🔬\n\nSource : The Decoder\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "664797b9-4fbb-430e-a0d9-045350e1a710",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_664797b9_slide_6310_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_664797b9_slide_6310_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_664797b9_slide_6310_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_664797b9_slide_6310_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_664797b9_slide_6310_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_664797b9_slide_6310_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_664797b9_slide_6310_06.jpg"
+  ],
+  "caption": "Mistral vient de libérer les poids de \"Le Chonk\", son modèle de 1 000 milliards de paramètres 🚀\n\nMistral Large 4 (alias \"Le Chonk\") est enfin disponible en open-weight sur Hugging Face. Ce modèle multimodal massif (1 000 milliards de paramètres, dont 52 milliards actifs) surpasse ses rivaux ouverts en codage et cybersécurité. Il propose trois modes de raisonnement pour équilibrer performance et coût, tout en s'imposant comme une base solide pour la \"Sovereign AI\" européenne. 🇪🇺💻🛡️\n\nSources : The Decoder · Mistral AI · Numerama\n\n#MistralAI #LeChonk #OpenSource #IntelligenceArtificielle #Cybersecurite #LLM",
+  "next_time": 1793775600,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_664797b9_slide_6310_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_664797b9_slide_6310_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_664797b9_slide_6310_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_664797b9_slide_6310_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_664797b9_slide_6310_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_664797b9_slide_6310_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_664797b9_slide_6310_06.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_664797b9_story_slide_6310_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_664797b9_story_slide_6310_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_664797b9_story_slide_6310_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_664797b9_story_slide_6310_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_664797b9_story_slide_6310_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_664797b9_story_slide_6310_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_664797b9_story_slide_6310_06.jpg"
+  ],
+  "threads_caption": "Mistral vient de libérer les poids de \"Le Chonk\", son modèle de 1 000 milliards de paramètres 🚀\n\nMistral Large 4 (alias \"Le Chonk\") est enfin disponible en open-weight sur Hugging Face. Ce modèle multimodal massif (1 000 milliards de paramètres, dont 52 milliards actifs) surpasse ses rivaux ouverts en codage et cybersécurité.\n\nSources : The Decoder · Mistral AI · Numerama\n\n#MistralAI",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}

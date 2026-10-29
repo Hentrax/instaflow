@@ -1,0 +1,45 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "9b19fb78-603a-47b5-b7f5-8f1b6325717d",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9b19fb78_slide_6298_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9b19fb78_slide_6298_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9b19fb78_slide_6298_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9b19fb78_slide_6298_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9b19fb78_slide_6298_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9b19fb78_slide_6298_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9b19fb78_slide_6298_06.jpg"
+  ],
+  "caption": "Meta ressuscite le Tamagotchi avec une IA qui apprend à vous connaître 🐣\n\nMeta lance Waddle World, une application mobile qui revisite le concept du Tamagotchi grâce à l'intelligence artificielle. Contrairement à l'original, cet animal virtuel peut discuter avec vous, écouter votre journée comme dans un journal intime et même générer des dessins pour illustrer vos échanges. Ce projet sert de laboratoire pour le futur « Muse Charm », un compagnon IA autonome prévu pour fin 2024. 📱🎨✨\n\nSeriez-vous prêt à confier vos confidences quotidiennes à un animal virtuel géré par une IA ?\n\nSource : Siècle Digital\n\n#IntelligenceArtificielle #Meta #WaddleWorld #IA #Innovation #Technologie",
+  "next_time": 1793793600,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9b19fb78_slide_6298_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9b19fb78_slide_6298_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9b19fb78_slide_6298_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9b19fb78_slide_6298_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9b19fb78_slide_6298_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9b19fb78_slide_6298_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9b19fb78_slide_6298_06.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9b19fb78_story_slide_6298_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9b19fb78_story_slide_6298_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9b19fb78_story_slide_6298_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9b19fb78_story_slide_6298_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9b19fb78_story_slide_6298_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9b19fb78_story_slide_6298_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9b19fb78_story_slide_6298_06.jpg"
+  ],
+  "threads_caption": "Meta ressuscite le Tamagotchi avec une IA qui apprend à vous connaître 🐣\n\nMeta lance Waddle World, une application mobile qui revisite le concept du Tamagotchi grâce à l'intelligence artificielle. Contrairement à l'original, cet animal virtuel peut discuter avec vous, écouter votre journée comme dans un journal intime et même générer des dessins pour illustrer vos échanges.\n\nSource : Siècle Digital\n\n#IntelligenceArtificielle",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}

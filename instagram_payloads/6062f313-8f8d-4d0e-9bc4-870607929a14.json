@@ -1,0 +1,45 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "6062f313-8f8d-4d0e-9bc4-870607929a14",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6062f313_slide_6277_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6062f313_slide_6277_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6062f313_slide_6277_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6062f313_slide_6277_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6062f313_slide_6277_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6062f313_slide_6277_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6062f313_slide_6277_06.jpg"
+  ],
+  "caption": "OpenAI a produit des preuves mathématiques et physiques révolutionnaires via son IA 🤯\n\nL'entreprise a soumis trois résultats majeurs à des experts externes : la réfutation de l'hypothèse du temps exponentiel (informatique), la preuve de la conjecture de lissage local (maths) et l'existence de la théorie de Yang-Mills (physique). Ces preuves, vérifiées par le langage Lean, pourraient bouleverser nos bases théoriques fondamentales. 🔬💻📊\n\nEst-ce que l'IA devrait être autorisée à \"résoudre\" des problèmes scientifiques sans supervision humaine directe ?\n\nSources : The Decoder · Numerama\n\n#IA #OpenAI #Mathématiques #Physique #IntelligenceArtificielle #Technologie",
+  "next_time": 1793862000,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6062f313_slide_6277_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6062f313_slide_6277_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6062f313_slide_6277_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6062f313_slide_6277_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6062f313_slide_6277_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6062f313_slide_6277_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6062f313_slide_6277_06.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6062f313_story_slide_6277_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6062f313_story_slide_6277_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6062f313_story_slide_6277_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6062f313_story_slide_6277_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6062f313_story_slide_6277_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6062f313_story_slide_6277_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6062f313_story_slide_6277_06.jpg"
+  ],
+  "threads_caption": "OpenAI a produit des preuves mathématiques et physiques révolutionnaires via son IA 🤯\n\nL'entreprise a soumis trois résultats majeurs à des experts externes : la réfutation de l'hypothèse du temps exponentiel (informatique), la preuve de la conjecture de lissage local (maths) et l'existence de la théorie de Yang-Mills (physique). Ces preuves, vérifiées par le langage Lean, pourraient bouleverser nos bases théoriques fondamentales.\n\nSources : The Decoder · Numerama\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
