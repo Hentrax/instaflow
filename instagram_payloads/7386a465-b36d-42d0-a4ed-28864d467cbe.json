@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "7386a465-b36d-42d0-a4ed-28864d467cbe",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_7386a465_video_1258.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "My Maine Coon is literally trying to make dinner alone 😭 Why is he so dedicated to his new career?? 🥩 #catsoftiktok #funnycats #mainecoon",
+  "next_time": 1795078800,
+  "storage": "release",
+  "threads_caption": "My Maine Coon is literally trying to make dinner alone 😭 Why is he so dedicated to his new career??\n\n🥩 #catsoftiktok",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}
