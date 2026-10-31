@@ -1,0 +1,45 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "c194f104-98c0-42c5-8391-250d2bf56bd9",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c194f104_slide_6380_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c194f104_slide_6380_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c194f104_slide_6380_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c194f104_slide_6380_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c194f104_slide_6380_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c194f104_slide_6380_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c194f104_slide_6380_06.jpg"
+  ],
+  "caption": "Un modèle vidéo généré à partir de \"neurones vivants\" ? 🧠\n\nLa startup TBC a lancé Mischief 1, un modèle image-vers-vidéo qui utilise des découvertes issues de l'étude de cellules cérébrales réelles. En traduisant l'activité des neurones en équations, ils ont réussi à optimiser le modèle Wan 2.2 d'Alibaba pour le rendre 5 fois plus rapide et 80 % moins coûteux en calcul. 🚀⚡💻\n\nAccepterais-tu d'utiliser une IA dont l'architecture est inspirée par des neurones biologiques ?\nSources : Numerama\n#IA #IntelligenceArtificielle #MachineLearning #Innovation #Tech #Mischief1",
+  "next_time": 1793948400,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c194f104_slide_6380_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c194f104_slide_6380_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c194f104_slide_6380_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c194f104_slide_6380_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c194f104_slide_6380_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c194f104_slide_6380_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c194f104_slide_6380_06.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c194f104_story_slide_6380_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c194f104_story_slide_6380_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c194f104_story_slide_6380_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c194f104_story_slide_6380_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c194f104_story_slide_6380_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c194f104_story_slide_6380_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c194f104_story_slide_6380_06.jpg"
+  ],
+  "threads_caption": "Un modèle vidéo généré à partir de \"neurones vivants\" ? 🧠\n\nLa startup TBC a lancé Mischief 1, un modèle image-vers-vidéo qui utilise des découvertes issues de l'étude de cellules cérébrales réelles. En traduisant l'activité des neurones en équations, ils ont réussi à optimiser le modèle Wan 2.2 d'Alibaba pour le rendre 5 fois plus rapide et 80 % moins coûteux en calcul.\n\nSources : Numerama\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}

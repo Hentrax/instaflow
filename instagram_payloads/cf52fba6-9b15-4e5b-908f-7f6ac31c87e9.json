@@ -1,0 +1,45 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "cf52fba6-9b15-4e5b-908f-7f6ac31c87e9",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf52fba6_slide_6345_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf52fba6_slide_6345_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf52fba6_slide_6345_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf52fba6_slide_6345_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf52fba6_slide_6345_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf52fba6_slide_6345_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf52fba6_slide_6345_06.jpg"
+  ],
+  "caption": "L'IA agentique est devenue le nouveau radar pour traquer des signaux extraterrestres 👽\n\nLe SETI Institute et Breakthrough Listen utilisent désormais des agents IA pour piloter les télescopes de l'Allen Telescope Array. Ces agents peuvent orienter les antennes, traiter des térabits de données par seconde et corriger les erreurs via des commandes en langage naturel. Ils ont déjà réussi à détecter un pulsar en temps réel, réduisant des années de travail humain à quelques heures. 🚀📡🛰️\n\nSources : NVIDIA\n\n#IA #Astronomie #SETI #NVIDIA #AgenticAI #Science",
+  "next_time": 1794052800,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf52fba6_slide_6345_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf52fba6_slide_6345_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf52fba6_slide_6345_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf52fba6_slide_6345_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf52fba6_slide_6345_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf52fba6_slide_6345_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf52fba6_slide_6345_06.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf52fba6_story_slide_6345_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf52fba6_story_slide_6345_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf52fba6_story_slide_6345_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf52fba6_story_slide_6345_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf52fba6_story_slide_6345_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf52fba6_story_slide_6345_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_cf52fba6_story_slide_6345_06.jpg"
+  ],
+  "threads_caption": "L'IA agentique est devenue le nouveau radar pour traquer des signaux extraterrestres 👽\n\nLe SETI Institute et Breakthrough Listen utilisent désormais des agents IA pour piloter les télescopes de l'Allen Telescope Array. Ces agents peuvent orienter les antennes, traiter des térabits de données par seconde et corriger les erreurs via des commandes en langage naturel.\n\nSources : NVIDIA\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
