@@ -5,11 +5,11 @@
   "media_type": "VIDEO",
   "image_url": null,
   "caption": "The shredder turned my To-Do list into a confetti blizzard, but the cat clearly thinks my coffee mug was the real target! 😹 #catlife #officechaos #shredded #workfromhome #chaosmode #catlogic",
-  "next_time": 1793790000,
+  "next_time": 1793696400,
   "storage": "release",
   "threads_caption": "The shredder turned my To-Do list into a confetti blizzard, but the cat clearly thinks my coffee mug was the real target!\n\n😹 #catlife",
   "schedule": {
-    "delay_hours": 25.0,
+    "delay_hours": 8.0,
     "quiet_hours": [
       20,
       10

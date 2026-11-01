@@ -5,11 +5,11 @@
   "media_type": "VIDEO",
   "image_url": null,
   "caption": "This cat’s portfolio is down 20% and he is NOT taking it lying down! #catlife #trader #funnycats #wallstreet #marketcrash #financelife",
-  "next_time": 1793970000,
+  "next_time": 1793782800,
   "storage": "release",
   "threads_caption": "This cat’s portfolio is down 20% and he is NOT taking it lying down!\n\n#catlife",
   "schedule": {
-    "delay_hours": 25.0,
+    "delay_hours": 8.0,
     "quiet_hours": [
       20,
       10
