@@ -1,8 +1,8 @@
 # 📊 Dashboard de Publication
 
-✅ **Dernier run sans erreur** — 01/11/2026 15:19:39
+✅ **Dernier run sans erreur** — 01/11/2026 16:40:05
 
-📦 **Total publiés historiquement :** 667
+📦 **Total publiés historiquement :** 668
 
 ### 📱 État des comptes
 | Compte | Posts en attente | Prochaine publication | Fin de programmation | Autonomie | Aperçu |
