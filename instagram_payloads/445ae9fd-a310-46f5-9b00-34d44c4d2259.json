@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "445ae9fd-a310-46f5-9b00-34d44c4d2259",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_445ae9fd_video_1078.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "The shredder went into overdrive, but this cat is a master of disaster management. 📄😹",
+  "next_time": 1795165200,
+  "storage": "release",
+  "threads_caption": "The shredder went into overdrive, but this cat is a master of disaster management. 📄😹",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}
