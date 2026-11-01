@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "594dfd82-479b-4e64-9ce7-14bf141724f6",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_594dfd82_video_1139.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Squeezed a Pulse-Core from the Signal-Condenser to jam the grid. 💥 That utility-box didn't need to be on the floor anyway. 🐾 #AgentFeline #2093District #SignalSqueeze",
+  "next_time": 1794675600,
+  "storage": "release",
+  "threads_caption": "Squeezed a Pulse-Core from the Signal-Condenser to jam the grid. 💥 That utility-box didn't need to be on the floor anyway.\n\n🐾 #AgentFeline",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "be168197-0d37-4c63-950b-304dfba1151f",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_be168197_video_1179.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Just my usual stroll on the spire's edge. The drop is fine, don't worry about me. 🐾🏙️ #catwalk #heights",
+  "next_time": 1795078800,
+  "storage": "release",
+  "threads_caption": "Just my usual stroll on the spire's edge. The drop is fine, don't worry about me.\n\n🐾🏙️ #catwalk",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}

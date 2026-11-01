@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "a32874ed-c89a-48d4-9d10-5fd0ea9b5bac",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_a32874ed_video_1077.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "One tiny velvet pincushion, two very intense feline egos. They fight for the crown of the sewing room, but only one gets to rule the fluff. 👑😹 #catlife #felinefeuds #catsoftiktok #petdrama #velvetpincushion #judgycats",
+  "next_time": 1794733200,
+  "storage": "release",
+  "threads_caption": "One tiny velvet pincushion, two very intense feline egos. They fight for the crown of the sewing room, but only one gets to rule the fluff.\n\n👑😹 #catlife",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}

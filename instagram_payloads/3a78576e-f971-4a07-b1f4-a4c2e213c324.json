@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "3a78576e-f971-4a07-b1f4-a4c2e213c324",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_3a78576e_video_1159.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "✨ Today I’m sharing my secret to the softest pads in the colony. This velvet balm is a total game-changer for your daily paw-care routine! 🐾💖 #CatCare #PawsitivelySoft #PurrfectPaws",
+  "next_time": 1794934800,
+  "storage": "release",
+  "threads_caption": "✨ Today I’m sharing my secret to the softest pads in the colony. This velvet balm is a total game-changer for your daily paw-care routine!\n\n🐾💖 #CatCare",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}

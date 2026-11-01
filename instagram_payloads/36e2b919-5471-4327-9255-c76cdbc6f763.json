@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "36e2b919-5471-4327-9255-c76cdbc6f763",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_36e2b919_video_960.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Finally nailed the salsa routine! 💃🕺 Who else is living their best dancer life? 🐾✨ #CatDancer #SalsaKing #FelineGroove #DanceChallenge #PurrfectMoves #CatLife",
+  "next_time": 1795107600,
+  "storage": "release",
+  "threads_caption": "Finally nailed the salsa routine! 💃🕺 Who else is living their best dancer life?\n\n🐾✨ #CatDancer",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}
