@@ -1,0 +1,45 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "60256317-f476-430b-af72-ab7ee0ba1223",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_60256317_slide_6422_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_60256317_slide_6422_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_60256317_slide_6422_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_60256317_slide_6422_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_60256317_slide_6422_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_60256317_slide_6422_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_60256317_slide_6422_06.jpg"
+  ],
+  "caption": "L'IA peut prédire vos décisions avant même que vous ne les preniez 🧠\n\n42AI a dévoilé un \"modèle de monde comportemental\" capable de prédire les actions humaines en analysant des tendances psychologiques profondes plutôt que de simples historiques d'actions. Entraîné sur 30 millions de personnes, il utilise des transformeurs pour anticiper des comportements financiers, mais aussi pour le gaming ou la cybersécurité. 🚀📊🧠\n\nSources : TechCrunch\n\n#IntelligenceArtificielle #MachineLearning #Innovation #Psychologie #TechNews",
+  "next_time": 1794225600,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_60256317_slide_6422_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_60256317_slide_6422_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_60256317_slide_6422_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_60256317_slide_6422_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_60256317_slide_6422_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_60256317_slide_6422_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_60256317_slide_6422_06.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_60256317_story_slide_6422_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_60256317_story_slide_6422_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_60256317_story_slide_6422_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_60256317_story_slide_6422_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_60256317_story_slide_6422_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_60256317_story_slide_6422_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_60256317_story_slide_6422_06.jpg"
+  ],
+  "threads_caption": "L'IA peut prédire vos décisions avant même que vous ne les preniez 🧠\n\n42AI a dévoilé un \"modèle de monde comportemental\" capable de prédire les actions humaines en analysant des tendances psychologiques profondes plutôt que de simples historiques d'actions. Entraîné sur 30 millions de personnes, il utilise des transformeurs pour anticiper des comportements financiers, mais aussi pour le gaming ou la cybersécurité. 🚀📊🧠\n\nSources : TechCrunch\n\n#IntelligenceArtificielle",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
