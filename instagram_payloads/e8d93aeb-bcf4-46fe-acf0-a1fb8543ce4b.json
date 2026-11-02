@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "e8d93aeb-bcf4-46fe-acf0-a1fb8543ce4b",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e8d93aeb_video_6411.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Anthropic ajoute un tatouage numérique sur quatre modèles Claude pour se conformer à la loi européenne sur l'IA. 🖋️\n\nCe « watermark » est un motif imperceptible dans le choix des mots qui ne modifie ni la qualité, ni la vitesse, ni le prix de l'utilisation. La technologie s'inspire de SynthID de Google DeepMind pour créer un schéma statistique détectable dans le texte généré. Cependant, une faille technique existe pour deux modèles plus anciens : Claude Opus 4.6 et Claude Sonnet 4.6. Sur ces deux versions, le tatouage ne s'active que si les paramètres de réglage sont laissés à leurs valeurs par défaut. En modifiant légèrement la température ou le top_p, les utilisateurs peuvent contourner le marquage de manière simple. Si vous utilisez ces modèles pour votre travail, allez-vous choisir de rester sur les réglages par défaut pour la conformité, ou utiliser cette faille pour plus de liberté ?\n\nSource: The Decoder\n\n#Anthropic #Claude #AI #Watermarking #LLM",
+  "next_time": 1794121200,
+  "storage": "release",
+  "threads_caption": "Anthropic ajoute un tatouage numérique sur quatre modèles Claude pour se conformer à la loi européenne sur l'IA. 🖋️\n\nCe « watermark » est un motif imperceptible dans le choix des mots qui ne modifie ni la qualité, ni la vitesse, ni le prix de l'utilisation. La technologie s'inspire de SynthID de Google DeepMind pour créer un schéma statistique détectable dans le texte généré.\n\nSource: The Decoder\n\n#Anthropic",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
