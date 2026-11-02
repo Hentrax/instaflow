@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "5f3f63ff-8208-4720-ae09-a4ee2ebcdd57",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_5f3f63ff_video_1270.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "The Maine Coon turned the kitchen into a dairy farm in a single second. 🍦 He is now the sovereign ruler of the whipped cream mountain. #MaineCoon #KitchenChaos #CatLife",
+  "next_time": 1795280400,
+  "storage": "release",
+  "threads_caption": "The Maine Coon turned the kitchen into a dairy farm in a single second. 🍦 He is now the sovereign ruler of the whipped cream mountain.\n\n#MaineCoon",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "cd101751-7adf-4746-aa17-af1e57469173",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_cd101751_video_1261.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "My Bengal is literally trying to wax the garage floor and I can't stop laughing 😭 Why is he so dedicated? #catlife #garagecat #funnycats",
+  "next_time": 1795366800,
+  "storage": "release",
+  "threads_caption": "My Bengal is literally trying to wax the garage floor and I can't stop laughing 😭 Why is he so dedicated?\n\n#catlife",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}

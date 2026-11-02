@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "a755833d-b9b1-4afa-a6d0-9ea7cd44a3d8",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_a755833d_video_1218.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Engineering a new way to travel? The Serval is definitely not impressed with the commute. 🏎️🐈 #serval #wildcat #industrialchic #catsoftheworld #physicsfail #mechanicalbeast",
+  "next_time": 1795338000,
+  "storage": "release",
+  "threads_caption": "Engineering a new way to travel? The Serval is definitely not impressed with the commute.\n\n🏎️🐈 #serval",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}
