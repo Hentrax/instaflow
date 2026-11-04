@@ -1,0 +1,45 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "e7194862-1497-4c7d-bd89-021a342333de",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e7194862_slide_6516_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e7194862_slide_6516_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e7194862_slide_6516_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e7194862_slide_6516_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e7194862_slide_6516_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e7194862_slide_6516_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e7194862_slide_6516_06.jpg"
+  ],
+  "caption": "Les chercheurs du MIT ont réussi à booster les capacités d'un modèle Qwen en \"éditant\" directement ses poids internes avec GPT-6 Astra 🧬\n\nAu lieu d'utiliser le fine-tuning classique, ils ont utilisé une technique de \"weight-space programming\". GPT-6 Astra a analysé les paramètres numériques du modèle pour identifier et corriger des erreurs de raisonnement, comme les répétitions infinies. Résultat : le score en mathématiques du modèle Qwen3.5-0.8B a bondi de 7,9% à 48,1% en modifiant seulement 0,016% de ses poids 🚀. Cette approche pourrait transformer la maintenance des IA en un processus de \"débogage\" direct plutôt qu'en un long cycle d'entraînement 🛠️.\n\nSources : VentureBeat\n\n#IntelligenceArtificielle #MachineLearning #MIT #GPT6Astra #Qwen #InnovationIA",
+  "next_time": 1794243600,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e7194862_slide_6516_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e7194862_slide_6516_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e7194862_slide_6516_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e7194862_slide_6516_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e7194862_slide_6516_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e7194862_slide_6516_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e7194862_slide_6516_06.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e7194862_story_slide_6516_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e7194862_story_slide_6516_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e7194862_story_slide_6516_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e7194862_story_slide_6516_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e7194862_story_slide_6516_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e7194862_story_slide_6516_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e7194862_story_slide_6516_06.jpg"
+  ],
+  "threads_caption": "Les chercheurs du MIT ont réussi à booster les capacités d'un modèle Qwen en \"éditant\" directement ses poids internes avec GPT-6 Astra 🧬\n\nAu lieu d'utiliser le fine-tuning classique, ils ont utilisé une technique de \"weight-space programming\". GPT-6 Astra a analysé les paramètres numériques du modèle pour identifier et corriger des erreurs de raisonnement, comme les répétitions infinies.\n\nSources : VentureBeat\n\n#IntelligenceArtificielle",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}

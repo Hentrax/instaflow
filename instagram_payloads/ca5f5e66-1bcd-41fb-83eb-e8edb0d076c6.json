@@ -1,0 +1,45 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "ca5f5e66-1bcd-41fb-83eb-e8edb0d076c6",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ca5f5e66_slide_6487_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ca5f5e66_slide_6487_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ca5f5e66_slide_6487_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ca5f5e66_slide_6487_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ca5f5e66_slide_6487_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ca5f5e66_slide_6487_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ca5f5e66_slide_6487_06.jpg"
+  ],
+  "caption": "Anthropic veut mettre fin aux « usurpations d'identité » des modèles d'IA 🛡️\n\nAnthropic a présenté FlashProve, un système open-source utilisant la cryptographie pour garantir qu'une réponse provient d'un modèle spécifique. 🔐 Cette « inférence prouvable » empêche les entreprises de remplacer discrètement un modèle performant par un modèle moins cher. 📉 Les laboratoires n'ont qu'à publier une « empreinte » numérique du modèle, sans jamais révéler ses poids secrets. 🚀\n\nSource : TechCrunch\n\n#IA #Anthropic #MachineLearning #Cybersecurite #Innovation #TechNews",
+  "next_time": 1794294000,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ca5f5e66_slide_6487_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ca5f5e66_slide_6487_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ca5f5e66_slide_6487_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ca5f5e66_slide_6487_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ca5f5e66_slide_6487_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ca5f5e66_slide_6487_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ca5f5e66_slide_6487_06.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ca5f5e66_story_slide_6487_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ca5f5e66_story_slide_6487_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ca5f5e66_story_slide_6487_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ca5f5e66_story_slide_6487_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ca5f5e66_story_slide_6487_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ca5f5e66_story_slide_6487_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ca5f5e66_story_slide_6487_06.jpg"
+  ],
+  "threads_caption": "Anthropic veut mettre fin aux « usurpations d'identité » des modèles d'IA 🛡️\n\nAnthropic a présenté FlashProve, un système open-source utilisant la cryptographie pour garantir qu'une réponse provient d'un modèle spécifique. 🔐 Cette « inférence prouvable » empêche les entreprises de remplacer discrètement un modèle performant par un modèle moins cher.\n\nSource : TechCrunch\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
