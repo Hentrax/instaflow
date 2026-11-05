@@ -1,0 +1,42 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "7a745aee-26fc-421a-b007-d164b01edbeb",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7a745aee_slide_6562_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7a745aee_slide_6562_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7a745aee_slide_6562_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7a745aee_slide_6562_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7a745aee_slide_6562_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7a745aee_slide_6562_05.jpg"
+  ],
+  "caption": "ChatGPT peut maintenant créer des GIFs animés grâce au nouveau modèle Images 2.6 🎬\n\nOpenAI déploie Images 2.6 pour permettre la création de GIFs à partir de texte ou de photos. Les utilisateurs peuvent ajuster la vitesse d'animation et éditer les images. Cette mise à jour accélère aussi la génération globale et introduit deux nouveaux modèles API : Flare et Sunburst. 🚀✨\n\nSources : The Decoder · OpenAI\n#IntelligenceArtificielle #OpenAI #ChatGPT #Images26 #GIF #InnovationIA",
+  "next_time": 1794312000,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7a745aee_slide_6562_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7a745aee_slide_6562_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7a745aee_slide_6562_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7a745aee_slide_6562_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7a745aee_slide_6562_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7a745aee_slide_6562_05.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7a745aee_story_slide_6562_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7a745aee_story_slide_6562_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7a745aee_story_slide_6562_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7a745aee_story_slide_6562_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7a745aee_story_slide_6562_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7a745aee_story_slide_6562_05.jpg"
+  ],
+  "threads_caption": "ChatGPT peut maintenant créer des GIFs animés grâce au nouveau modèle Images 2.6 🎬\n\nOpenAI déploie Images 2.6 pour permettre la création de GIFs à partir de texte ou de photos. Les utilisateurs peuvent ajuster la vitesse d'animation et éditer les images. Cette mise à jour accélère aussi la génération globale et introduit deux nouveaux modèles API : Flare et Sunburst. 🚀✨\n\nSources : The Decoder · OpenAI\n\n#IntelligenceArtificielle",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
