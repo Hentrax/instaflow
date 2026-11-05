@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "ab147f3d-ac33-45fe-9cc9-de6b7e138eff",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_ab147f3d_video_1080.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "One box to rule them all, but only one feline king can claim the cardboard throne. 📦👑 #catlife #catfight #boxobsession #felinefeud #funnycats #catlogic",
+  "next_time": 1795626000,
+  "storage": "release",
+  "threads_caption": "One box to rule them all, but only one feline king can claim the cardboard throne.\n\n📦👑 #catlife",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}
