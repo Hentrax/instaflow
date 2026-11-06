@@ -1,0 +1,45 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "b7758885-968d-4f68-88b8-865ce8c7b859",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b7758885_slide_6618_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b7758885_slide_6618_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b7758885_slide_6618_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b7758885_slide_6618_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b7758885_slide_6618_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b7758885_slide_6618_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b7758885_slide_6618_06.jpg"
+  ],
+  "caption": "Inkling 2 Small prend la tête du classement des modèles open-weight occidentaux 🏆\n\nLa startup Thinking Machines (fondée par l'ex-CTO d'OpenAI Mira Murati) vient de dévoiler Inkling 2 Small. Ce modèle \"Mixture-of-Experts\" de 17 milliards de paramètres actifs surpasse largement son prédécesseur et rivalise avec Gemini 3.8 Flash. Il excelle particulièrement dans les tâches d'agents, le code et la vision, tout en restant très abordable (1,18 $ par tâche). Ses poids seront bientôt libérés sous licence Apache 2.0. 🚀💻👁️\n\nSources : The Decoder\n\n#IA #OpenSource #MachineLearning #ThinkingMachines #InnovationIA",
+  "next_time": 1794553200,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b7758885_slide_6618_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b7758885_slide_6618_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b7758885_slide_6618_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b7758885_slide_6618_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b7758885_slide_6618_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b7758885_slide_6618_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b7758885_slide_6618_06.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b7758885_story_slide_6618_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b7758885_story_slide_6618_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b7758885_story_slide_6618_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b7758885_story_slide_6618_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b7758885_story_slide_6618_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b7758885_story_slide_6618_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b7758885_story_slide_6618_06.jpg"
+  ],
+  "threads_caption": "Inkling 2 Small prend la tête du classement des modèles open-weight occidentaux 🏆\n\nLa startup Thinking Machines (fondée par l'ex-CTO d'OpenAI Mira Murati) vient de dévoiler Inkling 2 Small. Ce modèle \"Mixture-of-Experts\" de 17 milliards de paramètres actifs surpasse largement son prédécesseur et rivalise avec Gemini 3.8 Flash. Il excelle particulièrement dans les tâches d'agents, le code et la vision, tout en restant très abordable (1,18 $ par tâche).\n\nSources : The Decoder\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
