@@ -1,0 +1,30 @@
+{
+  "compte": "cyberpunk_story",
+  "pub_id": "ba574b96-d86a-459d-8558-7041808df481",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_ba574b96_slide_100_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_ba574b96_slide_100_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_ba574b96_slide_100_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_ba574b96_slide_100_03.jpg"
+  ],
+  "caption": "Found a relic in Old Tokyo.\n\nStopped by a boutique today and found this heavy, mechanical typewriter.\nRunning my fingers over the keys feels like touching something real. \nIt has a weight that a screen just can’t replicate.\n\n#oldtokyo #analog",
+  "next_time": 1794501900,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_ba574b96_slide_100_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_ba574b96_slide_100_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_ba574b96_slide_100_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_ba574b96_slide_100_03.jpg"
+  ],
+  "story_slides": true,
+  "threads_caption": "Found a relic in Old Tokyo.\n\nStopped by a boutique today and found this heavy, mechanical typewriter.\nRunning my fingers over the keys feels like touching something real. \nIt has a weight that a screen just can’t replicate.\n\n#oldtokyo",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      9
+    ],
+    "timezone": ""
+  }
+}
