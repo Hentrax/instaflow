@@ -1,0 +1,30 @@
+{
+  "compte": "cyberpunk_story",
+  "pub_id": "b70d6792-d2ea-4019-8158-0a153ee83723",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_b70d6792_slide_104_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_b70d6792_slide_104_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_b70d6792_slide_104_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_b70d6792_slide_104_03.jpg"
+  ],
+  "caption": "Navigating the flooded streets of Old Tokyo.\n\nI took a skiff ride today to photograph the old clock tower. The amber light is perfect on the iridescent jacket and the holographic patterns in the water.\n\n#neotokyo #oldtokyo #goldenhour",
+  "next_time": 1794591900,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_b70d6792_slide_104_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_b70d6792_slide_104_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_b70d6792_slide_104_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_b70d6792_slide_104_03.jpg"
+  ],
+  "story_slides": true,
+  "threads_caption": "Navigating the flooded streets of Old Tokyo.\n\nI took a skiff ride today to photograph the old clock tower. The amber light is perfect on the iridescent jacket and the holographic patterns in the water.\n\n#neotokyo",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      9
+    ],
+    "timezone": ""
+  }
+}
