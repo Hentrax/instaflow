@@ -1,0 +1,19 @@
+{
+  "compte": "miniature",
+  "pub_id": "5cd06170-63e2-4c2b-9b5f-92cd9dedcf82",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_5cd06170_video_208.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "A quiet corner of the attic holds a piece of Old Town, a place where time seems to stand still amidst the dust of old suitcases. It is a peaceful scene, until a certain metallic visitor decides to take a slow stroll through the main square.",
+  "next_time": 1795701600,
+  "storage": "release",
+  "threads_caption": "A quiet corner of the attic holds a piece of Old Town, a place where time seems to stand still amidst the dust of old suitcases. It is a peaceful scene, until a certain metallic visitor decides to take a slow stroll through the main square.",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      0,
+      12
+    ],
+    "timezone": ""
+  }
+}
