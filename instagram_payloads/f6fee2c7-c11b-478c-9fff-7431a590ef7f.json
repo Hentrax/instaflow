@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "f6fee2c7-c11b-478c-9fff-7431a590ef7f",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_f6fee2c7_video_6599.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Google lance Gemini Omni 1.2 Flash, capable de générer des vidéos de 15 secondes avec une réduction de prix de 30 % 🎬\n\nLe modèle propose le « Conversational Editing », qui permet de modifier des détails comme l'arrière-plan, l'éclairage ou le format sans régénérer toute la séquence. Le flux de travail permet de créer des brouillons en basse résolution, de corriger les détails par étapes, puis de passer au rendu final en 1080p ou 4K pour limiter les coûts. Il améliore la fidélité aux références en utilisant des photos de personnages, de produits ou des extraits audio pour garder les visages, les vêtements et les logos cohérents. Il gère des mouvements de caméra complexes comme des vols de drones FPV, tout en offrant un meilleur synchronisme labial et une distinction claire entre plusieurs locuteurs. Le modèle est disponible sur l'API Gemini, Google AI Studio, Google Vids et l'application Gemini pour les abonnés Ultra. Est-ce que tu utiliserais cette fonction de modification par conversation pour créer tes propres publicités ou vidéos de produits ?\n\nSources: The Decoder · Google\n\n#IA #GoogleGemini #VideoAI #MachineLearning #TechNews",
+  "next_time": 1794416400,
+  "storage": "release",
+  "threads_caption": "Google lance Gemini Omni 1.2 Flash, capable de générer des vidéos de 15 secondes avec une réduction de prix de 30 % 🎬\n\nLe modèle propose le « Conversational Editing », qui permet de modifier des détails comme l'arrière-plan, l'éclairage ou le format sans régénérer toute la séquence. Le flux de travail permet de créer des brouillons en basse résolution, de corriger les détails par étapes, puis de passer au rendu final en 1080p ou 4K pour limiter les coûts.\n\nSources: The Decoder · Google\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}

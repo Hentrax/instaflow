@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "e562b90c-f880-4b8f-af95-734df632e43d",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e562b90c_video_6595.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "GPT-6 Cyber 🛡️ : OpenAI vient de lancer un modèle spécialisé pour traquer les failles de sécurité logicielles.\n\nCe modèle est capable de détecter des vulnérabilités, de créer des exploits fonctionnels et de proposer des correctifs. Il affiche une amélioration de 51 % par rapport à son prédécesseur, GPT-5.6 Cyber, sur le benchmark ExploitGym. Des chercheurs l'ont utilisé pour reproduire 1 724 vulnérabilités dans le noyau Linux et développer 948 exploits exploitables. Il a aussi identifié 81 failles critiques inconnues dans Firefox, que Mozilla a déjà commencé à corriger. Une innovation majeure réside dans son alignement : il est entraîné pour respecter strictement les limites fixées par les chercheurs. L'accès est pour l'instant réservé aux clients approuvés du programme Daybreak Red, avec un coût de 20 $ par million de tokens en entrée.\n\nSources: VentureBeat · The Decoder · OpenAI · TechCrunch\n\n#OpenAI #Cybersecurity #AI #GPT6 #TechNews",
+  "next_time": 1794484800,
+  "storage": "release",
+  "threads_caption": "GPT-6 Cyber 🛡️ : OpenAI vient de lancer un modèle spécialisé pour traquer les failles de sécurité logicielles.\n\nCe modèle est capable de détecter des vulnérabilités, de créer des exploits fonctionnels et de proposer des correctifs. Il affiche une amélioration de 51 % par rapport à son prédécesseur, GPT-5.6 Cyber, sur le benchmark ExploitGym.\n\nSources: VentureBeat · The Decoder · OpenAI · TechCrunch\n\n#OpenAI",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}

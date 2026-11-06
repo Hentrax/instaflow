@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "0a04648b-9f6e-4ae4-a872-79b8baeee674",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0a04648b_video_6603.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Baidu vient de publier ERNIE 5.5 Flash Base, un modèle open-source massif de 280 milliards de paramètres 🚀\n\nIl repose sur une architecture Mixture-of-Experts, ce qui permet d'activer seulement 14 milliards de paramètres pour chaque requête. Le modèle a été entraîné sur 33,5 billions de tokens avec une fenêtre de contexte initiale de 128 000 tokens. Il est toutefois conçu pour supporter jusqu'à un million de tokens lors des phases de fine-tuning ou d'inférence. Baidu affirme qu'il rivalise avec DeepSeek V4 Flash et MiMo V2.5 sur le raisonnement, le code et les tâches à long contexte. C'est une version de base livrée sans aucun post-entraînement, laissant les développeurs choisir leur propre direction. Les poids du modèle sont déjà accessibles sur Hugging Face en formats FP8 et BF16.\n\nSource : The Decoder\n\n#Baidu #ERNIE5 #OpenSource #AI #MachineLearning #LLM",
+  "next_time": 1794398400,
+  "storage": "release",
+  "threads_caption": "Baidu vient de publier ERNIE 5.5 Flash Base, un modèle open-source massif de 280 milliards de paramètres 🚀\n\nIl repose sur une architecture Mixture-of-Experts, ce qui permet d'activer seulement 14 milliards de paramètres pour chaque requête. Le modèle a été entraîné sur 33,5 billions de tokens avec une fenêtre de contexte initiale de 128 000 tokens. Il est toutefois conçu pour supporter jusqu'à un million de tokens lors des phases de fine-tuning ou d'inférence.\n\nSource : The Decoder\n\n#Baidu",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
