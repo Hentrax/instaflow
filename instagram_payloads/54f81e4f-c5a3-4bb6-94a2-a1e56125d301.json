@@ -1,0 +1,19 @@
+{
+  "compte": "miniature",
+  "pub_id": "54f81e4f-c5a3-4bb6-94a2-a1e56125d301",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_54f81e4f_video_304.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "The Lord of the Rings: The Return of the King rebuilds the iconic \"You shall not pass\" moment on the bridge of Khazad-dûm. The model captures the dramatic scale of the bridge and the hero's defiance, though the hero's resolve is about to be tested by a very different kind of heat.",
+  "next_time": 1795791600,
+  "storage": "release",
+  "threads_caption": "The Lord of the Rings: The Return of the King rebuilds the iconic \"You shall not pass\" moment on the bridge of Khazad-dûm. The model captures the dramatic scale of the bridge and the hero's defiance, though the hero's resolve is about to be tested by a very different kind of heat.",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      0,
+      12
+    ],
+    "timezone": ""
+  }
+}
