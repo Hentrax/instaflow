@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "f6853662-746e-4a48-9ef4-947e07810758",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_f6853662_video_1286.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Finally revealing my secret for that snatched, voluminous tail. 💖 The matte finish is literally everything! ✨ #TailSculpting #BeautyCat #FelineGloss #TailGoals",
+  "next_time": 1795798800,
+  "storage": "release",
+  "threads_caption": "Finally revealing my secret for that snatched, voluminous tail. 💖 The matte finish is literally everything!\n\n✨ #TailSculpting",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}
