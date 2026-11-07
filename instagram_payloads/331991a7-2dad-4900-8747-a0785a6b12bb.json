@@ -1,0 +1,42 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "331991a7-2dad-4900-8747-a0785a6b12bb",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_331991a7_slide_6627_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_331991a7_slide_6627_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_331991a7_slide_6627_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_331991a7_slide_6627_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_331991a7_slide_6627_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_331991a7_slide_6627_05.jpg"
+  ],
+  "caption": "Plus de 800 instances d'Artex, un outil de piratage par IA, sont exposées publiquement sur le web ⚠️\n\nDes chercheurs ont découvert des centaines de déploiements d'Artex, un outil d'agents IA conçu pour le test de pénétration autonome. Ces systèmes, qui peuvent mener des cyberattaques de la reconnaissance à l'exfiltration de données avec peu d'intervention humaine, sont exposés sans mot de passe. Ils ont déjà été liés à des attaques majeures contre des banques coréennes et des infrastructures cloud. 💻🛡️🚀\n\nSources : TechCrunch\n\n#IA #Cybersécurité #Artex #Hacking #IntelligenceArtificielle",
+  "next_time": 1794589200,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_331991a7_slide_6627_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_331991a7_slide_6627_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_331991a7_slide_6627_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_331991a7_slide_6627_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_331991a7_slide_6627_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_331991a7_slide_6627_05.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_331991a7_story_slide_6627_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_331991a7_story_slide_6627_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_331991a7_story_slide_6627_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_331991a7_story_slide_6627_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_331991a7_story_slide_6627_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_331991a7_story_slide_6627_05.jpg"
+  ],
+  "threads_caption": "Plus de 800 instances d'Artex, un outil de piratage par IA, sont exposées publiquement sur le web ⚠️\n\nDes chercheurs ont découvert des centaines de déploiements d'Artex, un outil d'agents IA conçu pour le test de pénétration autonome. Ces systèmes, qui peuvent mener des cyberattaques de la reconnaissance à l'exfiltration de données avec peu d'intervention humaine, sont exposés sans mot de passe.\n\nSources : TechCrunch\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
