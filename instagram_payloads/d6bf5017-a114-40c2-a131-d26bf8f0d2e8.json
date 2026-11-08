@@ -22,8 +22,8 @@
     "facebook_story": true
   },
   "attempts": {
-    "instagram": 2,
+    "instagram": 3,
     "facebook": 1,
-    "threads": 2
+    "threads": 3
   }
 }
