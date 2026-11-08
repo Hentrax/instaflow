@@ -67,6 +67,17 @@ EXIGENCES TENUES ICI (référence : docs/rules/5.06-publishing-scheduling.md Pb6
 11. Une limitation TEMPORAIRE de Meta (`_is_meta_throttle` : quota d'appels,
     « action bloquée », plafond 24 h) est une attente, pas un échec : aucune
     tentative consommée, dashboard seulement, pas d'issue GitHub.
+
+12. Meta qui ne sait pas télécharger un média (2207052, 2207077, 504, conteneur
+    Threads `UNKNOWN`) : le runner relit le média lui-même (`_media_readable`).
+    Lisible → échec imputé à Meta, attente sans tentative, dashboard seulement,
+    au plus FETCH_WAIT_MAX_S (24 h, `fetch_wait_since`). Illisible, ou erreur de
+    token / permission → vrai échec, compté.
+
+13. Un échec n'est signalé qu'UNE fois par cible et par publication
+    (`_first_alert`, marque `alerted`) : seul le premier fait échouer le run, donc
+    le mail de GitHub ; les suivants restent au dashboard. Un succès efface la
+    marque.
 """
 
 import json
@@ -506,6 +517,82 @@ def _is_meta_throttle(exc):
     subcodes = {int(c) for c in re.findall(r"""['"]error_subcode['"]\s*:\s*(\d+)""", text)}
     return bool(codes & _META_THROTTLE_CODES or subcodes & _META_THROTTLE_SUBCODES
                 or re.search(r"""['"]is_transient['"]\s*:\s*(True|true)""", text))
+
+
+# Échec de téléchargement côté Meta (08/11/2026 : 2207052 « l'URI ne répond pas à
+# nos exigences », 2207077 « Fatal », 504 FileUrlProcessingError, conteneur Threads
+# `UNKNOWN` — sur des médias parfaitement présents). Meta ne dit pas si c'est lui
+# ou notre fichier : le runner relit donc lui-même le média. Lisible → l'échec est
+# imputé à Meta, la cible attend sans consommer de tentative, au plus
+# FETCH_WAIT_MAX_S (un format que Meta refuserait toujours finit par compter).
+# Illisible → vrai échec, compté comme avant.
+_MEDIA_FIELDS    = ("media_url", "image_url", "children", "fb_children", "story_children")
+FETCH_WAIT_MAX_S = 24 * 3600
+# Token expiré (190) ou permission manquante (10, 200-299) : rien à voir avec le
+# média, l'alerte doit partir tout de suite.
+_AUTH_CODES = {10, 190} | set(range(200, 300))
+
+
+def _payload_media_urls(payload):
+    """URL des médias que Meta doit télécharger pour ce payload, sans doublon."""
+    urls = []
+    for field in _MEDIA_FIELDS:
+        value = payload.get(field)
+        for url in (value if isinstance(value, list) else [value]):
+            if isinstance(url, str) and url.startswith("http") and url not in urls:
+                urls.append(url)
+    return urls
+
+
+def _media_magic_ok(head):
+    """Vrai si les premiers octets sont ceux d'un JPEG, d'un PNG ou d'un MP4."""
+    return (head[:3] == b"\xff\xd8\xff" or head[:8] == b"\x89PNG\r\n\x1a\n"
+            or head[4:8] == b"ftyp")
+
+
+def _media_readable(url):
+    """Relit les 16 premiers octets du média : réponse 200/206, fichier non vide
+    et en-tête d'image ou de vidéo. Toute erreur réseau vaut « illisible »."""
+    try:
+        r = _get(url, headers={"Range": "bytes=0-15"}, timeout=30)
+        if r.status_code not in (200, 206):
+            return False
+        total = (r.headers.get("Content-Range") or "").rpartition("/")[2]
+        if total.isdigit() and int(total) == 0:
+            return False
+        return _media_magic_ok(r.content[:16])
+    except Exception:
+        return False
+
+
+def _is_auth_error(exc):
+    text = str(exc) if exc is not None else ""
+    codes = {int(c) for c in re.findall(r"""['"]code['"]\s*:\s*(\d+)""", text)}
+    return bool(codes & _AUTH_CODES)
+
+
+def _first_alert(payload, name):
+    """Vrai la première fois que la cible `name` de ce payload échoue : seul ce
+    premier échec fait échouer le run (donc le mail de GitHub). Les suivants
+    restent au dashboard ; un succès efface la marque (`alerted`)."""
+    alerted = payload.setdefault("alerted", {})
+    if alerted.get(name):
+        return False
+    alerted[name] = True
+    return True
+
+
+def _fetch_wait(payload, name, media_ok, now):
+    """Décide si l'échec de la cible `name` est imputé à Meta (True : attente,
+    aucune tentative consommée). Note dans le payload (`fetch_wait_since`)
+    depuis quand la cible attend ; au-delà de FETCH_WAIT_MAX_S, ou si le média
+    est illisible pour nous, l'échec compte normalement."""
+    waits = payload.setdefault("fetch_wait_since", {})
+    if not media_ok:
+        waits.pop(name, None)
+        return False
+    since = waits.setdefault(name, now)
+    return now - since < FETCH_WAIT_MAX_S
 
 # Seuils d'alerte du dashboard.
 TOKEN_WARN_DAYS = 10   # token proche de l'échéance
@@ -2003,6 +2090,7 @@ for payload_file in payload_dir.glob("*.json"):
             continue
 
         ok = False
+        error = None
         try:
             if DRY_RUN:
                 print(f"[{pub_id}] [DRY] {label} ({media_type}) — publication simulée")
@@ -2035,12 +2123,31 @@ for payload_file in payload_dir.glob("*.json"):
                 _write_payload_state(payload_file, payload, state)
                 continue
             ok = False
-            (_fail if blocking else _warn)(f"{folder}: {label} {pub_id} -> {e}")
-        else:
-            if ok and not DRY_RUN:
+            error = e
+        if ok:
+            if not DRY_RUN:
                 print(f"[{pub_id}] [OK] {label} publié ({media_type})")
-            elif not ok:
-                (_fail if blocking else _warn)(f"{folder}: {label} {pub_id} -> échec signalé")
+            (payload.get("fetch_wait_since") or {}).pop(name, None)
+            (payload.get("alerted") or {}).pop(name, None)
+        else:
+            reason = error if error is not None else "échec signalé"
+            urls = _payload_media_urls(payload)
+            media_ok = (not _is_auth_error(error) and bool(urls)
+                        and all(_media_readable(u) for u in urls))
+            if _fetch_wait(payload, name, media_ok, int(time.time())):
+                # Nos médias sont lisibles : Meta n'a pas su les télécharger.
+                # Attente sans tentative consommée, dashboard seulement.
+                _warn(f"{folder}: {label} {pub_id} -> médias lisibles, échec côté Meta, "
+                      f"reprise au prochain run : {reason}")
+                _write_payload_state(payload_file, payload, state)
+                continue
+            message = f"{folder}: {label} {pub_id} -> {reason}"
+            if blocking and _first_alert(payload, name):
+                _fail(message)
+            else:
+                # Déjà signalé pour cette cible (ou best effort) : dashboard
+                # seulement, pas un mail de plus à chaque run.
+                _warn(message)
         state.record(name, ok)
         # Persistance IMMÉDIATE : un crash après cette ligne ne republiera pas
         # ce qui vient de partir (cf. _write_payload_state).
