@@ -17,10 +17,13 @@
     "timezone": ""
   },
   "instagram_tried": true,
-  "done": {},
+  "done": {
+    "facebook": true,
+    "facebook_story": true
+  },
   "attempts": {
-    "instagram": 1,
+    "instagram": 2,
     "facebook": 1,
-    "threads": 1
+    "threads": 2
   }
 }
