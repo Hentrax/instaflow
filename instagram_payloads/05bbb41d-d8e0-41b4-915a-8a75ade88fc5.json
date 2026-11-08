@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "05bbb41d-d8e0-41b4-915a-8a75ade88fc5",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_05bbb41d_video_1180.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Just your average morning stroll. The drop is quite nice this time of day. 🐾 #CatLogic #HighLife",
+  "next_time": 1795885200,
+  "storage": "release",
+  "threads_caption": "Just your average morning stroll. The drop is quite nice this time of day.\n\n🐾 #CatLogic",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}
