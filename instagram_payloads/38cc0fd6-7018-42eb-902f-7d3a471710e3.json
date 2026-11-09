@@ -1,0 +1,19 @@
+{
+  "compte": "miniature",
+  "pub_id": "38cc0fd6-7018-42eb-902f-7d3a471710e3",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_38cc0fd6_video_157.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Sometimes, even a miniature masterpiece isn't safe from the local residents. This tiny Mediterranean village was perfectly peaceful on the backyard table until a visitor from the real world crashed the party.",
+  "next_time": 1795971600,
+  "storage": "release",
+  "threads_caption": "Sometimes, even a miniature masterpiece isn't safe from the local residents. This tiny Mediterranean village was perfectly peaceful on the backyard table until a visitor from the real world crashed the party.",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      0,
+      12
+    ],
+    "timezone": ""
+  }
+}
