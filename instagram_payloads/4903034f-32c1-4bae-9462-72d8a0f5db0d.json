@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "4903034f-32c1-4bae-9462-72d8a0f5db0d",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_4903034f_video_1294.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "The ultimate 'zoomies' have been upgraded to industrial levels. 🚜🐾 #BengalCat #RideOnCar #ConstructionZone #CatLife #Whirlwind #OddlySatisfying",
+  "next_time": 1795971600,
+  "storage": "release",
+  "threads_caption": "The ultimate 'zoomies' have been upgraded to industrial levels.\n\n🚜🐾 #BengalCat",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}
