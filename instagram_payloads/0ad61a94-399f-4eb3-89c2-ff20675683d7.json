@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "0ad61a94-399f-4eb3-89c2-ff20675683d7",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_0ad61a94_video_1110.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "The Russian Blue just shredded the tax returns. 📄 Confetti is flying, but the lamp is paying the price. 💡 #catlogic",
+  "next_time": 1796058000,
+  "storage": "release",
+  "threads_caption": "The Russian Blue just shredded the tax returns. 📄 Confetti is flying, but the lamp is paying the price.\n\n💡 #catlogic",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}
