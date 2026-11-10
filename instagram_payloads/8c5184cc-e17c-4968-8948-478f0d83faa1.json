@@ -1,0 +1,33 @@
+{
+  "compte": "cyberpunk_story",
+  "pub_id": "8c5184cc-e17c-4968-8948-478f0d83faa1",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_8c5184cc_slide_120_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_8c5184cc_slide_120_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_8c5184cc_slide_120_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_8c5184cc_slide_120_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_8c5184cc_slide_120_04.jpg"
+  ],
+  "caption": "Pulse of the lower levels.\n\nFinally made it to the Neon District club tonight. The bass here is heavy enough to change your heartbeat. 🔴\n\n#neotokyo #nightlife",
+  "next_time": 1794878100,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_8c5184cc_slide_120_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_8c5184cc_slide_120_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_8c5184cc_slide_120_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_8c5184cc_slide_120_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_8c5184cc_slide_120_04.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_8c5184cc_fb_reel_120.mp4",
+  "story_slides": true,
+  "threads_caption": "Pulse of the lower levels.\n\nFinally made it to the Neon District club tonight. The bass here is heavy enough to change your heartbeat.\n\n🔴 #neotokyo",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      9
+    ],
+    "timezone": ""
+  }
+}
