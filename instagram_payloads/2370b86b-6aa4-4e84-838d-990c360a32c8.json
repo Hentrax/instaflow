@@ -1,0 +1,29 @@
+{
+  "compte": "cyberpunk_story",
+  "pub_id": "2370b86b-6aa4-4e84-838d-990c360a32c8",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_2370b86b_slide_163_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_2370b86b_slide_163_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_2370b86b_slide_163_02.jpg"
+  ],
+  "caption": "Laughing my head off at a friend's place tonight.\nThe cider is a 10/10.\nLove the cozy vibes and the shifting sofa.\n✨",
+  "next_time": 1794947400,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_2370b86b_slide_163_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_2370b86b_slide_163_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_2370b86b_slide_163_02.jpg"
+  ],
+  "story_slides": true,
+  "threads_caption": "Laughing my head off at a friend's place tonight.\nThe cider is a 10/10.\nLove the cozy vibes and the shifting sofa.\n✨",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      9
+    ],
+    "timezone": ""
+  },
+  "story_only": true
+}
