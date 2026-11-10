@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "621173b6-836e-4692-9e21-9f16ac794b2a",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_621173b6_video_6703.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "OpenAI a lancé Control Room, un système capable d'arrêter les modèles d'IA en moins de 35 secondes en cas de risque de sécurité. 🛑\n\nCe système surveille toutes les tâches de recherche, comme l'entraînement par renforcement ou le traitement de données massives. Chaque demande de génération de texte doit désormais obtenir une autorisation en temps réel auprès de ce centre de contrôle. Si un système de surveillance détecte un comportement dangereux, il ordonne à Control Room de bloquer le job immédiatement. Le modèle s'arrête alors de produire du contenu, même si le code de recherche continue de tourner en arrière-plan. Le système est conçu pour \"échouer en mode fermé\" : si le centre de contrôle tombe en panne, toutes les requêtes sont bloquées par sécurité. L'objectif d'OpenAI est désormais de réduire ce délai de 35 secondes à zéro pour une coupure instantanée dès qu'une anomalie est détectée.\n\nSources : OpenAI\n\n#OpenAI #IA #SécuritéIA #TechNews",
+  "next_time": 1794657600,
+  "storage": "release",
+  "threads_caption": "OpenAI a lancé Control Room, un système capable d'arrêter les modèles d'IA en moins de 35 secondes en cas de risque de sécurité. 🛑\n\nCe système surveille toutes les tâches de recherche, comme l'entraînement par renforcement ou le traitement de données massives. Chaque demande de génération de texte doit désormais obtenir une autorisation en temps réel auprès de ce centre de contrôle.\n\nSources : OpenAI\n\n#OpenAI",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
