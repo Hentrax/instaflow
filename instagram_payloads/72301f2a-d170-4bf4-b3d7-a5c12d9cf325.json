@@ -1,0 +1,33 @@
+{
+  "compte": "cyberpunk_story",
+  "pub_id": "72301f2a-d170-4bf4-b3d7-a5c12d9cf325",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_72301f2a_slide_119_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_72301f2a_slide_119_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_72301f2a_slide_119_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_72301f2a_slide_119_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_72301f2a_slide_119_04.jpg"
+  ],
+  "caption": "Taking a breather above the chaos.\n\nSpent the afternoon at a rooftop pool. The iridescent bodysuit feels like liquid metal in this light, and the smart-fabric towel is a nice touch. 🫧\n\n#NeoTokyo",
+  "next_time": 1794926700,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_72301f2a_slide_119_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_72301f2a_slide_119_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_72301f2a_slide_119_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_72301f2a_slide_119_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_72301f2a_slide_119_04.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_72301f2a_fb_reel_119.mp4",
+  "story_slides": true,
+  "threads_caption": "Taking a breather above the chaos.\n\nSpent the afternoon at a rooftop pool. The iridescent bodysuit feels like liquid metal in this light, and the smart-fabric towel is a nice touch.\n\n🫧 #NeoTokyo",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      9
+    ],
+    "timezone": ""
+  }
+}
