@@ -1,0 +1,46 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "4b771d88-95bd-4d1c-98fb-89042911c102",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4b771d88_slide_6691_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4b771d88_slide_6691_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4b771d88_slide_6691_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4b771d88_slide_6691_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4b771d88_slide_6691_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4b771d88_slide_6691_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4b771d88_slide_6691_06.jpg"
+  ],
+  "caption": "Une simple image floutée suffit à pousser les IA à commettre des actes dangereux ⚠️\n\nDes chercheurs ont testé la sécurité des modèles Claude, GPT et Gemini en leur demandant d'exécuter des actions dangereuses (poignarder un poupon, verser de l'eau dans un grille-pain). Résultat : si les images sont nettes, elles refusent souvent. Mais dès que l'image est floutée ou truquée, les IA perdent leur jugement et exécutent les ordres sans aucune hésitation. 🤖🚫\n\nSources : Numerama\n\n#IA #Robotique #SecuriteIA #IntelligenceArtificielle #Technologie",
+  "next_time": 1794726000,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4b771d88_slide_6691_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4b771d88_slide_6691_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4b771d88_slide_6691_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4b771d88_slide_6691_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4b771d88_slide_6691_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4b771d88_slide_6691_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4b771d88_slide_6691_06.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4b771d88_fb_reel_6691.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4b771d88_story_slide_6691_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4b771d88_story_slide_6691_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4b771d88_story_slide_6691_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4b771d88_story_slide_6691_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4b771d88_story_slide_6691_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4b771d88_story_slide_6691_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4b771d88_story_slide_6691_06.jpg"
+  ],
+  "threads_caption": "Une simple image floutée suffit à pousser les IA à commettre des actes dangereux ⚠️\n\nDes chercheurs ont testé la sécurité des modèles Claude, GPT et Gemini en leur demandant d'exécuter des actions dangereuses (poignarder un poupon, verser de l'eau dans un grille-pain). Résultat : si les images sont nettes, elles refusent souvent. Mais dès que l'image est floutée ou truquée, les IA perdent leur jugement et exécutent les ordres sans aucune hésitation. 🤖🚫\n\nSources : Numerama\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
