@@ -1,0 +1,46 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "c399ec29-71e9-4aea-84ad-ba77d7334594",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c399ec29_slide_6741_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c399ec29_slide_6741_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c399ec29_slide_6741_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c399ec29_slide_6741_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c399ec29_slide_6741_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c399ec29_slide_6741_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c399ec29_slide_6741_06.jpg"
+  ],
+  "caption": "Gemini 4 Carbon est enfin disponible pour tout le monde et s'impose déjà comme le champion des classements IA 🏆\n\nLe modèle le plus puissant de Google sort de son cercle restreint pour devenir accessible au grand public via l'API et les applications Gemini. Il occupe désormais la première place de l'indice Artificial Analysis Intelligence Index v5, surpassant Claude Opus 5.5 et GPT-6 Astra. 🚀 Plus performant et nettement moins cher que ses concurrents directs, il offre une fenêtre de contexte de 1 million de tokens et des capacités multimodales complètes. 📊\n\nPrêt à tester le nouveau champion ?\n\nSources : ActuIA · VentureBeat\n\n#IA #GoogleDeepmind #Gemini4 #IntelligenceArtificielle #TechNews",
+  "next_time": 1794744000,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c399ec29_slide_6741_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c399ec29_slide_6741_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c399ec29_slide_6741_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c399ec29_slide_6741_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c399ec29_slide_6741_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c399ec29_slide_6741_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c399ec29_slide_6741_06.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c399ec29_story_slide_6741_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c399ec29_story_slide_6741_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c399ec29_story_slide_6741_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c399ec29_story_slide_6741_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c399ec29_story_slide_6741_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c399ec29_story_slide_6741_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_c399ec29_story_slide_6741_06.jpg"
+  ],
+  "threads_caption": "Gemini 4 Carbon est enfin disponible pour tout le monde et s'impose déjà comme le champion des classements IA 🏆\n\nLe modèle le plus puissant de Google sort de son cercle restreint pour devenir accessible au grand public via l'API et les applications Gemini. Il occupe désormais la première place de l'indice Artificial Analysis Intelligence Index v5, surpassant Claude Opus 5.5 et GPT-6 Astra.\n\nSources : ActuIA · VentureBeat\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  },
+  "story_only": true
+}
