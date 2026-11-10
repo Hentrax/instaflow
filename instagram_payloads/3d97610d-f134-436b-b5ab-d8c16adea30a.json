@@ -1,0 +1,19 @@
+{
+  "compte": "miniature",
+  "pub_id": "3d97610d-f134-436b-b5ab-d8c16adea30a",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_3d97610d_video_199.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "The village laundry was falling behind, and the tiny pegs just wouldn't hold the heavy linen. So, one of our residents decided to venture out into the Great Workshop to find something... substantial. A little bit of heavy lifting, but the results are worth it. 🧺✨",
+  "next_time": 1796061600,
+  "storage": "release",
+  "threads_caption": "The village laundry was falling behind, and the tiny pegs just wouldn't hold the heavy linen. So, one of our residents decided to venture out into the Great Workshop to find something... substantial. A little bit of heavy lifting, but the results are worth it. 🧺✨",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      0,
+      12
+    ],
+    "timezone": ""
+  }
+}
