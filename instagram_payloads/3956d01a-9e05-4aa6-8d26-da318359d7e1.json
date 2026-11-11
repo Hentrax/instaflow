@@ -1,0 +1,46 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "3956d01a-9e05-4aa6-8d26-da318359d7e1",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3956d01a_slide_6744_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3956d01a_slide_6744_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3956d01a_slide_6744_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3956d01a_slide_6744_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3956d01a_slide_6744_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3956d01a_slide_6744_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3956d01a_slide_6744_06.jpg"
+  ],
+  "caption": "41% des jobs de freelance réussis par une IA ? 🚀\n\nAnthropic frappe un coup avec Fable 5.2. Le modèle dépasse ses concurrents en complétant plus de 41% de projets professionnels réels (contre seulement 2,5% il y a un an). Il excelle désormais dans l'édition audio, l'architecture 3D et même la résolution de problèmes scientifiques complexes vieux de 18 ans. 💻🧪\n\nSources : The Decoder · TechCrunch\n\n#Anthropic #IA #IntelligenceArtificielle #Fable52 #MachineLearning #TechNews",
+  "next_time": 1794762000,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3956d01a_slide_6744_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3956d01a_slide_6744_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3956d01a_slide_6744_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3956d01a_slide_6744_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3956d01a_slide_6744_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3956d01a_slide_6744_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3956d01a_slide_6744_06.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3956d01a_fb_reel_6744.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3956d01a_story_slide_6744_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3956d01a_story_slide_6744_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3956d01a_story_slide_6744_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3956d01a_story_slide_6744_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3956d01a_story_slide_6744_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3956d01a_story_slide_6744_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_3956d01a_story_slide_6744_06.jpg"
+  ],
+  "threads_caption": "41% des jobs de freelance réussis par une IA ? 🚀\n\nAnthropic frappe un coup avec Fable 5.2. Le modèle dépasse ses concurrents en complétant plus de 41% de projets professionnels réels (contre seulement 2,5% il y a un an). Il excelle désormais dans l'édition audio, l'architecture 3D et même la résolution de problèmes scientifiques complexes vieux de 18 ans. 💻🧪\n\nSources : The Decoder · TechCrunch\n\n#Anthropic",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
