@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "ec00d9f0-a5b7-44d5-845c-4cd3ecf12e6e",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_ec00d9f0_video_1342.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "I spent twenty minutes securing the 'heavy duty' storage bag, and my Bengal just staged a full-scale heist in three seconds flat. 🤡🐈‍⬛ #catcrime #caughtoncamera #bender #Bengalcat #nightowl #chaos",
+  "next_time": 1796144400,
+  "storage": "release",
+  "threads_caption": "I spent twenty minutes securing the 'heavy duty' storage bag, and my Bengal just staged a full-scale heist in three seconds flat.\n\n🤡🐈‍⬛ #catcrime",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}
