@@ -1,0 +1,29 @@
+{
+  "compte": "cyberpunk_story",
+  "pub_id": "cbcaabda-f4c5-4010-a355-be3c2c3a9bd9",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_cbcaabda_slide_164_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_cbcaabda_slide_164_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_cbcaabda_slide_164_02.jpg"
+  ],
+  "caption": "Finding center.\n\nYesterday's movement class was a much-needed reset. The focus felt almost meditative.\n\n#neotokyo #movement #contemporarydance",
+  "next_time": 1795019400,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_cbcaabda_slide_164_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_cbcaabda_slide_164_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_cbcaabda_slide_164_02.jpg"
+  ],
+  "story_slides": true,
+  "threads_caption": "Finding center.\n\nYesterday's movement class was a much-needed reset. The focus felt almost meditative.\n\n#neotokyo",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      9
+    ],
+    "timezone": ""
+  },
+  "story_only": true
+}
