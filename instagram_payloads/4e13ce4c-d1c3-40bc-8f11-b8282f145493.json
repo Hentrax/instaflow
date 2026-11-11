@@ -1,0 +1,46 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "4e13ce4c-d1c3-40bc-8f11-b8282f145493",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4e13ce4c_slide_6767_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4e13ce4c_slide_6767_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4e13ce4c_slide_6767_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4e13ce4c_slide_6767_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4e13ce4c_slide_6767_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4e13ce4c_slide_6767_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4e13ce4c_slide_6767_06.jpg"
+  ],
+  "caption": "95% des applications créées avec Grok sont accessibles à n'importe qui sur Internet ⚠️\n\nUne enquête de sécurité a révélé que le mode \"Build\" de Grok expose massivement des données sensibles (mots de passe, dossiers médicaux, plans internes de SpaceX) car l'option de partage public est activée par défaut. 🛡️💻\n\nSources : The Decoder\n#IA #Grok #Cybersécurité #DataPrivacy #xAI",
+  "next_time": 1794848400,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4e13ce4c_slide_6767_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4e13ce4c_slide_6767_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4e13ce4c_slide_6767_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4e13ce4c_slide_6767_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4e13ce4c_slide_6767_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4e13ce4c_slide_6767_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4e13ce4c_slide_6767_06.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4e13ce4c_fb_reel_6767.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4e13ce4c_story_slide_6767_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4e13ce4c_story_slide_6767_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4e13ce4c_story_slide_6767_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4e13ce4c_story_slide_6767_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4e13ce4c_story_slide_6767_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4e13ce4c_story_slide_6767_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_4e13ce4c_story_slide_6767_06.jpg"
+  ],
+  "threads_caption": "95% des applications créées avec Grok sont accessibles à n'importe qui sur Internet ⚠️\n\nUne enquête de sécurité a révélé que le mode \"Build\" de Grok expose massivement des données sensibles (mots de passe, dossiers médicaux, plans internes de SpaceX) car l'option de partage public est activée par défaut. 🛡️💻\n\nSources : The Decoder\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
