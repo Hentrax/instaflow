@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "bee00688-d281-4428-8291-773cfe039caa",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_bee00688_video_1341.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "One moment of teamwork, one moment of fluff-pocalypse. ☁️🐈 They didn't plan on a cotton blizzard, but here we are. #catsoftiktok #tugofwar #fluffypocalypse #bengalcat #ragdoll #chaos",
+  "next_time": 1796115600,
+  "storage": "release",
+  "threads_caption": "One moment of teamwork, one moment of fluff-pocalypse. ☁️🐈 They didn't plan on a cotton blizzard, but here we are.\n\n#catsoftiktok",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}
