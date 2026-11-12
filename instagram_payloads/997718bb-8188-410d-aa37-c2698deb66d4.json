@@ -1,0 +1,46 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "997718bb-8188-410d-aa37-c2698deb66d4",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_997718bb_slide_6797_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_997718bb_slide_6797_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_997718bb_slide_6797_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_997718bb_slide_6797_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_997718bb_slide_6797_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_997718bb_slide_6797_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_997718bb_slide_6797_06.jpg"
+  ],
+  "caption": "Les agents de code vont-ils coûter plus cher que les développeurs eux-mêmes ? 💸\n\nL'usage intensif d'agents comme Claude Code fait exploser les budgets (Uber a déjà épuisé son budget IA 2026 dès avril !). Pour maîtriser ces coûts, la solution n'est pas de limiter l'usage, mais d'adopter une stratégie hybride : utiliser des modèles de pointe pour la réflexion complexe et des modèles open-weight pour les tâches répétitives. L'objectif ? Passer d'une facturation au token à une mesure du \"coût par pull request fusionné\". 🚀📊\n\nSeriez-vous prêt à adopter une stratégie hybride pour réduire vos coûts d'IA ?\n\nSources : Technology Review · HPE · The Decoder\n\n#IA #CodingAgents #LLM #Productivité #DéveloppementLogiciel",
+  "next_time": 1794898800,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_997718bb_slide_6797_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_997718bb_slide_6797_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_997718bb_slide_6797_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_997718bb_slide_6797_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_997718bb_slide_6797_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_997718bb_slide_6797_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_997718bb_slide_6797_06.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_997718bb_fb_reel_6797.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_997718bb_story_slide_6797_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_997718bb_story_slide_6797_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_997718bb_story_slide_6797_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_997718bb_story_slide_6797_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_997718bb_story_slide_6797_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_997718bb_story_slide_6797_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_997718bb_story_slide_6797_06.jpg"
+  ],
+  "threads_caption": "Les agents de code vont-ils coûter plus cher que les développeurs eux-mêmes ? 💸\n\nL'usage intensif d'agents comme Claude Code fait exploser les budgets (Uber a déjà épuisé son budget IA 2026 dès avril !). Pour maîtriser ces coûts, la solution n'est pas de limiter l'usage, mais d'adopter une stratégie hybride : utiliser des modèles de pointe pour la réflexion complexe et des modèles open-weight pour les tâches répétitives. L'objectif ?\n\nSources : Technology Review · HPE · The Decoder\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
