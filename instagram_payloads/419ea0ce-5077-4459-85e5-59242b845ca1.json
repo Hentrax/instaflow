@@ -1,0 +1,46 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "419ea0ce-5077-4459-85e5-59242b845ca1",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_419ea0ce_slide_6822_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_419ea0ce_slide_6822_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_419ea0ce_slide_6822_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_419ea0ce_slide_6822_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_419ea0ce_slide_6822_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_419ea0ce_slide_6822_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_419ea0ce_slide_6822_06.jpg"
+  ],
+  "caption": "Google lance Gemini 4 Hydrogen : plus rapide, moins cher et plus intelligent que son grand frère Argon ⚡\n\nGoogle déploie Gemini 4 Hydrogen, un modèle généraliste conçu pour l'efficacité quotidienne. Il surpasse Argon sur plusieurs benchmarks tout en étant plus rapide (2,5x) que Gemini 3.8 Flash. Il intègre des niveaux de réflexion ajustables (de \"low\" à \"xhigh\") et arrive directement dans Google Search pour des réponses plus précises et visuelles. 🚀📊✅\n\nLes développeurs et les utilisateurs quotidiens peuvent désormais bénéficier de cette puissance équilibrée sur toutes les plateformes Google.\n\nSources : The Decoder · Google · TechCrunch\n\n#IA #GoogleGemini #IntelligenceArtificielle #LLM #TechNews",
+  "next_time": 1794916800,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_419ea0ce_slide_6822_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_419ea0ce_slide_6822_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_419ea0ce_slide_6822_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_419ea0ce_slide_6822_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_419ea0ce_slide_6822_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_419ea0ce_slide_6822_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_419ea0ce_slide_6822_06.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_419ea0ce_fb_reel_6822.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_419ea0ce_story_slide_6822_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_419ea0ce_story_slide_6822_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_419ea0ce_story_slide_6822_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_419ea0ce_story_slide_6822_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_419ea0ce_story_slide_6822_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_419ea0ce_story_slide_6822_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_419ea0ce_story_slide_6822_06.jpg"
+  ],
+  "threads_caption": "Google lance Gemini 4 Hydrogen : plus rapide, moins cher et plus intelligent que son grand frère Argon ⚡\n\nGoogle déploie Gemini 4 Hydrogen, un modèle généraliste conçu pour l'efficacité quotidienne. Il surpasse Argon sur plusieurs benchmarks tout en étant plus rapide (2,5x) que Gemini 3.8 Flash.\n\nSources : The Decoder · Google · TechCrunch\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
