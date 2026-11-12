@@ -1,10 +1,6 @@
 # 📊 Dashboard de Publication
 
-✅ **Dernier run sans erreur** — 12/11/2026 17:13:05
-
-## ⚠️ Avertissements (best effort, non bloquants)
-
-- `ia_actus: Story Instagram 94ab3f13-6c39-456f-a6ad-4116f1b3a208 -> médias lisibles, échec côté Meta, reprise au prochain run : échec signalé`
+✅ **Dernier run sans erreur** — 12/11/2026 18:27:21
 
 📦 **Total publiés historiquement :** 747
 
