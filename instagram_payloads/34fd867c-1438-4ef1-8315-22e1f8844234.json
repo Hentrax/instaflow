@@ -1,0 +1,35 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "34fd867c-1438-4ef1-8315-22e1f8844234",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_34fd867c_slide_1362_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_34fd867c_slide_1362_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_34fd867c_slide_1362_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_34fd867c_slide_1362_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_34fd867c_slide_1362_04.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_34fd867c_slide_1362_05.jpg"
+  ],
+  "caption": "confession 🐾 none of these cats exist. every scene here is written and generated on one computer at home, then checked by a person before it goes out. no hashtag tuning: every post is measured, and the numbers tell which prompt works.\n\nwant to run your own? the whole method is in the guide: https://hentrax.github.io/local_ai/\n\n#aicat #aiart #behindthescenes",
+  "next_time": 1794574870,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_34fd867c_slide_1362_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_34fd867c_slide_1362_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_34fd867c_slide_1362_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_34fd867c_slide_1362_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_34fd867c_slide_1362_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_34fd867c_slide_1362_05.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_34fd867c_fb_reel_1362.mp4",
+  "story_slides": true,
+  "threads_caption": "confession 🐾 none of these cats exist. every scene here is written and generated on one computer at home, then checked by a person before it goes out. no hashtag tuning: every post is measured, and the numbers tell which prompt works.\n\nwant to run your own? the whole method is in the guide: https://hentrax.github.io/local_ai/\n\n#aicat",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}
