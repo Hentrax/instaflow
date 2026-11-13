@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "ab83197a-b100-492e-8bb1-11ff9d5ff84d",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_ab83197a_video_1235.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "This Bengal cat thought he was a master pastry chef, but the cream had other plans! 🙀 A fluffy disaster in the making. #BengalCat #KitchenChaos #CatChef #WhiskingWoes #FluffyFail #PastryPanic",
+  "next_time": 1796317200,
+  "storage": "release",
+  "threads_caption": "This Bengal cat thought he was a master pastry chef, but the cream had other plans! 🙀 A fluffy disaster in the making.\n\n#BengalCat",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}
