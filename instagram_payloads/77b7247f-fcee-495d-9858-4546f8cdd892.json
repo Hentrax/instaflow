@@ -1,0 +1,31 @@
+{
+  "compte": "cyberpunk_story",
+  "pub_id": "77b7247f-fcee-495d-9858-4546f8cdd892",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_77b7247f_slide_171_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_77b7247f_slide_171_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_77b7247f_slide_171_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_77b7247f_slide_171_03.jpg"
+  ],
+  "caption": "Out for my first real walk in the kinetic dress.\n\nTested it in the mirror, but the bridge lights are a different story. The mesh actually moves with the wind—it feels like a second skin.\n\nFinally out of the apartment and into the streets. ✨\n\n#neotokyo #kineticmesh",
+  "next_time": 1795212900,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_77b7247f_slide_171_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_77b7247f_slide_171_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_77b7247f_slide_171_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_77b7247f_slide_171_03.jpg"
+  ],
+  "story_slides": true,
+  "threads_caption": "Out for my first real walk in the kinetic dress.\n\nTested it in the mirror, but the bridge lights are a different story. The mesh actually moves with the wind—it feels like a second skin.\n\nFinally out of the apartment and into the streets.\n\n✨ #neotokyo",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      9
+    ],
+    "timezone": ""
+  },
+  "story_only": true
+}
