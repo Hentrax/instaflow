@@ -1,0 +1,20 @@
+{
+  "compte": "cyberpunk_story",
+  "pub_id": "92878043-5fad-44a8-a32a-9012c5add793",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_92878043_video_173.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "The smart-tailor actually pulled off the liquid metal.\n\nIt feels like a second skin. ✨\n\n#neotokyo #smarttech",
+  "next_time": 1795203000,
+  "storage": "release",
+  "threads_caption": "The smart-tailor actually pulled off the liquid metal.\n\nIt feels like a second skin.\n\n✨ #neotokyo",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      9
+    ],
+    "timezone": ""
+  },
+  "story_only": true
+}
