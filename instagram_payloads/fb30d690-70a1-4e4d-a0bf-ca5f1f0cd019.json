@@ -1,0 +1,37 @@
+{
+  "compte": "cyberpunk_story",
+  "pub_id": "fb30d690-70a1-4e4d-a0bf-ca5f1f0cd019",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_fb30d690_slide_167_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_fb30d690_slide_167_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_fb30d690_slide_167_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_fb30d690_slide_167_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_fb30d690_slide_167_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_fb30d690_slide_167_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_fb30d690_slide_167_06.jpg"
+  ],
+  "caption": "Exploring the vertical gardens this morning.\n\nI wanted to capture the hazy morning light before the district gets crowded. It’s becoming my favorite way to clear my head. The lavender shift on my top is a nice touch for the morning chill. 🌿",
+  "next_time": 1795166100,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_fb30d690_slide_167_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_fb30d690_slide_167_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_fb30d690_slide_167_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_fb30d690_slide_167_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_fb30d690_slide_167_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_fb30d690_slide_167_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_fb30d690_slide_167_06.jpg"
+  ],
+  "story_slides": true,
+  "threads_caption": "Exploring the vertical gardens this morning.\n\nI wanted to capture the hazy morning light before the district gets crowded. It’s becoming my favorite way to clear my head. The lavender shift on my top is a nice touch for the morning chill. 🌿",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      9
+    ],
+    "timezone": ""
+  },
+  "story_only": true
+}
