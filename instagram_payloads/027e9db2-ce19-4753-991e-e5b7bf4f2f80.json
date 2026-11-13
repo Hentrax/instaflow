@@ -1,0 +1,43 @@
+{
+  "compte": "cyberpunk_story",
+  "pub_id": "027e9db2-ce19-4753-991e-e5b7bf4f2f80",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_027e9db2_slide_170_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_027e9db2_slide_170_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_027e9db2_slide_170_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_027e9db2_slide_170_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_027e9db2_slide_170_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_027e9db2_slide_170_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_027e9db2_slide_170_06.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_027e9db2_slide_170_07.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_027e9db2_slide_170_08.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_027e9db2_slide_170_09.jpg"
+  ],
+  "caption": "Getting the copper piece adjusted today.\n\nAfter my visit to the fabric bazaar, I knew I needed this custom drape. The tailor is using a laser-cutter to finalize the liquid-metal texture. It changes everything for the next shoot.\n\n✨\n#NeoTokyo #SmartTailor",
+  "next_time": 1795196700,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_027e9db2_slide_170_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_027e9db2_slide_170_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_027e9db2_slide_170_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_027e9db2_slide_170_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_027e9db2_slide_170_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_027e9db2_slide_170_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_027e9db2_slide_170_06.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_027e9db2_slide_170_07.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_027e9db2_slide_170_08.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_027e9db2_slide_170_09.jpg"
+  ],
+  "story_slides": true,
+  "threads_caption": "Getting the copper piece adjusted today.\n\nAfter my visit to the fabric bazaar, I knew I needed this custom drape. The tailor is using a laser-cutter to finalize the liquid-metal texture. It changes everything for the next shoot.\n\n✨ #NeoTokyo",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      9
+    ],
+    "timezone": ""
+  },
+  "story_only": true
+}
