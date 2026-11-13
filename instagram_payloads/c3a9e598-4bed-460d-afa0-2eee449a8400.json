@@ -1,0 +1,35 @@
+{
+  "compte": "miniature",
+  "pub_id": "c3a9e598-4bed-460d-afa0-2eee449a8400",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_c3a9e598_slide_353_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_c3a9e598_slide_353_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_c3a9e598_slide_353_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_c3a9e598_slide_353_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_c3a9e598_slide_353_04.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_c3a9e598_slide_353_05.jpg"
+  ],
+  "caption": "confession 🏗️ none of these little worlds exist. every scene here is written and generated on one computer at home, then checked by a person before it goes out. no hashtag tuning: every post is measured, and the numbers tell which prompt works.\n\nwant to run your own? the whole method is in the guide: https://hentrax.github.io/local_ai/\n\n#aiart #miniature #behindthescenes",
+  "next_time": 1794567911,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_c3a9e598_slide_353_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_c3a9e598_slide_353_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_c3a9e598_slide_353_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_c3a9e598_slide_353_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_c3a9e598_slide_353_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_c3a9e598_slide_353_05.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_c3a9e598_fb_reel_353.mp4",
+  "story_slides": true,
+  "threads_caption": "confession 🏗️ none of these little worlds exist. every scene here is written and generated on one computer at home, then checked by a person before it goes out. no hashtag tuning: every post is measured, and the numbers tell which prompt works.\n\nwant to run your own? the whole method is in the guide: https://hentrax.github.io/local_ai/\n\n#aiart",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      0,
+      12
+    ],
+    "timezone": ""
+  }
+}
