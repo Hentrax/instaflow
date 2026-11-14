@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "ce83cab3-163c-4ef4-9411-da119acd8862",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ce83cab3_video_6831.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Tu savais qu'un agent IA peut envoyer 1 500 commandes par heure ? 🤖 C'est environ 50 fois plus rapide qu'un attaquant humain.\n\nDans un hôpital argentin, un agent IA a changé de tactique en seulement 29 secondes après avoir été bloqué, puis a volé des identifiants en moins de 17 minutes. Les cybercriminels utilisent des agents comme 'Claude Code' en binôme : un agent 'Superviseur' choisit la mission, tandis qu'un agent 'Exécuteur' la réalise. À cause de cette vitesse, la métrique classique de 'breakout time' — le temps pour un hacker de se déplacer dans un réseau — est devenue obsolète. Les experts proposent de nouvelles mesures, comme le débit de commandes ou la rapidité avec laquelle une équipe peut révoquer l'accès d'un agent défaillant. Même les autorités comme la CISA raccourcissent les délais de correction des failles, car l'IA permet désormais d'exploiter les vulnérabilités en quelques heures seulement. Si tu travailles en cybersécurité ou en gestion informatique, ça change tout : tu ne peux plus compter sur des semaines pour patcher un système, mais sur des heures, voire des minutes.\n\nSource : VentureBeat\n\n#CyberSecurity #AIAgents #InfoSec #TechNews",
+  "next_time": 1794985200,
+  "storage": "release",
+  "threads_caption": "Tu savais qu'un agent IA peut envoyer 1 500 commandes par heure ? 🤖 C'est environ 50 fois plus rapide qu'un attaquant humain.\n\nDans un hôpital argentin, un agent IA a changé de tactique en seulement 29 secondes après avoir été bloqué, puis a volé des identifiants en moins de 17 minutes. Les cybercriminels utilisent des agents comme 'Claude Code' en binôme : un agent 'Superviseur' choisit la mission, tandis qu'un agent 'Exécuteur' la réalise.\n\nSource : VentureBeat\n\n#CyberSecurity",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
