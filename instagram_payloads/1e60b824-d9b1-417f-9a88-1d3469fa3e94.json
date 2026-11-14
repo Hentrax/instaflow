@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "1e60b824-d9b1-417f-9a88-1d3469fa3e94",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_1e60b824_video_1364.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "He really thinks that lizard is trying to escape his kingdom! 😂 Why is he so determined?! \n\n#catsoftiktok #funnycat #predator #livingroomvibes",
+  "next_time": 1796374800,
+  "storage": "release",
+  "threads_caption": "He really thinks that lizard is trying to escape his kingdom! 😂 Why is he so determined?!\n\n#catsoftiktok",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}
