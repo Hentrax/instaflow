@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "fcc86bd9-6e7f-4ced-b392-a1bfbdc6ec4f",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_fcc86bd9_video_1143.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "I commanded the Dragon-Flame Hearth to provide a mere spark, but it gifted me a violet inferno instead! 💜🔥\n\nMy subjects will know that royal power requires a steady hand, not a sudden burst of magical heat. I am currently deciding whether to exile the brazier or simply demand a new floor. #CatPrincess #DragonMagic #RoyalDrama",
+  "next_time": 1796461200,
+  "storage": "release",
+  "threads_caption": "I commanded the Dragon-Flame Hearth to provide a mere spark, but it gifted me a violet inferno instead! 💜🔥\n\nMy subjects will know that royal power requires a steady hand, not a sudden burst of magical heat. I am currently deciding whether to exile the brazier or simply demand a new floor.\n\n#CatPrincess",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}
