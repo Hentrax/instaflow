@@ -1,6 +1,6 @@
 # 📊 Dashboard de Publication
 
-✅ **Dernier run sans erreur** — 14/11/2026 23:22:20
+✅ **Dernier run sans erreur** — 15/11/2026 03:03:25
 
 📦 **Total publiés historiquement :** 767
 
