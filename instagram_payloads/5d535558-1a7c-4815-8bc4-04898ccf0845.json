@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "5d535558-1a7c-4815-8bc4-04898ccf0845",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_5d535558_video_1190.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Just my morning stroll on the crane! Everyone's acting like the drop is a big deal, but it's actually quite breezy. 🐾✨ #viewfromthetop #dailywalk",
+  "next_time": 1796490000,
+  "storage": "release",
+  "threads_caption": "Just my morning stroll on the crane! Everyone's acting like the drop is a big deal, but it's actually quite breezy.\n\n🐾✨ #viewfromthetop",
+  "schedule": {
+    "delay_hours": 8.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}
