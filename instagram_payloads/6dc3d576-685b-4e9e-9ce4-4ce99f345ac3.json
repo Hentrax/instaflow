@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "6dc3d576-685b-4e9e-9ce4-4ce99f345ac3",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_6dc3d576_video_6877.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "GPT-6 Astra a atteint un taux de réussite de 74,8 % sur des tâches de robotique simulées. 🤖\n\nOpenAI a décidé de dissoudre son équipe de robotique dédiée pour intégrer ses chercheurs dans ses équipes de recherche générale. L'idée est que les modèles généralistes sont désormais assez puissants pour contrôler des robots directement, rendant les modèles spécialisés moins nécessaires. Des tests montrent qu'Astra surpasse les modèles spécialisés et affiche une compréhension spatiale proche de celle de l'humain. Concrètement, Astra a déjà été utilisé pour naviguer et nettoyer une cuisine sur un robot humanoïde. Lors d'un test sur des objets de bureau, Astra a réussi à accomplir des tâches là où d'autres modèles n'ont rien pu faire. Pour les ingénieurs en robotique, cela signifie que le futur ne passera plus par des modèles de niche, mais par des IA généralistes capables de comprendre le monde physique.\n\nSource : The Decoder\n\n#OpenAI #GPT6Astra #Robotics #AI #ArtificialIntelligence",
+  "next_time": 1795021200,
+  "storage": "release",
+  "threads_caption": "GPT-6 Astra a atteint un taux de réussite de 74,8 % sur des tâches de robotique simulées. 🤖\n\nOpenAI a décidé de dissoudre son équipe de robotique dédiée pour intégrer ses chercheurs dans ses équipes de recherche générale. L'idée est que les modèles généralistes sont désormais assez puissants pour contrôler des robots directement, rendant les modèles spécialisés moins nécessaires.\n\nSource : The Decoder\n\n#OpenAI",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
