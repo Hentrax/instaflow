@@ -1,0 +1,43 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "1b017b2d-c362-4927-bb62-ce5dbe17bc00",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1b017b2d_slide_6879_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1b017b2d_slide_6879_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1b017b2d_slide_6879_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1b017b2d_slide_6879_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1b017b2d_slide_6879_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1b017b2d_slide_6879_05.jpg"
+  ],
+  "caption": "Gemini 4 Carbon devient le nouveau roi des mathématiques 🏆\n\nLe modèle de Google vient de pulvériser le benchmark MathArena, dépassant même les modèles d'OpenAI. Mais attention : cette puissance de calcul se paie cher (15x plus que GPT-6.1 Sol) et le modèle a tendance à être \"obstiné\", continuant une tâche pendant des heures sans s'arrêter. 📊💸⏳\n\nCarbon devient l'outil de référence.\n\nSources : The Decoder\n\n#IA #GoogleDeepmind #Gemini4 #Mathématiques #TechNews",
+  "next_time": 1795003200,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1b017b2d_slide_6879_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1b017b2d_slide_6879_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1b017b2d_slide_6879_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1b017b2d_slide_6879_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1b017b2d_slide_6879_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1b017b2d_slide_6879_05.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1b017b2d_fb_reel_6879.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1b017b2d_story_slide_6879_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1b017b2d_story_slide_6879_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1b017b2d_story_slide_6879_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1b017b2d_story_slide_6879_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1b017b2d_story_slide_6879_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1b017b2d_story_slide_6879_05.jpg"
+  ],
+  "threads_caption": "Gemini 4 Carbon devient le nouveau roi des mathématiques 🏆\n\nLe modèle de Google vient de pulvériser le benchmark MathArena, dépassant même les modèles d'OpenAI. Mais attention : cette puissance de calcul se paie cher (15x plus que GPT-6.1 Sol) et le modèle a tendance à être \"obstiné\", continuant une tâche pendant des heures sans s'arrêter. 📊💸⏳\n\nCarbon devient l'outil de référence.\n\nSources : The Decoder\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
