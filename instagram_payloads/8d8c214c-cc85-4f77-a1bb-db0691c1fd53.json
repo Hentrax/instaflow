@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "8d8c214c-cc85-4f77-a1bb-db0691c1fd53",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8d8c214c_video_6920.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Anthropic a découvert que pour qu'une IA se souvienne de tout, il faut surtout savoir ce qu'elle doit oublier 🧠.\n\nActuellement, quand on demande à un agent IA de gérer un projet sur plusieurs jours, il a tendance à tout enregistrer, ce qui finit par le perdre dans une montagne de notes inutiles. Dans un test sur Pokémon, un modèle a créé plus de 400 fichiers pour des détails insignifiants, au point d'arrêter de jouer pour ne faire que réorganiser ses dossiers. Anthropic a montré qu'un modèle qui limite ses notes aux stratégies et aux règles importantes réussit bien mieux que celui qui archive tout sans réfléchir. Pour corriger les erreurs, ils ont introduit le 'Dreaming' : pendant une pause, l'IA revoit ses notes passées par rapport aux transcriptions réelles pour corriger ses propres fausses mémoires. Cette technique permet déjà de structurer des bases de connaissances massives, comme un wiki de 350 000 documents, et est disponible en aperçu de recherche pour les modèles Claude Opus 4.7 et Sonnet 4.6. C'est une avancée majeure pour les développeurs d'agents autonomes et les entreprises qui veulent que l'IA gère des projets complexes sur le long terme sans s'emmêler les pinceaux.\n\nSource : The Decoder\n\n#IA #Anthropic #LLM #AgenticAI",
+  "next_time": 1795176000,
+  "storage": "release",
+  "threads_caption": "Anthropic a découvert que pour qu'une IA se souvienne de tout, il faut surtout savoir ce qu'elle doit oublier 🧠.\n\nActuellement, quand on demande à un agent IA de gérer un projet sur plusieurs jours, il a tendance à tout enregistrer, ce qui finit par le perdre dans une montagne de notes inutiles. Dans un test sur Pokémon, un modèle a créé plus de 400 fichiers pour des détails insignifiants, au point d'arrêter de jouer pour ne faire que réorganiser ses dossiers.\n\nSource : The Decoder\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
