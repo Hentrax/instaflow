@@ -5,14 +5,14 @@
   "media_type": "VIDEO",
   "image_url": null,
   "caption": "They finally grew tired of the pixels. Today, the people of the Mountain Village decided the digital horizon wasn't enough. They made a break for it, trading their flat world for the vast, white expanse of my desk. Now, they’re tackling the great Navy Blue Mug—a monumental task for such small heroes. I hope they don't mind the leftover coffee stains; they’re treating it like a masterpiece.",
-  "next_time": 1796554800,
+  "next_time": 1795680000,
   "storage": "release",
   "threads_caption": "They finally grew tired of the pixels. Today, the people of the Mountain Village decided the digital horizon wasn't enough. They made a break for it, trading their flat world for the vast, white expanse of my desk. Now, they’re tackling the great Navy Blue Mug—a monumental task for such small heroes. I hope they don't mind the leftover coffee stains; they’re treating it like a masterpiece.",
   "schedule": {
-    "delay_hours": 25.0,
+    "delay_hours": 7.0,
     "quiet_hours": [
-      0,
-      12
+      17,
+      9
     ],
     "timezone": ""
   }

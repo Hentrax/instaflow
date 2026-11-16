@@ -5,14 +5,14 @@
   "media_type": "VIDEO",
   "image_url": null,
   "caption": "The Highland Explorer prepares to navigate the rugged terrain of the Highlands today. It's a long journey through the mist, but the travelers are ready with their bundles and spirits. I often catch myself wondering if they feel the chill of the air or the vibration of the tracks as they wait so patiently for their turn to depart.",
-  "next_time": 1795611600,
+  "next_time": 1795248000,
   "storage": "release",
   "threads_caption": "The Highland Explorer prepares to navigate the rugged terrain of the Highlands today. It's a long journey through the mist, but the travelers are ready with their bundles and spirits. I often catch myself wondering if they feel the chill of the air or the vibration of the tracks as they wait so patiently for their turn to depart.",
   "schedule": {
-    "delay_hours": 25.0,
+    "delay_hours": 7.0,
     "quiet_hours": [
-      0,
-      12
+      17,
+      9
     ],
     "timezone": ""
   }

@@ -9,7 +9,7 @@
     "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_ce36a699_slide_264_03.jpg"
   ],
   "caption": "The morning air in this Kyoto corner feels heavy with the scent of steam and woodsmoke. A perfect place to disappear for a while, even if it is only a few inches tall. Which spot would you visit first? 1, 2, or 3? #miniatureworld #needlefelted #handmade #tinyart #japanesemodel",
-  "next_time": 1795208400,
+  "next_time": 1795075200,
   "storage": "release",
   "fb_children": [
     "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_ce36a699_slide_264_00.jpg",
@@ -20,10 +20,10 @@
   "story_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_ce36a699_story_264.mp4",
   "threads_caption": "The morning air in this Kyoto corner feels heavy with the scent of steam and woodsmoke. A perfect place to disappear for a while, even if it is only a few inches tall. Which spot would you visit first? 1, 2, or 3?\n\n#miniatureworld",
   "schedule": {
-    "delay_hours": 25.0,
+    "delay_hours": 7.0,
     "quiet_hours": [
-      0,
-      12
+      17,
+      9
     ],
     "timezone": ""
   }

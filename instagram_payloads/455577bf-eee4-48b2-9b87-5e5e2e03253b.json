@@ -5,14 +5,14 @@
   "media_type": "VIDEO",
   "image_url": null,
   "caption": "Deep within the mountain's crust, the rhythm of the hammer defines existence. Every grain of the wood has been shaped to capture the heat of the forge and the grit of subterranean life.",
-  "next_time": 1795298400,
+  "next_time": 1795100400,
   "storage": "release",
   "threads_caption": "Deep within the mountain's crust, the rhythm of the hammer defines existence. Every grain of the wood has been shaped to capture the heat of the forge and the grit of subterranean life.",
   "schedule": {
-    "delay_hours": 25.0,
+    "delay_hours": 7.0,
     "quiet_hours": [
-      0,
-      12
+      17,
+      9
     ],
     "timezone": ""
   }

@@ -5,14 +5,14 @@
   "media_type": "VIDEO",
   "image_url": null,
   "caption": "Constructing the neon arteries of a futuristic metropolis. Every corner of this miniature city holds a hidden rhythm, though some residents are surprisingly protective of their data.",
-  "next_time": 1794848400,
+  "next_time": 1794902400,
   "storage": "release",
   "threads_caption": "Constructing the neon arteries of a futuristic metropolis. Every corner of this miniature city holds a hidden rhythm, though some residents are surprisingly protective of their data.",
   "schedule": {
-    "delay_hours": 25.0,
+    "delay_hours": 7.0,
     "quiet_hours": [
-      0,
-      12
+      17,
+      9
     ],
     "timezone": ""
   }

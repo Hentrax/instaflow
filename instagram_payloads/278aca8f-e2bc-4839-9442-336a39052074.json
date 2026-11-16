@@ -5,14 +5,14 @@
   "media_type": "VIDEO",
   "image_url": null,
   "caption": "This is a miniature of the backrooms. The model captures an infinite, subterranean car park—a repetitive maze of concrete pillars and grey floor tiles. Each room is identical, stretching into a deep perspective that suggests a space without an end. Deep within the heart of this construction, a tiny figure remains, still searching for a way out of the concrete labyrinth.",
-  "next_time": 1795521600,
+  "next_time": 1795186800,
   "storage": "release",
   "threads_caption": "This is a miniature of the backrooms. The model captures an infinite, subterranean car park—a repetitive maze of concrete pillars and grey floor tiles. Each room is identical, stretching into a deep perspective that suggests a space without an end. Deep within the heart of this construction, a tiny figure remains, still searching for a way out of the concrete labyrinth.",
   "schedule": {
-    "delay_hours": 25.0,
+    "delay_hours": 7.0,
     "quiet_hours": [
-      0,
-      12
+      17,
+      9
     ],
     "timezone": ""
   }

@@ -5,14 +5,14 @@
   "media_type": "VIDEO",
   "image_url": null,
   "caption": "The morning rush at the patisserie was a disaster because the new delivery of flour left no room for the workers to sit. Our brave baker had to make a daring trek across the border to find a seat of industrial proportions. A little wink to her for handling such a heavy piece of furniture!",
-  "next_time": 1796151600,
+  "next_time": 1795507200,
   "storage": "release",
   "threads_caption": "The morning rush at the patisserie was a disaster because the new delivery of flour left no room for the workers to sit. Our brave baker had to make a daring trek across the border to find a seat of industrial proportions. A little wink to her for handling such a heavy piece of furniture!",
   "schedule": {
-    "delay_hours": 25.0,
+    "delay_hours": 7.0,
     "quiet_hours": [
-      0,
-      12
+      17,
+      9
     ],
     "timezone": ""
   }

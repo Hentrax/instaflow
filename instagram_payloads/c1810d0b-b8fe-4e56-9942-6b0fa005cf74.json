@@ -5,14 +5,14 @@
   "media_type": "VIDEO",
   "image_url": null,
   "caption": "The coastal town finally got its gateway to the water. The new ferry dock is officially open, and the locals are already making the most of it. I think they appreciate the 'heavy lifting' the Big Guy did to get it in place. 😉",
-  "next_time": 1795118400,
+  "next_time": 1795014000,
   "storage": "release",
   "threads_caption": "The coastal town finally got its gateway to the water. The new ferry dock is officially open, and the locals are already making the most of it. I think they appreciate the 'heavy lifting' the Big Guy did to get it in place. 😉",
   "schedule": {
-    "delay_hours": 25.0,
+    "delay_hours": 7.0,
     "quiet_hours": [
-      0,
-      12
+      17,
+      9
     ],
     "timezone": ""
   }

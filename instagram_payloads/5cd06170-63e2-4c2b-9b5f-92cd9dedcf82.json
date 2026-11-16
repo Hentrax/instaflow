@@ -5,14 +5,14 @@
   "media_type": "VIDEO",
   "image_url": null,
   "caption": "A quiet corner of the attic holds a piece of Old Town, a place where time seems to stand still amidst the dust of old suitcases. It is a peaceful scene, until a certain metallic visitor decides to take a slow stroll through the main square.",
-  "next_time": 1795701600,
+  "next_time": 1795273200,
   "storage": "release",
   "threads_caption": "A quiet corner of the attic holds a piece of Old Town, a place where time seems to stand still amidst the dust of old suitcases. It is a peaceful scene, until a certain metallic visitor decides to take a slow stroll through the main square.",
   "schedule": {
-    "delay_hours": 25.0,
+    "delay_hours": 7.0,
     "quiet_hours": [
-      0,
-      12
+      17,
+      9
     ],
     "timezone": ""
   }

@@ -5,14 +5,14 @@
   "media_type": "VIDEO",
   "image_url": null,
   "caption": "L'art de la précision réside dans la texture : le grain du bois, la rugosité de la pierre et la patine des murs qui racontent une histoire invisible. On sent presque la chaleur qui émane du four... un petit secret gardé par notre boulanger solitaire. #miniatureworld #diorama #handcrafted #tinyworld",
-  "next_time": 1795881600,
+  "next_time": 1795359600,
   "storage": "release",
   "threads_caption": "L'art de la précision réside dans la texture : le grain du bois, la rugosité de la pierre et la patine des murs qui racontent une histoire invisible. On sent presque la chaleur qui émane du four... un petit secret gardé par notre boulanger solitaire.\n\n#miniatureworld",
   "schedule": {
-    "delay_hours": 25.0,
+    "delay_hours": 7.0,
     "quiet_hours": [
-      0,
-      12
+      17,
+      9
     ],
     "timezone": ""
   }
