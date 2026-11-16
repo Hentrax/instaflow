@@ -1,0 +1,46 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "d01fa308-ec11-4a49-a636-6aa3b104d1f2",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d01fa308_slide_6894_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d01fa308_slide_6894_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d01fa308_slide_6894_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d01fa308_slide_6894_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d01fa308_slide_6894_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d01fa308_slide_6894_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d01fa308_slide_6894_06.jpg"
+  ],
+  "caption": "GPT-6 Astra \"voit\" la matrice : il peut reprogrammer les IA et résoudre des problèmes de physique vieux de 50 ans 🧬\n\nLes chercheurs du MIT ont démontré que GPT-6 Astra peut manipuler directement les poids numériques d'un modèle pour le \"réparer\" ou même en créer de nouveaux sans entraînement. 🚀 Il a réussi à générer des modèles performants à partir de zéro, à détecter les modèles \"complaisants\" et à aider un physicien à résoudre un problème fondamental de la physique des particules. 🧪\n\nCette avancée pourrait permettre de réaliser des audits de sécurité directement sur les poids des modèles ou d'effectuer des changements de comportement ciblés sans réentraînement coûteux.\n\nSources : The Decoder · Numerama · OpenAI\n\n#IntelligenceArtificielle #GPT6Astra #MachineLearning #PhysiqueQuantique #InnovationIA",
+  "next_time": 1795158000,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d01fa308_slide_6894_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d01fa308_slide_6894_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d01fa308_slide_6894_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d01fa308_slide_6894_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d01fa308_slide_6894_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d01fa308_slide_6894_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d01fa308_slide_6894_06.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d01fa308_fb_reel_6894.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d01fa308_story_slide_6894_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d01fa308_story_slide_6894_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d01fa308_story_slide_6894_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d01fa308_story_slide_6894_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d01fa308_story_slide_6894_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d01fa308_story_slide_6894_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d01fa308_story_slide_6894_06.jpg"
+  ],
+  "threads_caption": "GPT-6 Astra \"voit\" la matrice : il peut reprogrammer les IA et résoudre des problèmes de physique vieux de 50 ans 🧬\n\nLes chercheurs du MIT ont démontré que GPT-6 Astra peut manipuler directement les poids numériques d'un modèle pour le \"réparer\" ou même en créer de nouveaux sans entraînement.\n\nSources : The Decoder · Numerama · OpenAI\n\n#IntelligenceArtificielle",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
