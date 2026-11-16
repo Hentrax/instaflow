@@ -1,0 +1,46 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "a6363ea2-bc35-4886-bd46-b503be724783",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a6363ea2_slide_6888_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a6363ea2_slide_6888_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a6363ea2_slide_6888_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a6363ea2_slide_6888_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a6363ea2_slide_6888_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a6363ea2_slide_6888_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a6363ea2_slide_6888_06.jpg"
+  ],
+  "caption": "Meituan publie les poids de son modèle géant de 1,6 billion de paramètres, entraîné exclusivement sur du matériel chinois 🇨🇳\n\nMeituan a libéré LongCat-2.5, un modèle multimodal massif conçu pour les agents IA. Il traite texte, images et vidéos pour des tâches complexes de codage visuel, tout en étant optimisé pour les puces Huawei. Il rivalise avec les performances de Claude Opus 5 tout en restant accessible via une licence MIT. 🚀💻📊\n\nPour les développeurs d'agents IA, c'est un levier puissant pour automatiser le débogage visuel et le prototypage à moindre coût.\n\nSources : VentureBeat · The Decoder\n\n#IntelligenceArtificielle #Meituan #LongCat #OpenSource #LLM #AgentIA",
+  "next_time": 1795089600,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a6363ea2_slide_6888_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a6363ea2_slide_6888_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a6363ea2_slide_6888_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a6363ea2_slide_6888_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a6363ea2_slide_6888_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a6363ea2_slide_6888_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a6363ea2_slide_6888_06.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a6363ea2_fb_reel_6888.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a6363ea2_story_slide_6888_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a6363ea2_story_slide_6888_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a6363ea2_story_slide_6888_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a6363ea2_story_slide_6888_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a6363ea2_story_slide_6888_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a6363ea2_story_slide_6888_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a6363ea2_story_slide_6888_06.jpg"
+  ],
+  "threads_caption": "Meituan publie les poids de son modèle géant de 1,6 billion de paramètres, entraîné exclusivement sur du matériel chinois 🇨🇳\n\nMeituan a libéré LongCat-2.5, un modèle multimodal massif conçu pour les agents IA. Il traite texte, images et vidéos pour des tâches complexes de codage visuel, tout en étant optimisé pour les puces Huawei.\n\nSources : VentureBeat · The Decoder\n\n#IntelligenceArtificielle",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
