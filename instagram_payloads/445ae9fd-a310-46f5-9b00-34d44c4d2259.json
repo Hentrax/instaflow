@@ -5,11 +5,11 @@
   "media_type": "VIDEO",
   "image_url": null,
   "caption": "The shredder went into overdrive, but this cat is a master of disaster management. 📄😹",
-  "next_time": 1795194000,
+  "next_time": 1795251600,
   "storage": "release",
   "threads_caption": "The shredder went into overdrive, but this cat is a master of disaster management. 📄😹",
   "schedule": {
-    "delay_hours": 8.0,
+    "delay_hours": 7.0,
     "quiet_hours": [
       20,
       10

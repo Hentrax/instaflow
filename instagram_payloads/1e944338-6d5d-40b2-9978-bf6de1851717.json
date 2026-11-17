@@ -5,11 +5,11 @@
   "media_type": "VIDEO",
   "image_url": null,
   "caption": "The cat brewed an entire reservoir of espresso and decided the mug was an enemy of the state. ☕️\n\n#caffeinecat #espresso #catproblems #funnycats",
-  "next_time": 1796317200,
+  "next_time": 1796374800,
   "storage": "release",
   "threads_caption": "The cat brewed an entire reservoir of espresso and decided the mug was an enemy of the state.\n\n☕️ #caffeinecat",
   "schedule": {
-    "delay_hours": 8.0,
+    "delay_hours": 7.0,
     "quiet_hours": [
       20,
       10

@@ -5,11 +5,11 @@
   "media_type": "VIDEO",
   "image_url": null,
   "caption": "Just your average morning stroll. The drop is quite nice this time of day. 🐾 #CatLogic #HighLife",
-  "next_time": 1795942800,
+  "next_time": 1795971600,
   "storage": "release",
   "threads_caption": "Just your average morning stroll. The drop is quite nice this time of day.\n\n🐾 #CatLogic",
   "schedule": {
-    "delay_hours": 8.0,
+    "delay_hours": 7.0,
     "quiet_hours": [
       20,
       10
