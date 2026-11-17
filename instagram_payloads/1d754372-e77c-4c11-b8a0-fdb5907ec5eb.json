@@ -1,0 +1,46 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "1d754372-e77c-4c11-b8a0-fdb5907ec5eb",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1d754372_slide_6943_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1d754372_slide_6943_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1d754372_slide_6943_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1d754372_slide_6943_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1d754372_slide_6943_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1d754372_slide_6943_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1d754372_slide_6943_06.jpg"
+  ],
+  "caption": "Alibaba lance Qwen4-Max, un monstre de 2,4 billions de paramètres conçu pour concurrencer GPT-6 🚀\n\nLe nouveau fleuron d'Alibaba combine une architecture hybride innovante pour traiter des contextes massifs (1 million de tokens) à moindre coût. Il excelle dans les tâches complexes d'agents, la recherche scientifique (découverte de molécules, nouveaux matériaux) et le développement de jeux vidéo, tout en étant nettement plus efficace que sa version précédente. 🧪🎮📊\n\nQwen4-Max est disponible via QwenCloud et dans les outils QwenWork, Qoder et QwenStudio.\n\nSource : The Decoder\n\n#IA #Alibaba #Qwen4Max #LLM #IntelligenceArtificielle #TechNews",
+  "next_time": 1795194000,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1d754372_slide_6943_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1d754372_slide_6943_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1d754372_slide_6943_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1d754372_slide_6943_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1d754372_slide_6943_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1d754372_slide_6943_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1d754372_slide_6943_06.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1d754372_fb_reel_6943.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1d754372_story_slide_6943_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1d754372_story_slide_6943_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1d754372_story_slide_6943_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1d754372_story_slide_6943_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1d754372_story_slide_6943_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1d754372_story_slide_6943_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1d754372_story_slide_6943_06.jpg"
+  ],
+  "threads_caption": "Alibaba lance Qwen4-Max, un monstre de 2,4 billions de paramètres conçu pour concurrencer GPT-6 🚀\n\nLe nouveau fleuron d'Alibaba combine une architecture hybride innovante pour traiter des contextes massifs (1 million de tokens) à moindre coût. Il excelle dans les tâches complexes d'agents, la recherche scientifique (découverte de molécules, nouveaux matériaux) et le développement de jeux vidéo, tout en étant nettement plus efficace que sa version précédente.\n\nSource : The Decoder\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
