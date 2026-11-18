@@ -1,0 +1,29 @@
+{
+  "compte": "cyberpunk_story",
+  "pub_id": "dfff2f6c-a846-4ff9-a875-3f4df54ed50d",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_dfff2f6c_slide_179_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_dfff2f6c_slide_179_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_dfff2f6c_slide_179_02.jpg"
+  ],
+  "caption": "Turning the blueprints into wireframes tonight.\n\nSpent hours tracing the industrial structures I scouted today.\nThe 3D models are finally coming to life.\nMoving from the brainstorming stage to actually building something real.\n#neotokyo #industrialdesign",
+  "next_time": 1795383000,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_dfff2f6c_slide_179_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_dfff2f6c_slide_179_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_dfff2f6c_slide_179_02.jpg"
+  ],
+  "story_slides": true,
+  "threads_caption": "Turning the blueprints into wireframes tonight.\n\nSpent hours tracing the industrial structures I scouted today.\nThe 3D models are finally coming to life.\nMoving from the brainstorming stage to actually building something real.\n\n#neotokyo",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      9
+    ],
+    "timezone": ""
+  },
+  "story_only": true
+}
