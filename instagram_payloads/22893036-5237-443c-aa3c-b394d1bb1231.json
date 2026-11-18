@@ -1,0 +1,46 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "22893036-5237-443c-aa3c-b394d1bb1231",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_22893036_slide_6927_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_22893036_slide_6927_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_22893036_slide_6927_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_22893036_slide_6927_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_22893036_slide_6927_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_22893036_slide_6927_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_22893036_slide_6927_06.jpg"
+  ],
+  "caption": "OpenAI et Anthropic s'affrontent sur les plus grands défis scientifiques de l'humanité 🧪\n\nOpenAI va publier ce mardi la preuve de l'existence de la théorie de Yang-Mills, l'un des sept problèmes du prix du millénaire. En parallèle, Anthropic a aussi réfuté l'hypothèse du temps exponentiel (ETH), prouvant que l'IA peut désormais briser des barrières théoriques établies depuis des décennies. 🚀🔬📊\n\nL'IA accélère la découverte, mais la validation humaine reste le verrou final.\n\nSources : ActuIA · Numerama · The Decoder · TechCrunch\n\n#IA #OpenAI #Anthropic #Science #Mathématiques #Technologie",
+  "next_time": 1795262400,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_22893036_slide_6927_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_22893036_slide_6927_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_22893036_slide_6927_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_22893036_slide_6927_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_22893036_slide_6927_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_22893036_slide_6927_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_22893036_slide_6927_06.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_22893036_fb_reel_6927.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_22893036_story_slide_6927_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_22893036_story_slide_6927_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_22893036_story_slide_6927_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_22893036_story_slide_6927_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_22893036_story_slide_6927_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_22893036_story_slide_6927_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_22893036_story_slide_6927_06.jpg"
+  ],
+  "threads_caption": "OpenAI et Anthropic s'affrontent sur les plus grands défis scientifiques de l'humanité 🧪\n\nOpenAI va publier ce mardi la preuve de l'existence de la théorie de Yang-Mills, l'un des sept problèmes du prix du millénaire. En parallèle, Anthropic a aussi réfuté l'hypothèse du temps exponentiel (ETH), prouvant que l'IA peut désormais briser des barrières théoriques établies depuis des décennies.\n\nSources : ActuIA · Numerama · The Decoder · TechCrunch\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
