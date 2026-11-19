@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "e779133a-9a9a-494d-b722-fbcedd2e6d21",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_e779133a_video_7038.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Microsoft a dévoilé sa nouvelle gamme de modèles MAI pour remplacer les modèles externes dans ses produits. 🚀\n\nL'objectif est de proposer des performances quasi identiques aux modèles d'OpenAI ou Claude, mais à une fraction du prix pour réduire les coûts d'utilisation. Le modèle MAI Code 2 atteint 98 % des performances de GPT-6.1 Sol pour seulement 40 % du coût, soit 0,50 $ par million de tokens. Pour la cybersécurité, MAI Cyber 2 Flash résout plus de 90 % des vulnérabilités tout en coûtant 100 fois moins cher que GPT-6 Astra. Côté image, MAI Image 2.7 domine le classement de l'édition d'images, permettant de modifier des objets précis à un cinquième du coût de la concurrence. MAI Realtime 1 est disponible gratuitement en prévisualisation et les entreprises peuvent déjà demander des 'poids licenciés' pour entraîner les modèles sur leurs données privées. C'est un gain majeur pour les développeurs et les responsables IT qui doivent intégrer l'IA à grande échelle sans exploser leur budget.\n\nSource : The Decoder\n\n#Microsoft #AI #MAI #Coding #CyberSecurity #TechNews",
+  "next_time": 1795348800,
+  "storage": "release",
+  "threads_caption": "Microsoft a dévoilé sa nouvelle gamme de modèles MAI pour remplacer les modèles externes dans ses produits. 🚀\n\nL'objectif est de proposer des performances quasi identiques aux modèles d'OpenAI ou Claude, mais à une fraction du prix pour réduire les coûts d'utilisation. Le modèle MAI Code 2 atteint 98 % des performances de GPT-6.1 Sol pour seulement 40 % du coût, soit 0,50 $ par million de tokens.\n\nSource : The Decoder\n\n#Microsoft",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
