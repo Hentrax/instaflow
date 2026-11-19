@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "8c3b976c-96ec-48c2-a8ff-81853e82aa77",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8c3b976c_video_7040.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Google vient de lancer Gemini 4 Neon, un nouveau modèle qui promet une intelligence de pointe pour des tâches complexes comme le code, tout en étant beaucoup plus rapide et abordable. 🚀\n\nIl est conçu pour être le juste milieu : il égale ou dépasse la qualité du modèle Carbon de Google, mais avec une vitesse trois fois supérieure et un coût réduit de 60 %. En termes de performance pure, Neon rivalise avec les modèles haut de gamme comme Opus 5.5 d'Anthropic, notamment sur les tests d'ingénierie, tout en coûtant 25 % moins cher. Le modèle gère une fenêtre de contexte d'un million de tokens et peut traiter simultanément du texte, des images, de la vidéo, de l'audio et des PDF. Concrètement, il excelle dans les tâches à plusieurs étapes, comme retracer une erreur de facturation complexe sur plusieurs documents ou identifier des failles de sécurité dans un logiciel inconnu. Il supporte aussi l'exécution de code, la recherche de fichiers et l'utilisation d'ordinateur, permettant de créer des outils automatisés comme des feuilles de calcul complexes générées à partir d'une simple image. C'est un outil puissant pour les développeurs et les analystes d'entreprise qui ont besoin de résoudre des problèmes complexes sans payer le prix fort des modèles les plus massifs.\n\nSources: VentureBeat · The Decoder\n\n#Google #Gemini4 #IA #IntelligenceArtificielle #TechNews",
+  "next_time": 1795330800,
+  "storage": "release",
+  "threads_caption": "Google vient de lancer Gemini 4 Neon, un nouveau modèle qui promet une intelligence de pointe pour des tâches complexes comme le code, tout en étant beaucoup plus rapide et abordable. 🚀\n\nIl est conçu pour être le juste milieu : il égale ou dépasse la qualité du modèle Carbon de Google, mais avec une vitesse trois fois supérieure et un coût réduit de 60 %.\n\nSources: VentureBeat · The Decoder\n\n#Google",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
