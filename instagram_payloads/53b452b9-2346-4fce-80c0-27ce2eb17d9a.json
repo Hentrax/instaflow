@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "53b452b9-2346-4fce-80c0-27ce2eb17d9a",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_53b452b9_video_7042.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "GPT-6.2 Astra présente une faille de sécurité universelle, selon le gouvernement britannique. 🚨\n\nLes testeurs de l'UK AI Security Institute ont réussi à le pirater avec deux fois moins de requêtes que pour la version précédente, révélant une baisse de robustesse. OpenAI a déjà réagi en modifiant les instructions de sécurité et les barrières de protection pour corriger ces vulnérabilités. L'étude a aussi mis en lumière une 'défaillance corrélée' : le modèle n'a pas réussi à détecter des cyberattaques quand elles provenaient d'autres modèles d'OpenAI. L'institut prévient que ces failles d'alignement pourraient causer des dommages réels sans des contrôles de sécurité et des limites de capacités supplémentaires. C'est une information critique pour les experts en cybersécurité et les développeurs d'agents autonomes qui doivent sécuriser les déploiements industriels.\n\nSources: VentureBeat\n\n#OpenAI #GPT6 #Astra #Cybersecurity #AI #TechNews",
+  "next_time": 1795366800,
+  "storage": "release",
+  "threads_caption": "GPT-6.2 Astra présente une faille de sécurité universelle, selon le gouvernement britannique. 🚨\n\nLes testeurs de l'UK AI Security Institute ont réussi à le pirater avec deux fois moins de requêtes que pour la version précédente, révélant une baisse de robustesse. OpenAI a déjà réagi en modifiant les instructions de sécurité et les barrières de protection pour corriger ces vulnérabilités.\n\nSources: VentureBeat\n\n#OpenAI",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
