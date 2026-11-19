@@ -1,0 +1,19 @@
+{
+  "compte": "miniature",
+  "pub_id": "204a6114-7d35-4dfa-bddb-509cd6d7832a",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_204a6114_video_364.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "A heated showdown on the urban rooftop garden. Typhlosion takes the crown while Vaporeon takes a cool bath!",
+  "next_time": 1795705200,
+  "storage": "release",
+  "threads_caption": "A heated showdown on the urban rooftop garden. Typhlosion takes the crown while Vaporeon takes a cool bath!",
+  "schedule": {
+    "delay_hours": 7.0,
+    "quiet_hours": [
+      17,
+      9
+    ],
+    "timezone": ""
+  }
+}
