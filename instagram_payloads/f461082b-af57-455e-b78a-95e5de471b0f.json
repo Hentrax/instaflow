@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "f461082b-af57-455e-b78a-95e5de471b0f",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_f461082b_video_7059.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Gemini 4 Neon est déjà le quatrième modèle lancé par Google en seulement sept semaines. 🚀\n\nLe modèle prend la tête des tests de qualité de présentation visuelle et d'analyse de documents complexes. Google lance une variante \"cyber\" spécifique pour les professionnels de la sécurité via le programme Fairwind. Cette version bloque 100 % des attaques par injection de prompt indirectes sur le benchmark Gray-Swan. Elle obtient un score de 90,5 % sur le test de sécurité SEC-bench Pro. Pour les experts en cybersécurité et les créateurs de contenu, cela permet de bloquer des attaques complexes et de générer des présentations visuelles de haute qualité.\n\nSources: The Decoder\n\n#Google #Gemini4 #IA #IntelligenceArtificielle #TechNews",
+  "next_time": 1795417200,
+  "storage": "release",
+  "threads_caption": "Gemini 4 Neon est déjà le quatrième modèle lancé par Google en seulement sept semaines. 🚀\n\nLe modèle prend la tête des tests de qualité de présentation visuelle et d'analyse de documents complexes. Google lance une variante \"cyber\" spécifique pour les professionnels de la sécurité via le programme Fairwind. Cette version bloque 100 % des attaques par injection de prompt indirectes sur le benchmark Gray-Swan.\n\nSources: The Decoder\n\n#Google",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
