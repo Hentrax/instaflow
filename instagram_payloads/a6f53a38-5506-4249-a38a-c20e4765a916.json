@@ -1,0 +1,19 @@
+{
+  "compte": "miniature",
+  "pub_id": "a6f53a38-5506-4249-a38a-c20e4765a916",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_a6f53a38_video_283.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "There is a profound quietude in the way the cherry blossoms rest on the rooftops. Every detail feels lived-in, a frozen moment of daily life in a miniature sanctuary that captures a sense of eternal peace.",
+  "next_time": 1795766400,
+  "storage": "release",
+  "threads_caption": "There is a profound quietude in the way the cherry blossoms rest on the rooftops. Every detail feels lived-in, a frozen moment of daily life in a miniature sanctuary that captures a sense of eternal peace.",
+  "schedule": {
+    "delay_hours": 7.0,
+    "quiet_hours": [
+      17,
+      9
+    ],
+    "timezone": ""
+  }
+}
