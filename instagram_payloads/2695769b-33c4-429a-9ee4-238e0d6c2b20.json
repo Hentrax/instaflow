@@ -1,0 +1,20 @@
+{
+  "compte": "cyberpunk_story",
+  "pub_id": "2695769b-33c4-429a-9ee4-238e0d6c2b20",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_2695769b_video_212.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Getting my thoughts in order for the meeting with Julian tomorrow.\nA lot of work went into this brief before I even sat down. 📓\n#RawSignal",
+  "next_time": 1795455000,
+  "storage": "release",
+  "threads_caption": "Getting my thoughts in order for the meeting with Julian tomorrow.\nA lot of work went into this brief before I even sat down.\n\n📓 #RawSignal",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      9
+    ],
+    "timezone": ""
+  },
+  "story_only": true
+}
