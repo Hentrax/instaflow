@@ -1,0 +1,19 @@
+{
+  "compte": "miniature",
+  "pub_id": "9a5c9571-b7a8-46a6-b647-e5e10314f813",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_9a5c9571_video_365.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Built a jungle ruin level out of sculpted clay today. That Growth Orb really took things to a new scale!",
+  "next_time": 1795878000,
+  "storage": "release",
+  "threads_caption": "Built a jungle ruin level out of sculpted clay today. That Growth Orb really took things to a new scale!",
+  "schedule": {
+    "delay_hours": 7.0,
+    "quiet_hours": [
+      17,
+      9
+    ],
+    "timezone": ""
+  }
+}
