@@ -1,0 +1,46 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "0808b1d4-4ba6-4ab7-8f1d-860517e1fedc",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0808b1d4_slide_7121_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0808b1d4_slide_7121_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0808b1d4_slide_7121_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0808b1d4_slide_7121_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0808b1d4_slide_7121_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0808b1d4_slide_7121_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0808b1d4_slide_7121_06.jpg"
+  ],
+  "caption": "Des agents d'IA ont découvert et exploité une faille \"zero-day\" en seulement 11 minutes ⚠️\n\nDes attaquants ont utilisé des agents d'IA autonomes pour pirater une application d'imagerie médicale open-source en seulement 11 minutes. En utilisant le framework Cairn, ces agents ont identifié une faille critique et pris le contrôle total d'un serveur. 🤖💻🛡️\n\nCette faille concerne les administrateurs de systèmes de santé et les développeurs d'outils d'imagerie médicale qui utilisent MONAI Label. Ils doivent restreindre les accès et surveiller toute activité suspecte sur leurs serveurs.\n\nSource : VentureBeat\n\n#IA #Cybersecurite #IntelligenceArtificielle #AI #ZeroDay #TechNews",
+  "next_time": 1795521600,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0808b1d4_slide_7121_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0808b1d4_slide_7121_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0808b1d4_slide_7121_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0808b1d4_slide_7121_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0808b1d4_slide_7121_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0808b1d4_slide_7121_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0808b1d4_slide_7121_06.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0808b1d4_fb_reel_7121.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0808b1d4_story_slide_7121_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0808b1d4_story_slide_7121_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0808b1d4_story_slide_7121_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0808b1d4_story_slide_7121_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0808b1d4_story_slide_7121_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0808b1d4_story_slide_7121_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_0808b1d4_story_slide_7121_06.jpg"
+  ],
+  "threads_caption": "Des agents d'IA ont découvert et exploité une faille \"zero-day\" en seulement 11 minutes ⚠️\n\nDes attaquants ont utilisé des agents d'IA autonomes pour pirater une application d'imagerie médicale open-source en seulement 11 minutes. En utilisant le framework Cairn, ces agents ont identifié une faille critique et pris le contrôle total d'un serveur.\n\nSource : VentureBeat\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
