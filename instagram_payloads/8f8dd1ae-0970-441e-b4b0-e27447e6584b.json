@@ -1,0 +1,46 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "8f8dd1ae-0970-441e-b4b0-e27447e6584b",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8f8dd1ae_slide_7115_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8f8dd1ae_slide_7115_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8f8dd1ae_slide_7115_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8f8dd1ae_slide_7115_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8f8dd1ae_slide_7115_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8f8dd1ae_slide_7115_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8f8dd1ae_slide_7115_06.jpg"
+  ],
+  "caption": "Signal bloque les captures d'écran pour contrer une \"menace existentielle\" des agents IA 🛡️\n\nPour protéger le chiffrement de bout en bout, Signal empêche désormais les agents IA (Siri, Gemini, Musere) de lire vos messages privés via la capture d'écran. Une mesure d'urgence face aux capacités des IA d'analyser le contenu décrypté sur vos écrans. 📱🚫🤖\n\nPour les utilisateurs soucieux de leur vie privée, cela signifie que leurs conversations restent plus protégées contre les agents IA qui tentent de \"lire\" leur écran.\n\nSources : The Decoder\n\n#Signal #IntelligenceArtificielle #Confidentialité #Cybersécurité #IA #ProtectionDonnées",
+  "next_time": 1795539600,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8f8dd1ae_slide_7115_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8f8dd1ae_slide_7115_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8f8dd1ae_slide_7115_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8f8dd1ae_slide_7115_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8f8dd1ae_slide_7115_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8f8dd1ae_slide_7115_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8f8dd1ae_slide_7115_06.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8f8dd1ae_fb_reel_7115.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8f8dd1ae_story_slide_7115_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8f8dd1ae_story_slide_7115_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8f8dd1ae_story_slide_7115_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8f8dd1ae_story_slide_7115_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8f8dd1ae_story_slide_7115_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8f8dd1ae_story_slide_7115_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_8f8dd1ae_story_slide_7115_06.jpg"
+  ],
+  "threads_caption": "Signal bloque les captures d'écran pour contrer une \"menace existentielle\" des agents IA 🛡️\n\nPour protéger le chiffrement de bout en bout, Signal empêche désormais les agents IA (Siri, Gemini, Musere) de lire vos messages privés via la capture d'écran. Une mesure d'urgence face aux capacités des IA d'analyser le contenu décrypté sur vos écrans.\n\nSources : The Decoder\n\n#Signal",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
