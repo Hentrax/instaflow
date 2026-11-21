@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "b96b589e-0f53-431a-bfc0-effde3d3474a",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b96b589e_video_7118.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "OpenAI a massivement renforcé la sécurité de GPT-6.2 Astra pour empêcher l'extraction de son raisonnement interne. 🛡️\n\nEn test, le taux de réussite des attaques a chuté de 54 % sur la version précédente à seulement 0,2 % sur la version 6.2. Pour y parvenir, la firme combine un entraînement ciblé, des filtres de messages et le bannissement de dizaines de milliers de comptes chaque semaine. Côté performance, GPT-6 Astra a été testé par Hebbia pour la recherche financière et a surpassé ses concurrents de 13,6 points sur la pertinence des sources citées. Le modèle a également atteint 97,9 % des exigences de présentation, se distinguant comme le premier à être numéro 1 à la fois sur le respect des consignes et la qualité visuelle. C'est une avancée majeure pour les analystes financiers et les experts en cybersécurité qui manipulent des données sensibles et exigent une précision chirurgicale.\n\nSources: The Decoder · OpenAI\n\n#OpenAI #GPT6 #Astra #Sol #AI #TechNews",
+  "next_time": 1795503600,
+  "storage": "release",
+  "threads_caption": "OpenAI a massivement renforcé la sécurité de GPT-6.2 Astra pour empêcher l'extraction de son raisonnement interne. 🛡️\n\nEn test, le taux de réussite des attaques a chuté de 54 % sur la version précédente à seulement 0,2 % sur la version 6.2. Pour y parvenir, la firme combine un entraînement ciblé, des filtres de messages et le bannissement de dizaines de milliers de comptes chaque semaine.\n\nSources: The Decoder · OpenAI\n\n#OpenAI",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
