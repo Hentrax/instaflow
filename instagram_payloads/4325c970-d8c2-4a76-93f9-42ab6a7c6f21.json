@@ -1,0 +1,19 @@
+{
+  "compte": "miniature",
+  "pub_id": "4325c970-d8c2-4a76-93f9-42ab6a7c6f21",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_4325c970_video_370.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "A high-tech hover-forklift in a cyberpunk district. It turns out some models are just a little too eager to move!",
+  "next_time": 1795852800,
+  "storage": "release",
+  "threads_caption": "A high-tech hover-forklift in a cyberpunk district. It turns out some models are just a little too eager to move!",
+  "schedule": {
+    "delay_hours": 7.0,
+    "quiet_hours": [
+      17,
+      9
+    ],
+    "timezone": ""
+  }
+}
