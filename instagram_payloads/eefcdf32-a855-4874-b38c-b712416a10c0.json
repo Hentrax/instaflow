@@ -1,0 +1,20 @@
+{
+  "compte": "cyberpunk_story",
+  "pub_id": "eefcdf32-a855-4874-b38c-b712416a10c0",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_eefcdf32_video_219.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Preparing for tomorrow's choreography.\n\nThe 'Raw Signal' binder is heavy, but the plans are clear. ☕️\n\n#RawSignal #Prep",
+  "next_time": 1795556700,
+  "storage": "release",
+  "threads_caption": "Preparing for tomorrow's choreography.\n\nThe 'Raw Signal' binder is heavy, but the plans are clear.\n\n☕️ #RawSignal",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      9
+    ],
+    "timezone": ""
+  },
+  "story_only": true
+}
