@@ -1,0 +1,19 @@
+{
+  "compte": "miniature",
+  "pub_id": "3ee22121-6993-4cc8-8baf-6a50759cfc37",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_3ee22121_video_306.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "This model rebuilds the famous time-travel sequence from Back to the Future where the DeLorean hits 88 mph. The scale model features a gleaming stainless-steel finish and a period-accurate 1985 interior, capturing the exact moment of temporal displacement. It’s fascinating how quickly the 'future' can become a bit dusty.",
+  "next_time": 1795939200,
+  "storage": "release",
+  "threads_caption": "This model rebuilds the famous time-travel sequence from Back to the Future where the DeLorean hits 88 mph. The scale model features a gleaming stainless-steel finish and a period-accurate 1985 interior, capturing the exact moment of temporal displacement. It’s fascinating how quickly the 'future' can become a bit dusty.",
+  "schedule": {
+    "delay_hours": 7.0,
+    "quiet_hours": [
+      17,
+      9
+    ],
+    "timezone": ""
+  }
+}
