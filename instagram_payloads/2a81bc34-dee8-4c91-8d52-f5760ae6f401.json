@@ -1,0 +1,29 @@
+{
+  "compte": "cyberpunk_story",
+  "pub_id": "2a81bc34-dee8-4c91-8d52-f5760ae6f401",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_2a81bc34_slide_215_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_2a81bc34_slide_215_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_2a81bc34_slide_215_02.jpg"
+  ],
+  "caption": "Started my practice early.\n\nThe studio is quiet this morning.\nJust me and the floor.\nTime to get moving.\n\n#neotokyo #dance",
+  "next_time": 1795601700,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_2a81bc34_slide_215_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_2a81bc34_slide_215_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_2a81bc34_slide_215_02.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_2a81bc34_fb_reel_215.mp4",
+  "story_slides": true,
+  "threads_caption": "Started my practice early.\n\nThe studio is quiet this morning.\nJust me and the floor.\nTime to get moving.\n\n#neotokyo",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      9
+    ],
+    "timezone": ""
+  }
+}
