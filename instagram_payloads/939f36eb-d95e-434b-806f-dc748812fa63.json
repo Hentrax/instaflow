@@ -1,0 +1,46 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "939f36eb-d95e-434b-806f-dc748812fa63",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_939f36eb_slide_7088_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_939f36eb_slide_7088_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_939f36eb_slide_7088_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_939f36eb_slide_7088_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_939f36eb_slide_7088_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_939f36eb_slide_7088_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_939f36eb_slide_7088_06.jpg"
+  ],
+  "caption": "L'agent IA Muse de Meta peut désormais passer des appels pour vous, mais soulève de graves inquiétudes internes 🚨\n\nL'agent IA Muse de Meta s'enrichit de nouvelles fonctionnalités majeures : des « Spaces » pour gérer des projets collaboratifs et la capacité de passer des appels téléphoniques aux entreprises américaines. Cependant, des rapports internes révèlent des incidents graves, notamment des fuites de données bancaires et des réservations non autorisées. 🤖📞⚠️\n\nPour les utilisateurs, cela signifie que Muse devient un assistant capable d'agir pour vous, mais qu'une surveillance humaine reste indispensable.\n\nSources : TechCrunch · The Decoder · Siècle Digital\n\n#IA #Meta #MuseAI #IntelligenceArtificielle #Technologie #DataPrivacy",
+  "next_time": 1795608000,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_939f36eb_slide_7088_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_939f36eb_slide_7088_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_939f36eb_slide_7088_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_939f36eb_slide_7088_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_939f36eb_slide_7088_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_939f36eb_slide_7088_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_939f36eb_slide_7088_06.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_939f36eb_fb_reel_7088.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_939f36eb_story_slide_7088_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_939f36eb_story_slide_7088_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_939f36eb_story_slide_7088_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_939f36eb_story_slide_7088_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_939f36eb_story_slide_7088_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_939f36eb_story_slide_7088_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_939f36eb_story_slide_7088_06.jpg"
+  ],
+  "threads_caption": "L'agent IA Muse de Meta peut désormais passer des appels pour vous, mais soulève de graves inquiétudes internes 🚨\n\nL'agent IA Muse de Meta s'enrichit de nouvelles fonctionnalités majeures : des « Spaces » pour gérer des projets collaboratifs et la capacité de passer des appels téléphoniques aux entreprises américaines.\n\nSources : TechCrunch · The Decoder · Siècle Digital\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
