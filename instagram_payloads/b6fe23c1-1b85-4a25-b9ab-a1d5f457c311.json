@@ -1,0 +1,46 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "b6fe23c1-1b85-4a25-b9ab-a1d5f457c311",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b6fe23c1_slide_7152_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b6fe23c1_slide_7152_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b6fe23c1_slide_7152_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b6fe23c1_slide_7152_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b6fe23c1_slide_7152_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b6fe23c1_slide_7152_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b6fe23c1_slide_7152_06.jpg"
+  ],
+  "caption": "Moins de 10 % de réussite : le mur de la réalité pour les agents de code IA 🚧\n\nMalgré des scores records sur les benchmarks, les agents de code (comme Claude Opus 5.5 ou GPT-6 Astra) peinent face à la complexité du monde réel. Une étude les a placés dans une entreprise simulée avec collègues et historiques de chat : ils n'ont réussi qu'une tâche sur dix. 💻🤖📉\n\nPour les développeurs et les CTOs, l'enjeu est de passer de la réussite sur papier à une autonomie réelle en entreprise.\n\nSources : The Decoder\n\n#IntelligenceArtificielle #CodingAgents #IA #Programmation #TechNews",
+  "next_time": 1795676400,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b6fe23c1_slide_7152_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b6fe23c1_slide_7152_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b6fe23c1_slide_7152_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b6fe23c1_slide_7152_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b6fe23c1_slide_7152_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b6fe23c1_slide_7152_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b6fe23c1_slide_7152_06.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b6fe23c1_fb_reel_7152.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b6fe23c1_story_slide_7152_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b6fe23c1_story_slide_7152_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b6fe23c1_story_slide_7152_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b6fe23c1_story_slide_7152_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b6fe23c1_story_slide_7152_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b6fe23c1_story_slide_7152_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b6fe23c1_story_slide_7152_06.jpg"
+  ],
+  "threads_caption": "Moins de 10 % de réussite : le mur de la réalité pour les agents de code IA 🚧\n\nMalgré des scores records sur les benchmarks, les agents de code (comme Claude Opus 5.5 ou GPT-6 Astra) peinent face à la complexité du monde réel. Une étude les a placés dans une entreprise simulée avec collègues et historiques de chat : ils n'ont réussi qu'une tâche sur dix.\n\nSources : The Decoder\n\n#IntelligenceArtificielle",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
