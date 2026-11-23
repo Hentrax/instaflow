@@ -1,0 +1,19 @@
+{
+  "compte": "miniature",
+  "pub_id": "5a74a3fa-eb16-415b-8bfc-aaa1347e4a7e",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_5a74a3fa_video_404.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "I finally finished 'Neo-Luxor.' I spent nearly 730 days meticulously gluing every piece of card and painting every single window to capture that specific Art Deco grandeur. You can see the individual textures of the balsa wood and the weathered plaster on the skyscrapers—it’s a piece of my soul on a table. Well, it was, until the 'little' visitors decided to have a bit too much fun. Watch until the end to see my literal heart break in real-time. 💔",
+  "next_time": 1796025600,
+  "storage": "release",
+  "threads_caption": "I finally finished 'Neo-Luxor.' I spent nearly 730 days meticulously gluing every piece of card and painting every single window to capture that specific Art Deco grandeur. You can see the individual textures of the balsa wood and the weathered plaster on the skyscrapers—it’s a piece of my soul on a table. Well, it was, until the 'little' visitors decided to have a bit too much fun. Watch until the end to see my literal heart break in real-time. 💔",
+  "schedule": {
+    "delay_hours": 7.0,
+    "quiet_hours": [
+      17,
+      9
+    ],
+    "timezone": ""
+  }
+}
