@@ -1,0 +1,46 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "73fd6fa5-7cb9-4752-aa00-ddd06812e46a",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73fd6fa5_slide_7177_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73fd6fa5_slide_7177_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73fd6fa5_slide_7177_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73fd6fa5_slide_7177_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73fd6fa5_slide_7177_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73fd6fa5_slide_7177_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73fd6fa5_slide_7177_06.jpg"
+  ],
+  "caption": "Z.ai lance GLM-5.4, un modèle de 750B paramètres utilisant une architecture en \"boucle\" pour rivaliser avec des géants 3x plus grands 🚀\n\nZ.ai introduit GLM-5.4, son premier modèle basé sur une architecture \"loop transformer\". En traitant certaines couches deux fois, il atteint les performances de modèles de 2 à 3 billions de paramètres tout en restant plus compact. L'objectif est le \"Generalized Coding\" : utiliser le code pour générer des vidéos, des jeux ou des modèles CAO. Le modèle est déjà disponible sur les plateformes de Z.ai. 💻🎮🏗️\n\nCette technologie s'adresse aux développeurs et aux ingénieurs souhaitant générer des actifs complexes (jeux, modèles 3D) à partir de code.\n\nSource : The Decoder\n#IntelligenceArtificielle #LLM #Zai #MachineLearning #InnovationTech",
+  "next_time": 1795712400,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73fd6fa5_slide_7177_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73fd6fa5_slide_7177_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73fd6fa5_slide_7177_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73fd6fa5_slide_7177_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73fd6fa5_slide_7177_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73fd6fa5_slide_7177_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73fd6fa5_slide_7177_06.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73fd6fa5_fb_reel_7177.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73fd6fa5_story_slide_7177_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73fd6fa5_story_slide_7177_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73fd6fa5_story_slide_7177_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73fd6fa5_story_slide_7177_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73fd6fa5_story_slide_7177_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73fd6fa5_story_slide_7177_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_73fd6fa5_story_slide_7177_06.jpg"
+  ],
+  "threads_caption": "Z.ai lance GLM-5.4, un modèle de 750B paramètres utilisant une architecture en \"boucle\" pour rivaliser avec des géants 3x plus grands 🚀\n\nZ.ai introduit GLM-5.4, son premier modèle basé sur une architecture \"loop transformer\". En traitant certaines couches deux fois, il atteint les performances de modèles de 2 à 3 billions de paramètres tout en restant plus compact.\n\nSource : The Decoder\n\n#IntelligenceArtificielle",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
