@@ -1,14 +1,14 @@
 # 📊 Dashboard de Publication
 
-✅ **Dernier run sans erreur** — 23/11/2026 00:28:15
+✅ **Dernier run sans erreur** — 23/11/2026 07:05:36
 
-📦 **Total publiés historiquement :** 842
+📦 **Total publiés historiquement :** 843
 
 ### 📱 État des comptes
 | Compte | Posts en attente | Prochaine publication | Fin de programmation | Autonomie | Aperçu |
 | :--- | :---: | :--- | :--- | :---: | :---: |
 | CYBERPUNK_STORY | **8** | 23/11 09:30 | 25/11 11:15 | ⚠️ **2 j** | <img src='https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_19acf0d4_slide_209_00.jpg' width='50'> |
-| IA_ACTUS | **9** | 23/11 08:00 | 25/11 18:00 | ⚠️ **2 j** | <a href='https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_f461082b_video_7059.mp4' target='_blank'>🎬</a> |
+| IA_ACTUS | **8** | 23/11 13:00 | 25/11 18:00 | ⚠️ **2 j** | <a href='https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_5342246e_video_7082.mp4' target='_blank'>🎬</a> |
 | MEOWGINEEREDAI | **28** | 23/11 10:00 | 06/12 17:00 | 13 j | <a href='https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_a755833d_video_1218.mp4' target='_blank'>🎬</a> |
 | MINIATURE | **14** | 23/11 09:00 | 29/11 16:00 | 6 j | <a href='https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_38cc0fd6_video_157.mp4' target='_blank'>🎬</a> |
 
