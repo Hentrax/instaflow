@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "b682bf0a-370b-4afb-a858-07d4b0359b9d",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_b682bf0a_video_7192.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Un chercheur d'Anthropic affirme avoir résolu l'hypothèse de Riemann, l'un des plus grands mystères des mathématiques, grâce à l'IA Claude. 🤯\n\nLe mathématicien Levent Alpöge explique avoir travaillé avec Claude sur ce problème vieux de 167 ans. Il décrit comment l'IA a pris le relais pour les étapes finales, la dépassant largement. Cette annonce a déclenché une course : presque simultanément, des chercheurs de Stanford ont publié leur propre preuve, mais réalisée entièrement par des humains, sans aucune IA. Pour résoudre l'énigme, le duo a utilisé des transformations mathématiques complexes pour simuler des dérivées sur des nombres entiers, une idée clé fournie par Claude. Ce n'est pas un cas isolé. Claude a déjà résolu d'autres problèmes complexes, comme la conjecture de Jacobian, en seulement quelques mois. La preuve est codée dans Lean, un langage permettant à un ordinateur de vérifier chaque étape logique. Le résultat brut généré par Claude est colossal : plus de 250 000 pages de raisonnement. Cette avancée est majeure pour les chercheurs en cryptographie et en physique quantique, car elle pourrait valider des centaines de théories mathématiques jusqu'ici non prouvées.\n\nSources: Numerama · TechCrunch · The Decoder\n\n#IA #Mathématiques #Anthropic #Claude #Riemann",
+  "next_time": 1795780800,
+  "storage": "release",
+  "threads_caption": "Un chercheur d'Anthropic affirme avoir résolu l'hypothèse de Riemann, l'un des plus grands mystères des mathématiques, grâce à l'IA Claude. 🤯\n\nLe mathématicien Levent Alpöge explique avoir travaillé avec Claude sur ce problème vieux de 167 ans. Il décrit comment l'IA a pris le relais pour les étapes finales, la dépassant largement.\n\nSources: Numerama · TechCrunch · The Decoder\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
