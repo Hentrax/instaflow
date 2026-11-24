@@ -1,0 +1,19 @@
+{
+  "compte": "cyberpunk_story",
+  "pub_id": "0021aabc-a054-4278-ad81-c3507a999d4d",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_0021aabc_slide_224_00.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Lunch and a bit of a view.\n\nTaking a moment of rest after a busy morning of planning.\nThe mid-level architecture is stunning today. 🥂",
+  "next_time": 1795786200,
+  "storage": "release",
+  "threads_caption": "Lunch and a bit of a view.\n\nTaking a moment of rest after a busy morning of planning.\nThe mid-level architecture is stunning today. 🥂",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      9
+    ],
+    "timezone": ""
+  }
+}
