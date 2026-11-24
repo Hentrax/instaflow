@@ -1,0 +1,46 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "1db28bfe-fe49-47df-a259-349ec8360045",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1db28bfe_slide_7199_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1db28bfe_slide_7199_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1db28bfe_slide_7199_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1db28bfe_slide_7199_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1db28bfe_slide_7199_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1db28bfe_slide_7199_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1db28bfe_slide_7199_06.jpg"
+  ],
+  "caption": "Z.ai prouve que la taille ne fait pas tout : son modèle GLM-5.4 rivalise avec des géants 3x plus grands grâce à une architecture en \"boucle\" 🔄.\n\nLe modèle de 750B paramètres ne multiplie pas ses paramètres, mais fait passer ses données deux fois dans les mêmes couches pour gagner en profondeur de raisonnement. 🧠 Il intègre désormais la vision, gère 1M de contexte et utilise des \"portes\" pour stabiliser ses calculs. 🚀\n\nPour les experts en cybersécurité, ce modèle permet de détecter des vulnérabilités complexes grâce à ses capacités de raisonnement en chaîne longue.\n\nSources : VentureBeat\n\n#IntelligenceArtificielle #LLM #Zai #MachineLearning #InnovationTech #Coding",
+  "next_time": 1795762800,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1db28bfe_slide_7199_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1db28bfe_slide_7199_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1db28bfe_slide_7199_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1db28bfe_slide_7199_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1db28bfe_slide_7199_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1db28bfe_slide_7199_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1db28bfe_slide_7199_06.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1db28bfe_fb_reel_7199.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1db28bfe_story_slide_7199_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1db28bfe_story_slide_7199_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1db28bfe_story_slide_7199_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1db28bfe_story_slide_7199_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1db28bfe_story_slide_7199_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1db28bfe_story_slide_7199_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_1db28bfe_story_slide_7199_06.jpg"
+  ],
+  "threads_caption": "Z.ai prouve que la taille ne fait pas tout : son modèle GLM-5.4 rivalise avec des géants 3x plus grands grâce à une architecture en \"boucle\" 🔄.\n\nLe modèle de 750B paramètres ne multiplie pas ses paramètres, mais fait passer ses données deux fois dans les mêmes couches pour gagner en profondeur de raisonnement. 🧠 Il intègre désormais la vision, gère 1M de contexte et utilise des \"portes\" pour stabiliser ses calculs.\n\nSources : VentureBeat\n\n#IntelligenceArtificielle",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
