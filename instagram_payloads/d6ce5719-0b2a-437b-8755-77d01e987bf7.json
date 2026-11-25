@@ -1,0 +1,19 @@
+{
+  "compte": "meowgineeredai",
+  "pub_id": "d6ce5719-0b2a-437b-8755-77d01e987bf7",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/meowgineeredai_d6ce5719_video_1411.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Stole the whip, hit the fruit, made my exit. 🐾💨\n\n#GTA6 #GTAVI #GTA",
+  "next_time": 1795683600,
+  "storage": "release",
+  "threads_caption": "Stole the whip, hit the fruit, made my exit.\n\n🐾💨 #GTA6",
+  "schedule": {
+    "delay_hours": 7.0,
+    "quiet_hours": [
+      20,
+      10
+    ],
+    "timezone": ""
+  }
+}
