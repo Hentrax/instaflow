@@ -1,0 +1,19 @@
+{
+  "compte": "miniature",
+  "pub_id": "b9c9aaca-6012-4ac4-a273-298598b6651d",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_b9c9aaca_video_354.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "The residents of our coastal town have been whispering about the need for a bit of culture since the winter frost. Finally, the long-awaited Grand Theater has opened its doors! A huge benefactor (we think we saw a thumb-sized shadow nearby) gifted it to the community. Now, the premiere is about to begin.",
+  "next_time": 1796223600,
+  "storage": "release",
+  "threads_caption": "The residents of our coastal town have been whispering about the need for a bit of culture since the winter frost. Finally, the long-awaited Grand Theater has opened its doors! A huge benefactor (we think we saw a thumb-sized shadow nearby) gifted it to the community. Now, the premiere is about to begin.",
+  "schedule": {
+    "delay_hours": 7.0,
+    "quiet_hours": [
+      17,
+      9
+    ],
+    "timezone": ""
+  }
+}
