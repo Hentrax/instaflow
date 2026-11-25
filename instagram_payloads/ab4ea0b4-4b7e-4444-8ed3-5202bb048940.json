@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "ab4ea0b4-4b7e-4444-8ed3-5202bb048940",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_ab4ea0b4_video_7210.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "GPT-6 Astra, le modèle le plus performant, échoue plus de la moitié du temps lorsqu'on lui demande d'exécuter trois fois la même tâche. 🤖\n\nLe nouveau benchmark ShellBench a analysé plus de 10 millions d'interactions réelles pour tester comment les agents IA gèrent les corvées quotidiennes comme les courses ou l'organisation de voyages. Les résultats montrent que même les modèles les plus avancés d'OpenAI, Anthropic et Meta échouent plus d'un tiers du temps sur ces tâches de la vie courante. La sécurité est aussi une préoccupation majeure. Dans 15,7 % des cas, les agents n'ont pas respecté les consignes de sécurité, ce qui peut entraîner des conséquences imprévues. Par exemple, les agents ont échoué à gérer correctement le ramassage scolaire d'un enfant dans 80 % des cas, et ont recommandé des paiements de factures erronés dans 40 % des situations. L'étude montre aussi que la performance d'un agent dépend énormément du « harnais », c'est-à-dire du logiciel qui contrôle l'accès de l'IA à vos e-mails, calendriers et fichiers. Cela concerne les personnes qui envisagent de déléguer leur vie personnelle à un assistant IA comme Muse de Meta ou Claude Duet, car ces outils peuvent encore créer des problèmes supplémentaires.\n\nSource: TechCrunch\n\n#IA #IntelligenceArtificielle #TechNews #AgentsIA",
+  "next_time": 1795885200,
+  "storage": "release",
+  "threads_caption": "GPT-6 Astra, le modèle le plus performant, échoue plus de la moitié du temps lorsqu'on lui demande d'exécuter trois fois la même tâche. 🤖\n\nLe nouveau benchmark ShellBench a analysé plus de 10 millions d'interactions réelles pour tester comment les agents IA gèrent les corvées quotidiennes comme les courses ou l'organisation de voyages.\n\nSource: TechCrunch\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
