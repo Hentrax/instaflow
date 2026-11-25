@@ -1,13 +1,6 @@
 # 📊 Dashboard de Publication
 
-✅ **Dernier run sans erreur** — 25/11/2026 17:16:05
-
-## ⚠️ Avertissements (best effort, non bloquants)
-
-- `meowgineeredai: Story Instagram 1ea024a5-0204-4f23-a25b-ba6218089e67 -> médias lisibles, échec côté Meta, reprise au prochain run : Command '['sudo', 'apt-get', 'install', '-y', 'ffmpeg']' timed out after 300 seconds`
-- `meowgineeredai: Story Facebook 1ea024a5-0204-4f23-a25b-ba6218089e67 -> médias lisibles, échec côté Meta, reprise au prochain run : installation FFmpeg échouée : E: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 3321 (apt-get)
-E: Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), is another process using it?
-`
+✅ **Dernier run sans erreur** — 25/11/2026 19:10:18
 
 📦 **Total publiés historiquement :** 872
 
