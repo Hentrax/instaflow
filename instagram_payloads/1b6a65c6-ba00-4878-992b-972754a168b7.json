@@ -1,0 +1,19 @@
+{
+  "compte": "miniature",
+  "pub_id": "1b6a65c6-ba00-4878-992b-972754a168b7",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_1b6a65c6_video_442.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Palm Grove, built from glass and metal, captures a moment of high tension under the sun. The man in the black muscle car is looking for a way out.\n\n#GTA6 #GTAVI #GTA",
+  "next_time": 1796310000,
+  "storage": "release",
+  "threads_caption": "Palm Grove, built from glass and metal, captures a moment of high tension under the sun. The man in the black muscle car is looking for a way out.\n\n#GTA6",
+  "schedule": {
+    "delay_hours": 7.0,
+    "quiet_hours": [
+      17,
+      9
+    ],
+    "timezone": ""
+  }
+}
