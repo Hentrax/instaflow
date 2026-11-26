@@ -1,0 +1,19 @@
+{
+  "compte": "cyberpunk_story",
+  "pub_id": "cac940b2-3c43-4e7f-86b0-48ae78f5e734",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_cac940b2_slide_232_00.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Heading home.\nThe hanging gardens were beautiful today.\nA quiet moment with Hana to reset before the week begins.",
+  "next_time": 1795977900,
+  "storage": "release",
+  "threads_caption": "Heading home.\nThe hanging gardens were beautiful today.\nA quiet moment with Hana to reset before the week begins.",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      9
+    ],
+    "timezone": ""
+  }
+}
