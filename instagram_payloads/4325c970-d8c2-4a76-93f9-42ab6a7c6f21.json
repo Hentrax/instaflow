@@ -15,5 +15,8 @@
       9
     ],
     "timezone": ""
-  }
+  },
+  "publish_tiktok": true,
+  "publish_youtube": false,
+  "tiktok_text": "A high-tech hover-forklift in a cyberpunk district. It turns out some models are just a little too eager to move!"
 }

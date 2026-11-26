@@ -15,5 +15,8 @@
       9
     ],
     "timezone": ""
-  }
+  },
+  "publish_tiktok": true,
+  "publish_youtube": false,
+  "tiktok_text": "This is a miniature of the backrooms. This model captures the endless, repetitive geometry of a school corridor at night, built with painstaking detail using wood, metal, and fabric. Each locker and doorway is perfectly aligned to create a sense of infinite scale across the workbench. Deep within the maze, a small figure remains, still searching for any door that might actually lead outside."
 }

@@ -15,5 +15,8 @@
       9
     ],
     "timezone": ""
-  }
+  },
+  "publish_tiktok": true,
+  "publish_youtube": false,
+  "tiktok_text": "This model rebuilds the famous time-travel sequence from Back to the Future where the DeLorean hits 88 mph. The scale model features a gleaming stainless-steel finish and a period-accurate 1985 interior, capturing the exact moment of temporal displacement. It’s fascinating how quickly the 'future' can become a bit dusty."
 }
