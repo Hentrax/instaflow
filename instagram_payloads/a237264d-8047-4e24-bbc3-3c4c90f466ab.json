@@ -1,0 +1,46 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "a237264d-8047-4e24-bbc3-3c4c90f466ab",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a237264d_slide_7274_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a237264d_slide_7274_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a237264d_slide_7274_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a237264d_slide_7274_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a237264d_slide_7274_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a237264d_slide_7274_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a237264d_slide_7274_06.jpg"
+  ],
+  "caption": "Un modèle de code de 54 Go devient portable : PrismML le réduit à 5,9 Go sans perdre en efficacité ⚡\n\nLa startup PrismML a lancé Ternary Bonsai 2.5, une version ultra-compressée du modèle Qwen3.8-27B. Grâce à la quantification ternaire (poids limités à -1, 0 ou +1), le modèle occupe 10 fois moins d'espace tout en restant performant pour les tâches d'agents complexes. Il évite les boucles de raisonnement et tourne même sur iPhone ou iPad 📱.\n\nPour les développeurs et les créateurs d'agents IA qui veulent faire tourner des modèles de code puissants localement sur des appareils mobiles ou des PC modestes.\n\nSource : The Decoder\n\n#IA #IntelligenceArtificielle #MachineLearning #Coding #OpenSource #TechNews",
+  "next_time": 1795935600,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a237264d_slide_7274_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a237264d_slide_7274_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a237264d_slide_7274_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a237264d_slide_7274_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a237264d_slide_7274_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a237264d_slide_7274_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a237264d_slide_7274_06.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a237264d_fb_reel_7274.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a237264d_story_slide_7274_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a237264d_story_slide_7274_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a237264d_story_slide_7274_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a237264d_story_slide_7274_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a237264d_story_slide_7274_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a237264d_story_slide_7274_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_a237264d_story_slide_7274_06.jpg"
+  ],
+  "threads_caption": "Un modèle de code de 54 Go devient portable : PrismML le réduit à 5,9 Go sans perdre en efficacité ⚡\n\nLa startup PrismML a lancé Ternary Bonsai 2.5, une version ultra-compressée du modèle Qwen3.8-27B. Grâce à la quantification ternaire (poids limités à -1, 0 ou +1), le modèle occupe 10 fois moins d'espace tout en restant performant pour les tâches d'agents complexes. Il évite les boucles de raisonnement et tourne même sur iPhone ou iPad 📱.\n\nSource : The Decoder\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
