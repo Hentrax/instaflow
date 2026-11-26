@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "d91eff86-0627-4873-a4ad-f18905698eba",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d91eff86_video_7275.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Une faille de sécurité majeure a touché plusieurs agences de renseignement américaines, dont la CIA, en utilisant un outil de piratage par IA. 🚨\n\nL'intrusion a ciblé un système d'analyse de renseignements en sources ouvertes, qui traite des données publiques comme les réseaux sociaux ou l'imagerie satellite. Les enquêteurs soupçonnent l'utilisation d'Artex, un outil d'IA initialement conçu pour la défense cybernétique, mais détourné à des fins offensives. Libéré par un ingénieur chinois en juillet, Artex est déjà lié à des dizaines d'attaques mondiales, notamment au Japon et en Corée du Sud. Parallèlement, les autorités américaines expliquent que l'IA est aussi utilisée par les défenseurs pour détecter des failles logicielles critiques nécessitant des correctifs urgents. Le réseau FinCEN a déconnecté certains systèmes par précaution, tandis que le FBI enquête actuellement sur le piratage de sa base de données nationale. Cette actualité est cruciale pour les experts en cybersécurité et les responsables des infrastructures critiques qui doivent adapter leurs défenses face à ces armes numériques.\n\nSources : The Decoder · The New York Times · Nextgov · CNN\n\n#IA #Cybersécurité #Hacking #Technologie",
+  "next_time": 1795953600,
+  "storage": "release",
+  "threads_caption": "Une faille de sécurité majeure a touché plusieurs agences de renseignement américaines, dont la CIA, en utilisant un outil de piratage par IA. 🚨\n\nL'intrusion a ciblé un système d'analyse de renseignements en sources ouvertes, qui traite des données publiques comme les réseaux sociaux ou l'imagerie satellite.\n\nSources : The Decoder · The New York Times · Nextgov · CNN\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
