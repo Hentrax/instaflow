@@ -18,5 +18,23 @@
   },
   "publish_tiktok": true,
   "publish_youtube": false,
-  "tiktok_text": "I just finished my debut recording. 🐾 My voice is pure perfection. #CatMusic #MeowMelodies #StudioLife"
+  "tiktok_text": "I just finished my debut recording. 🐾 My voice is pure perfection. #CatMusic #MeowMelodies #StudioLife",
+  "instagram_tried": true,
+  "instagram_media_id": "17916387021375671",
+  "done": {
+    "instagram": true,
+    "instagram_story": true,
+    "facebook": true,
+    "facebook_story": true,
+    "threads": true
+  },
+  "attempts": {},
+  "threads_media_id": "18091847996288151",
+  "buffer_posts": {
+    "tiktok": {
+      "post_id": "6b09b88a2b8a129ed810ee5d",
+      "status": "sending",
+      "creation_uncertain": false
+    }
+  }
 }
