@@ -1,0 +1,34 @@
+{
+  "compte": "cyberpunk_story",
+  "pub_id": "242ad9ce-f7b4-4680-b682-5beacec300ef",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_242ad9ce_slide_233_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_242ad9ce_slide_233_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_242ad9ce_slide_233_02.jpg"
+  ],
+  "caption": "Scouting the industrial textures for Raw Signal this morning.\n\nThe damp concrete and old metal under the tracks have the right grit. It’s a quiet start to the day. #RawSignal #NeoTokyo",
+  "next_time": 1796026500,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_242ad9ce_slide_233_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_242ad9ce_slide_233_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_242ad9ce_slide_233_02.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_242ad9ce_fb_reel_233.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_242ad9ce_story_slide_233_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_242ad9ce_slide_233_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_242ad9ce_slide_233_02.jpg"
+  ],
+  "threads_caption": "Scouting the industrial textures for Raw Signal this morning.\n\nThe damp concrete and old metal under the tracks have the right grit. It’s a quiet start to the day.\n\n#RawSignal",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      9
+    ],
+    "timezone": ""
+  }
+}
