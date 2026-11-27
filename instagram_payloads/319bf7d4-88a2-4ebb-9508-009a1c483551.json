@@ -18,5 +18,23 @@
   },
   "publish_tiktok": true,
   "publish_youtube": false,
-  "tiktok_text": "The village's biggest snowball just decided to take a shortcut! ☃️ Stay safe, everyone! #miniatures #winterwonderland #diorama #miniatureworld"
+  "tiktok_text": "The village's biggest snowball just decided to take a shortcut! ☃️ Stay safe, everyone! #miniatures #winterwonderland #diorama #miniatureworld",
+  "instagram_tried": true,
+  "instagram_media_id": "18390200590239424",
+  "done": {
+    "instagram": true,
+    "instagram_story": true,
+    "facebook": true,
+    "facebook_story": true,
+    "threads": true
+  },
+  "attempts": {},
+  "threads_media_id": "18121488773324624",
+  "buffer_posts": {
+    "tiktok": {
+      "post_id": "6b099c37b83ec61257d8c88d",
+      "status": "sending",
+      "creation_uncertain": false
+    }
+  }
 }
