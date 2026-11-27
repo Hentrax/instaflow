@@ -1,0 +1,22 @@
+{
+  "compte": "miniature",
+  "pub_id": "2a85b1e3-d0bf-4c08-bc6f-e7fd5ece5e34",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_2a85b1e3_video_444.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "A simple domestic disagreement over breakfast turns into a sudden, kinetic surprise in this miniature 1970s kitchen.",
+  "next_time": 1795852800,
+  "storage": "release",
+  "threads_caption": "A simple domestic disagreement over breakfast turns into a sudden, kinetic surprise in this miniature 1970s kitchen.",
+  "schedule": {
+    "delay_hours": 7.0,
+    "quiet_hours": [
+      17,
+      9
+    ],
+    "timezone": ""
+  },
+  "publish_tiktok": true,
+  "publish_youtube": false,
+  "tiktok_text": "A simple domestic disagreement over breakfast turns into a sudden, kinetic surprise in this miniature 1970s kitchen."
+}
