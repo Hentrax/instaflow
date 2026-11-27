@@ -18,5 +18,23 @@
   },
   "publish_tiktok": true,
   "publish_youtube": false,
-  "tiktok_text": "One box to rule them all, but only one feline king can claim the cardboard throne. 📦👑 #catlife #catfight #boxobsession #felinefeud #funnycats #catlogic"
+  "tiktok_text": "One box to rule them all, but only one feline king can claim the cardboard throne. 📦👑 #catlife #catfight #boxobsession #felinefeud #funnycats #catlogic",
+  "instagram_tried": true,
+  "instagram_media_id": "18122147467974435",
+  "done": {
+    "instagram": true,
+    "instagram_story": true,
+    "facebook": true,
+    "facebook_story": true,
+    "threads": true
+  },
+  "attempts": {},
+  "threads_media_id": "17885989038534753",
+  "buffer_posts": {
+    "tiktok": {
+      "post_id": "6b0947b3776ce2127600db7b",
+      "status": "sending",
+      "creation_uncertain": false
+    }
+  }
 }
