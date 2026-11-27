@@ -1,6 +1,6 @@
 # 📊 Dashboard de Publication
 
-✅ **Dernier run sans erreur** — 27/11/2026 12:06:28
+✅ **Dernier run sans erreur** — 27/11/2026 12:16:32
 
 ## ⚠️ Avertissements (best effort, non bloquants)
 
