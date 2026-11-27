@@ -1,0 +1,46 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "67c51984-ff7b-4bfc-96a3-4ad5339753e0",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_67c51984_slide_7318_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_67c51984_slide_7318_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_67c51984_slide_7318_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_67c51984_slide_7318_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_67c51984_slide_7318_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_67c51984_slide_7318_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_67c51984_slide_7318_06.jpg"
+  ],
+  "caption": "Un homme paralyse les robotaxis Waymo en exploitant leur propre logiciel de sécurité 🥚\n\nÀ Denver, un individu a trouvé une faille comportementale : il utilise des cônes de chantier pour bloquer les véhicules autonomes, qui refusent de les franchir par sécurité. Waymo a recensé plus de 30 attaques de ce type, coûtant environ 2 000 $ par nettoyage. 🚗⚠️🛡️💰\n\nPour les entreprises de transport autonome et les développeurs de logiciels de conduite, cela souligne la difficulté de gérer les interactions imprévisibles entre l'IA et les humains dans l'espace public.\n\nSource : Numerama\n\n#IA #Robotaxis #Waymo #Technologie #Autonome #Denver",
+  "next_time": 1796022000,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_67c51984_slide_7318_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_67c51984_slide_7318_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_67c51984_slide_7318_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_67c51984_slide_7318_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_67c51984_slide_7318_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_67c51984_slide_7318_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_67c51984_slide_7318_06.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_67c51984_fb_reel_7318.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_67c51984_story_slide_7318_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_67c51984_story_slide_7318_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_67c51984_story_slide_7318_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_67c51984_story_slide_7318_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_67c51984_story_slide_7318_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_67c51984_story_slide_7318_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_67c51984_story_slide_7318_06.jpg"
+  ],
+  "threads_caption": "Un homme paralyse les robotaxis Waymo en exploitant leur propre logiciel de sécurité 🥚\n\nÀ Denver, un individu a trouvé une faille comportementale : il utilise des cônes de chantier pour bloquer les véhicules autonomes, qui refusent de les franchir par sécurité. Waymo a recensé plus de 30 attaques de ce type, coûtant environ 2 000 $ par nettoyage.\n\nSource : Numerama\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
