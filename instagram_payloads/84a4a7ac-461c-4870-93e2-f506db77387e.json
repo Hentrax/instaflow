@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "84a4a7ac-461c-4870-93e2-f506db77387e",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_84a4a7ac_video_7026.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Grok a réussi à « démasquer » une entreprise que la CNIL voulait garder anonyme 🕵️‍♂️\n\nL'autorité française a sanctionné une société de 5 millions d'euros pour avoir stocké 1,8 million de mots de passe en clair. Ces mots de passe étaient lisibles par n'importe quel employé, au lieu d'être protégés par un hachage sécurisé. Pour protéger la réputation de l'assureur, la CNIL a choisi de ne pas nommer l'entreprise dans son communiqué officiel. Mais moins d'une heure après l'annonce, Grok a identifié la société en croisant des articles de presse parus quelques mois plus tôt. L'assureur Macif Vie a fini par confirmer qu'il était bien la cible de la sanction et a assuré avoir corrigé ses failles de sécurité. Pour les responsables de la cybersécurité et les régulateurs, cela montre qu'une IA peut facilement briser l'anonymat des données publiques.\n\nSources: Numerama\n\n#IA #Grok #Cybersecurite #CNIL",
+  "next_time": 1796040000,
+  "storage": "release",
+  "threads_caption": "Grok a réussi à « démasquer » une entreprise que la CNIL voulait garder anonyme 🕵️‍♂️\n\nL'autorité française a sanctionné une société de 5 millions d'euros pour avoir stocké 1,8 million de mots de passe en clair. Ces mots de passe étaient lisibles par n'importe quel employé, au lieu d'être protégés par un hachage sécurisé. Pour protéger la réputation de l'assureur, la CNIL a choisi de ne pas nommer l'entreprise dans son communiqué officiel.\n\nSources: Numerama\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
