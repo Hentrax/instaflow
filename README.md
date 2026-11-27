@@ -1,6 +1,10 @@
 # 📊 Dashboard de Publication
 
-✅ **Dernier run sans erreur** — 27/11/2026 08:04:40
+✅ **Dernier run sans erreur** — 27/11/2026 08:21:22
+
+## ⚠️ Avertissements (best effort, non bloquants)
+
+- `miniature: TikTok a6f53a38-5506-4249-a38a-c20e4765a916 -> médias lisibles, échec côté Meta, reprise au prochain run : post TikTok -> Variable "$id" of type "String!" used in position expecting type "PostId!".`
 
 📦 **Total publiés historiquement :** 885
 
