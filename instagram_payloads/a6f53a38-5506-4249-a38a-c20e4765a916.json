@@ -18,5 +18,23 @@
   },
   "publish_tiktok": true,
   "publish_youtube": false,
-  "tiktok_text": "There is a profound quietude in the way the cherry blossoms rest on the rooftops. Every detail feels lived-in, a frozen moment of daily life in a miniature sanctuary that captures a sense of eternal peace."
+  "tiktok_text": "There is a profound quietude in the way the cherry blossoms rest on the rooftops. Every detail feels lived-in, a frozen moment of daily life in a miniature sanctuary that captures a sense of eternal peace.",
+  "instagram_tried": true,
+  "instagram_media_id": "18130311764515301",
+  "done": {
+    "instagram": true,
+    "instagram_story": true,
+    "facebook": true,
+    "facebook_story": true,
+    "threads": true
+  },
+  "attempts": {},
+  "threads_media_id": "17963563323034884",
+  "buffer_posts": {
+    "tiktok": {
+      "post_id": "6b09398e658222306cf40b07",
+      "status": "sending",
+      "creation_uncertain": false
+    }
+  }
 }
