@@ -1,0 +1,19 @@
+{
+  "compte": "cyberpunk_story",
+  "pub_id": "0ad3ec9f-133c-4696-9c76-536b53d0859a",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_0ad3ec9f_slide_236_00.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "A little downtime by the water to map out 'Raw Signal.'\n\nThe sketches are starting to look like real metal and dust.\nFinding the right vibe in the old ruins is harder than it looks. ☕️\n\n#RawSignal #NeoTokyo #CreativeProcess",
+  "next_time": 1796035500,
+  "storage": "release",
+  "threads_caption": "A little downtime by the water to map out 'Raw Signal.'\n\nThe sketches are starting to look like real metal and dust.\nFinding the right vibe in the old ruins is harder than it looks.\n\n☕️ #RawSignal",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      9
+    ],
+    "timezone": ""
+  }
+}
