@@ -1,0 +1,34 @@
+{
+  "compte": "cyberpunk_story",
+  "pub_id": "1d6f2923-6f0d-44d0-a10e-55c18987629c",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_1d6f2923_slide_237_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_1d6f2923_slide_237_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_1d6f2923_slide_237_02.jpg"
+  ],
+  "caption": "Hunting for rust for the Raw Signal campaign.\n\nSpent the afternoon in the industrial zone.\nCapturing textures to finish the mood board Julian and I finalized.\nIt’s exactly the kind of grit I was looking for. 🦾\n\n#RawSignal #NeoTokyo",
+  "next_time": 1796049000,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_1d6f2923_slide_237_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_1d6f2923_slide_237_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_1d6f2923_slide_237_02.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_1d6f2923_fb_reel_237.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_1d6f2923_story_slide_237_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_1d6f2923_slide_237_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_1d6f2923_slide_237_02.jpg"
+  ],
+  "threads_caption": "Hunting for rust for the Raw Signal campaign.\n\nSpent the afternoon in the industrial zone.\nCapturing textures to finish the mood board Julian and I finalized.\nIt’s exactly the kind of grit I was looking for.\n\n🦾 #RawSignal",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      9
+    ],
+    "timezone": ""
+  }
+}
