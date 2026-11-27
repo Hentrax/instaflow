@@ -1671,7 +1671,7 @@ mutation createPost($input: CreatePostInput!) {
 """
 
 _BUFFER_READ = """
-query($id: String!) {
+query($id: PostId!) {
   post(input: {id: $id}) { id status }
 }
 """
