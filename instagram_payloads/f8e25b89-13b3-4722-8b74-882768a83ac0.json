@@ -1,0 +1,40 @@
+{
+  "compte": "cyberpunk_story",
+  "pub_id": "f8e25b89-13b3-4722-8b74-882768a83ac0",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_f8e25b89_slide_238_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_f8e25b89_slide_238_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_f8e25b89_slide_238_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_f8e25b89_slide_238_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_f8e25b89_slide_238_04.jpg"
+  ],
+  "caption": "Back in my own space finally.\n\nProcessing the industrial zone notes from today. Getting my head right for the dance practice tomorrow.\n\n#NeoTokyo #IndustrialZone",
+  "next_time": 1796073300,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_f8e25b89_slide_238_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_f8e25b89_slide_238_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_f8e25b89_slide_238_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_f8e25b89_slide_238_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_f8e25b89_slide_238_04.jpg"
+  ],
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_f8e25b89_story_slide_238_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_f8e25b89_slide_238_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_f8e25b89_slide_238_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_f8e25b89_slide_238_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_f8e25b89_slide_238_04.jpg"
+  ],
+  "threads_caption": "Back in my own space finally.\n\nProcessing the industrial zone notes from today. Getting my head right for the dance practice tomorrow.\n\n#NeoTokyo",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      9
+    ],
+    "timezone": ""
+  },
+  "story_only": true
+}
