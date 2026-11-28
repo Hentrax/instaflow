@@ -1,0 +1,46 @@
+{
+  "compte": "cyberpunk_story",
+  "pub_id": "546d6d67-e0cf-4365-82e0-d755b29b7bb6",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_546d6d67_slide_241_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_546d6d67_slide_241_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_546d6d67_slide_241_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_546d6d67_slide_241_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_546d6d67_slide_241_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_546d6d67_slide_241_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_546d6d67_slide_241_06.jpg"
+  ],
+  "caption": "Training for the 'Raw Signal' campaign tonight.\n\nGetting my muscles to memorize the flow before Julian gets his hands on the camera. 🦾\n\n#NeoTokyo #RawSignal #Movement",
+  "next_time": 1796144400,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_546d6d67_slide_241_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_546d6d67_slide_241_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_546d6d67_slide_241_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_546d6d67_slide_241_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_546d6d67_slide_241_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_546d6d67_slide_241_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_546d6d67_slide_241_06.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_546d6d67_fb_reel_241.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_546d6d67_story_slide_241_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_546d6d67_slide_241_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_546d6d67_slide_241_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_546d6d67_slide_241_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_546d6d67_slide_241_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_546d6d67_slide_241_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_546d6d67_slide_241_06.jpg"
+  ],
+  "threads_caption": "Training for the 'Raw Signal' campaign tonight.\n\nGetting my muscles to memorize the flow before Julian gets his hands on the camera.\n\n🦾 #NeoTokyo",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      9
+    ],
+    "timezone": ""
+  }
+}
