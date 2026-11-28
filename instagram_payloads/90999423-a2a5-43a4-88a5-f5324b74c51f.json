@@ -1,0 +1,46 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "90999423-a2a5-43a4-88a5-f5324b74c51f",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_90999423_slide_7316_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_90999423_slide_7316_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_90999423_slide_7316_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_90999423_slide_7316_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_90999423_slide_7316_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_90999423_slide_7316_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_90999423_slide_7316_06.jpg"
+  ],
+  "caption": "L'IA résout des problèmes mathématiques plus vite que les humains ne peuvent les vérifier 🤯.\n\nNous entrons dans une ère de \"l'abondance des preuves\" où la simple résolution d'une conjecture perd de sa valeur. Pour y faire face, le prix Fields Terence Tao propose les \"Maths 2.0\" : utiliser l'IA pour générer des explications compréhensibles plutôt que de simples résultats bruts. En parallèle, une nouvelle vague de \"neolabs\" délaisse le simple passage à l'échelle pour explorer des frontières comme l'apprentissage continu ou les données exclusives. 🚀📊🔬\n\nPour les chercheurs et développeurs : la valeur ne réside plus dans la production de résultats, mais dans la capacité à interpréter, valider et guider les découvertes de l'IA.\n\nSources : THE DECODER · Numerama\n\n#IntelligenceArtificielle #Mathématiques #IA #Recherche #Technologie #Innovation",
+  "next_time": 1796126400,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_90999423_slide_7316_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_90999423_slide_7316_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_90999423_slide_7316_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_90999423_slide_7316_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_90999423_slide_7316_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_90999423_slide_7316_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_90999423_slide_7316_06.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_90999423_fb_reel_7316.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_90999423_story_slide_7316_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_90999423_story_slide_7316_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_90999423_story_slide_7316_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_90999423_story_slide_7316_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_90999423_story_slide_7316_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_90999423_story_slide_7316_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_90999423_story_slide_7316_06.jpg"
+  ],
+  "threads_caption": "L'IA résout des problèmes mathématiques plus vite que les humains ne peuvent les vérifier 🤯.\n\nNous entrons dans une ère de \"l'abondance des preuves\" où la simple résolution d'une conjecture perd de sa valeur. Pour y faire face, le prix Fields Terence Tao propose les \"Maths 2.0\" : utiliser l'IA pour générer des explications compréhensibles plutôt que de simples résultats bruts.\n\nSources : THE DECODER · Numerama\n\n#IntelligenceArtificielle",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
