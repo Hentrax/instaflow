@@ -1,0 +1,22 @@
+{
+  "compte": "miniature",
+  "pub_id": "63735747-f443-421e-bd4f-c39b17542897",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_63735747_video_250.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "The Azure Express is preparing for its daily journey across the coastal cliffs. It's a steady rhythm we work to maintain, a small world governed by our steady hands behind the scenes.",
+  "next_time": 1796457600,
+  "storage": "release",
+  "threads_caption": "The Azure Express is preparing for its daily journey across the coastal cliffs. It's a steady rhythm we work to maintain, a small world governed by our steady hands behind the scenes.",
+  "schedule": {
+    "delay_hours": 7.0,
+    "quiet_hours": [
+      17,
+      9
+    ],
+    "timezone": ""
+  },
+  "publish_tiktok": true,
+  "publish_youtube": false,
+  "tiktok_text": "The Azure Express is preparing for its daily journey across the coastal cliffs. It's a steady rhythm we work to maintain, a small world governed by our steady hands behind the scenes."
+}
