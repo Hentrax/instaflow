@@ -1,0 +1,19 @@
+{
+  "compte": "cyberpunk_story",
+  "pub_id": "60ac8c87-7bdc-4c16-90bd-56e687924d46",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/cyberpunk_story_60ac8c87_slide_239_00.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Watching the city stack up on my way out this morning.\nThe scale of Neo-Tokyo is starting to feel like a lot.\nJust another quiet tram ride.\n#NeoTokyo #Commute",
+  "next_time": 1796121000,
+  "storage": "release",
+  "threads_caption": "Watching the city stack up on my way out this morning.\nThe scale of Neo-Tokyo is starting to feel like a lot.\nJust another quiet tram ride.\n\n#NeoTokyo",
+  "schedule": {
+    "delay_hours": 25.0,
+    "quiet_hours": [
+      22,
+      9
+    ],
+    "timezone": ""
+  }
+}
