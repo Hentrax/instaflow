@@ -18,5 +18,23 @@
   },
   "publish_tiktok": true,
   "publish_youtube": false,
-  "tiktok_text": "I have stared into the face of the Smooth-Faced One. 🐾 It knows I see it. #SetLife #HorrorCat #ActionHero"
+  "tiktok_text": "I have stared into the face of the Smooth-Faced One. 🐾 It knows I see it. #SetLife #HorrorCat #ActionHero",
+  "instagram_tried": true,
+  "instagram_media_id": "18388602625239439",
+  "done": {
+    "instagram": true,
+    "instagram_story": true,
+    "facebook": true,
+    "facebook_story": true,
+    "threads": true
+  },
+  "attempts": {},
+  "threads_media_id": "17935269036165897",
+  "buffer_posts": {
+    "tiktok": {
+      "post_id": "6b0a98f039e8ec74f0262b7e",
+      "status": "sending",
+      "creation_uncertain": false
+    }
+  }
 }
