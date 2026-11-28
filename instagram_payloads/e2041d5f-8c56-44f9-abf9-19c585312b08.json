@@ -1,0 +1,22 @@
+{
+  "compte": "miniature",
+  "pub_id": "e2041d5f-8c56-44f9-abf9-19c585312b08",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/miniature_e2041d5f_video_412.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "A small apothecary district nestled within the quiet of the library archives. It is a study of textures—wood, stone, and the soft, tactile fuzz of the inhabitants—though today it seems to be enduring a rather overwhelming harvest.",
+  "next_time": 1796482800,
+  "storage": "release",
+  "threads_caption": "A small apothecary district nestled within the quiet of the library archives. It is a study of textures—wood, stone, and the soft, tactile fuzz of the inhabitants—though today it seems to be enduring a rather overwhelming harvest.",
+  "schedule": {
+    "delay_hours": 7.0,
+    "quiet_hours": [
+      17,
+      9
+    ],
+    "timezone": ""
+  },
+  "publish_tiktok": true,
+  "publish_youtube": false,
+  "tiktok_text": "A small apothecary district nestled within the quiet of the library archives. It is a study of textures—wood, stone, and the soft, tactile fuzz of the inhabitants—though today it seems to be enduring a rather overwhelming harvest."
+}
