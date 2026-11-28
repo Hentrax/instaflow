@@ -1,0 +1,46 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "7cc03f4b-fa05-4abd-9d66-341660d820ef",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7cc03f4b_slide_7232_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7cc03f4b_slide_7232_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7cc03f4b_slide_7232_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7cc03f4b_slide_7232_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7cc03f4b_slide_7232_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7cc03f4b_slide_7232_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7cc03f4b_slide_7232_06.jpg"
+  ],
+  "caption": "Anthropic lance Claude Ship : l'IA va désormais valider votre code à votre place 🚀\n\nL'IA écrit du code si vite que les humains deviennent le goulot d'étranglement. Claude Ship arrive pour automatiser la relecture, la correction et même l'approbation des modifications sur GitHub. 🤖💻✅\n\nPour les développeurs et les équipes tech utilisant Claude Team ou Enterprise sur GitHub. Cela permet d'accélérer les cycles de déploiement en déléguant les tâches répétitives à l'IA.\n\nSources : Numerama · TechCrunch · The Decoder\n\n#IA #Anthropic #ClaudeShip #Programmation #DevOps #CodeReview",
+  "next_time": 1796058000,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7cc03f4b_slide_7232_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7cc03f4b_slide_7232_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7cc03f4b_slide_7232_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7cc03f4b_slide_7232_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7cc03f4b_slide_7232_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7cc03f4b_slide_7232_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7cc03f4b_slide_7232_06.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7cc03f4b_fb_reel_7232.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7cc03f4b_story_slide_7232_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7cc03f4b_story_slide_7232_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7cc03f4b_story_slide_7232_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7cc03f4b_story_slide_7232_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7cc03f4b_story_slide_7232_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7cc03f4b_story_slide_7232_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_7cc03f4b_story_slide_7232_06.jpg"
+  ],
+  "threads_caption": "Anthropic lance Claude Ship : l'IA va désormais valider votre code à votre place 🚀\n\nL'IA écrit du code si vite que les humains deviennent le goulot d'étranglement. Claude Ship arrive pour automatiser la relecture, la correction et même l'approbation des modifications sur GitHub. 🤖💻✅\n\nPour les développeurs et les équipes tech utilisant Claude Team ou Enterprise sur GitHub.\n\nSources : Numerama · TechCrunch · The Decoder\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}

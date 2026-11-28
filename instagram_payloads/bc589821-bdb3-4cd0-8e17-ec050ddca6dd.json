@@ -1,0 +1,46 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "bc589821-bdb3-4cd0-8e17-ec050ddca6dd",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bc589821_slide_7200_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bc589821_slide_7200_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bc589821_slide_7200_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bc589821_slide_7200_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bc589821_slide_7200_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bc589821_slide_7200_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bc589821_slide_7200_06.jpg"
+  ],
+  "caption": "AWS lance Strands Decider v2 : un modèle spécialisé pour prendre des décisions précises au lieu de simplement générer du texte ⚖️\n\nAmazon sort une nouvelle famille de modèles \"open-weight\" conçus pour une tâche précise : choisir la meilleure option parmi une liste donnée. Contrairement aux LLM classiques, Strands Decider v2 lit les contextes dans les deux sens pour ne rater aucun détail crucial. 🚀 Il permet d'automatiser des choix logiques complexes avec une grande efficacité. 📊\n\nPour les développeurs et ingénieurs IA qui veulent automatiser des choix logiques (tri de tickets, routage de requêtes) tout en réduisant drastiquement les coûts de tokens.\n\nSource : VentureBeat\n\n#IA #Amazon #AWS #MachineLearning #OpenSource #TechNews",
+  "next_time": 1796108400,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bc589821_slide_7200_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bc589821_slide_7200_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bc589821_slide_7200_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bc589821_slide_7200_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bc589821_slide_7200_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bc589821_slide_7200_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bc589821_slide_7200_06.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bc589821_fb_reel_7200.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bc589821_story_slide_7200_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bc589821_story_slide_7200_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bc589821_story_slide_7200_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bc589821_story_slide_7200_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bc589821_story_slide_7200_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bc589821_story_slide_7200_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_bc589821_story_slide_7200_06.jpg"
+  ],
+  "threads_caption": "AWS lance Strands Decider v2 : un modèle spécialisé pour prendre des décisions précises au lieu de simplement générer du texte ⚖️\n\nAmazon sort une nouvelle famille de modèles \"open-weight\" conçus pour une tâche précise : choisir la meilleure option parmi une liste donnée. Contrairement aux LLM classiques, Strands Decider v2 lit les contextes dans les deux sens pour ne rater aucun détail crucial.\n\nSource : VentureBeat\n\n#IA",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
