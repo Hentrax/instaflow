@@ -1,0 +1,19 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "d7591fbd-4dd8-458d-b4af-69edb5c5a457",
+  "media_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_d7591fbd_video_7336.mp4",
+  "media_type": "VIDEO",
+  "image_url": null,
+  "caption": "Yann LeCun pense que les modèles de langage comme ChatGPT ne suffiront jamais à atteindre une intelligence humaine. 🧠\n\nLe pionnier de l'IA mise sur une architecture différente appelée JEPA. Contrairement aux LLM, ces « modèles de monde » apprennent à comprendre les relations de cause à effet. Ils sont conçus pour planifier des actions dans le monde physique, plutôt que de simplement prédire le mot suivant. Trois nouvelles études de Meta et d'AMI Labs confirment cette approche pour le futur de la robotique et des objets connectés. LeCun a d'ailleurs quitté Meta fin 2025 pour fonder AMI Labs avec plus d'un milliard de dollars de financement. Cette avancée est cruciale pour les ingénieurs en robotique et les développeurs de systèmes autonomes qui cherchent à créer des machines capables d'interagir avec notre environnement réel.\n\nSource : The Decoder\n\n#IntelligenceArtificielle #YannLeCun #Robotique #JEPA #Meta",
+  "next_time": 1796194800,
+  "storage": "release",
+  "threads_caption": "Yann LeCun pense que les modèles de langage comme ChatGPT ne suffiront jamais à atteindre une intelligence humaine. 🧠\n\nLe pionnier de l'IA mise sur une architecture différente appelée JEPA. Contrairement aux LLM, ces « modèles de monde » apprennent à comprendre les relations de cause à effet. Ils sont conçus pour planifier des actions dans le monde physique, plutôt que de simplement prédire le mot suivant.\n\nSource : The Decoder\n\n#IntelligenceArtificielle",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
