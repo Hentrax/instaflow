@@ -1,0 +1,46 @@
+{
+  "compte": "ia_actus",
+  "pub_id": "9fc86899-3fe4-428a-8bde-a270a828adcd",
+  "media_type": "CAROUSEL",
+  "children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9fc86899_slide_7304_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9fc86899_slide_7304_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9fc86899_slide_7304_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9fc86899_slide_7304_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9fc86899_slide_7304_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9fc86899_slide_7304_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9fc86899_slide_7304_06.jpg"
+  ],
+  "caption": "Le prochain modèle phare de Z.ai est repoussé à 2027 à cause des restrictions américaines 🛑\n\nFace aux sanctions sur les puces Nvidia, au blocage des données par OpenAI/Anthropic et aux restrictions sur la distillation de modèles, les géants chinois de l'IA ralentissent. Z.ai repousse son modèle GLM-5.5 à 2027, tandis que Moonshot AI voit son cycle de développement doubler 📉.\n\nCette situation impacte directement les investisseurs et les chercheurs en IA en Chine, qui doivent réévaluer les calendriers de déploiement des modèles de pointe.\n\nSource : The Decoder\n\n#IntelligenceArtificielle #LLM #Zai #MachineLearning #InnovationTech #Geopolitique",
+  "next_time": 1796144400,
+  "storage": "release",
+  "fb_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9fc86899_slide_7304_00.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9fc86899_slide_7304_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9fc86899_slide_7304_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9fc86899_slide_7304_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9fc86899_slide_7304_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9fc86899_slide_7304_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9fc86899_slide_7304_06.jpg"
+  ],
+  "fb_reel_url": "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9fc86899_fb_reel_7304.mp4",
+  "story_slides": true,
+  "story_children": [
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9fc86899_story_slide_7304_00.mp4",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9fc86899_story_slide_7304_01.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9fc86899_story_slide_7304_02.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9fc86899_story_slide_7304_03.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9fc86899_story_slide_7304_04.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9fc86899_story_slide_7304_05.jpg",
+    "https://github.com/Hentrax/instaflow/releases/download/media-storage/ia_actus_9fc86899_story_slide_7304_06.jpg"
+  ],
+  "threads_caption": "Le prochain modèle phare de Z.ai est repoussé à 2027 à cause des restrictions américaines 🛑\n\nFace aux sanctions sur les puces Nvidia, au blocage des données par OpenAI/Anthropic et aux restrictions sur la distillation de modèles, les géants chinois de l'IA ralentissent. Z.ai repousse son modèle GLM-5.5 à 2027, tandis que Moonshot AI voit son cycle de développement doubler 📉.\n\nSource : The Decoder\n\n#IntelligenceArtificielle",
+  "schedule": {
+    "delay_hours": 5.0,
+    "quiet_hours": [
+      23,
+      8
+    ],
+    "timezone": ""
+  }
+}
